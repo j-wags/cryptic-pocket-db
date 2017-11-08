@@ -1,0 +1,13 @@
+query, 5lau
+ph, 6.5
+ligand, AR6
+inchi, InChI=1S/C15H23N5O14P2/c16-12-7-13(18-3-17-12)20(4-19-7)14-10(23)8(21)5(32-14)1-30-35(26,27)34-36(28,29)31-2-6-9(22)11(24)15(25)33-6/h3-6,8-11,14-15,21-25H,1-2H2,(H,26,27)(H,28,29)(H2,16,17,18)/t5-,6-,8-,9-,10-,11-,14-,15+/m1/s1
+size, 44
+rotatable_bond, 9
+LMCSS, 5lau, AR6, chain: A, (size: 44, mcss_size: 44, resolution: 1.35) 
+LMCSS, 5l9k, AR6, chain: A, (size: 44, mcss_size: 44, resolution: 1.77) 
+SMCSS, 5l9q, ADP, chain: A, (size: 31, mcss_size: 31, resolution: 1.75) 
+hiResHolo, 5lau, AR6, chain: A, (resolution: 1.35)
+hiResApo, 5lbp
+hiTanimoto, 5lau, AR6, chain: A, (tanimoto_similarity:  1.0, resolution: 1.35)
+hiTanimoto, 5l9k, AR6, chain: A, (tanimoto_similarity:  1.0, resolution: 1.77)

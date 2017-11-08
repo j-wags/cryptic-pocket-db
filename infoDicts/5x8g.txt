@@ -1,0 +1,13 @@
+query, 5x8g
+ph, 6.5
+ligand, S0N
+inchi, InChI=1S/C32H45N8O20P3/c1-32(2,26(45)29(46)36-10-9-22(43)35-12-11-34-21(42)8-7-19(41)17-5-3-4-6-18(17)31(47)48)14-57-63(54,55)60-62(52,53)56-13-20-25(59-61(49,50)51)24(44)30(58-20)40-16-39-23-27(33)37-15-38-28(23)40/h3-6,15-16,20,24-26,30,44-45H,7-14H2,1-2H3,(H,34,42)(H,35,43)(H,36,46)(H,47,48)(H,52,53)(H,54,55)(H2,33,37,38)(H2,49,50,51)/t20-,24-,25-,26+,30-/m1/s1
+size, 68
+rotatable_bond, 24
+LMCSS, 5x8f, S0N, chain: A, (size: 68, mcss_size: 68, resolution: 1.76) 
+LMCSS, 5x8g, S0N, chain: A, (size: 68, mcss_size: 68, resolution:  1.9) 
+SMCSS, 5gtd, OSB, chain: A, (size: 16, mcss_size: 15, resolution: 2.69) 
+hiResHolo, 5x8f, S0N, chain: A, (resolution: 1.76)
+hiResApo, 5buq
+hiTanimoto, 5x8f, S0N, chain: A, (tanimoto_similarity:  1.0, resolution: 1.76)
+hiTanimoto, 5x8g, S0N, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)

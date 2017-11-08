@@ -1,0 +1,12 @@
+query, 5kmc
+ph, 6.1
+ligand, 6UU
+inchi, InChI=1S/C10H13N2O3P/c13-16(14,15)12-6-5-8-7-11-10-4-2-1-3-9(8)10/h1-4,7,11H,5-6H2,(H3,12,13,14,15)
+size, 16
+rotatable_bond, 4
+LMCSS, 5ipc, 6CE, chain: A, (size: 39, mcss_size: 15, resolution:  1.3) 
+SMCSS, 5o8g, MLI, chain: B, (size: 7, mcss_size: 3, resolution:  1.5) 
+hiResHolo, 3o1x, ADN, chain: A, (resolution: 1.08)
+hiResHolo, 3o1c, ADN, chain: A, (resolution: 1.08)
+hiResApo, 5emt
+hiTanimoto, 5ipc, 6CE, chain: A, (tanimoto_similarity: 0.49, resolution:  1.3)

@@ -1,0 +1,19 @@
+query, 5g4w
+ph, 7
+ligand, GUO
+inchi, InChI=1S/C15H25N5O15P2/c16-12(25)7-13(17-3-18-14-10(23)8(21)5(34-14)1-32-36(26,27)28)20(4-19-7)15-11(24)9(22)6(35-15)2-33-37(29,30)31/h3-6,8-11,14-15,21-24H,1-2H2,(H2,16,25)(H,17,18)(H2,26,27,28)(H2,29,30,31)/t5-,6-,8-,9-,10-,11-,14-,15-/m1/s1
+size, 45
+rotatable_bond, 11
+LMCSS, 5a5w, GUO, chain: A, (size: 45, mcss_size: 45, resolution:  1.6) 
+LMCSS, 5abt, GUO, chain: A, (size: 45, mcss_size: 45, resolution: 1.65) 
+LMCSS, 5ahi, GUO, chain: A, (size: 45, mcss_size: 45, resolution:  2.0) 
+LMCSS, 5ahf, GUO, chain: A, (size: 45, mcss_size: 45, resolution:  2.2) 
+LMCSS, 5g4w, GUO, chain: A, (size: 45, mcss_size: 45, resolution:  2.3) 
+SMCSS, 5ab3, 2ER, chain: A, (size: 43, mcss_size: 26, resolution:  1.8) 
+hiResHolo, 5a5w, GUO, chain: A, (resolution:  1.6)
+hiResApo, 5g2i
+hiTanimoto, 5a5w, GUO, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)
+hiTanimoto, 5abt, GUO, chain: A, (tanimoto_similarity:  1.0, resolution: 1.65)
+hiTanimoto, 5ahi, GUO, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5ahf, GUO, chain: A, (tanimoto_similarity:  1.0, resolution:  2.2)
+hiTanimoto, 5g4w, GUO, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)

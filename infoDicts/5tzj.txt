@@ -1,0 +1,13 @@
+query, 5tzj
+ph, 5.5
+ligand, UD1
+inchi, InChI=1S/C17H27N3O17P2/c1-6(22)18-10-13(26)11(24)7(4-21)35-16(10)36-39(31,32)37-38(29,30)33-5-8-12(25)14(27)15(34-8)20-3-2-9(23)19-17(20)28/h2-3,7-8,10-16,21,24-27H,4-5H2,1H3,(H,18,22)(H,29,30)(H,31,32)(H,19,23,28)/t7-,8-,10-,11-,12-,13-,14-,15-,16-/m1/s1
+size, 48
+rotatable_bond, 10
+LMCSS, 5tzj, UD1, chain: A, (size: 48, mcss_size: 48, resolution:  1.9) 
+LMCSS, 5tze, UD1, chain: C, (size: 48, mcss_size: 48, resolution: 2.33) 
+SMCSS, 5tzk, UDP, chain: C, (size: 29, mcss_size: 29, resolution: 2.22) 
+hiResHolo, 5tzj, UD1, chain: A, (resolution:  1.9)
+hiResApo, 5tzi
+hiTanimoto, 5tzj, UD1, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)
+hiTanimoto, 5tze, UD1, chain: C, (tanimoto_similarity:  1.0, resolution: 2.33)

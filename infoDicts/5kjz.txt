@@ -1,0 +1,10 @@
+query, 5kjz
+ph, 6.4
+ligand, PCG
+inchi, InChI=1S/C10H12N5O7P/c11-10-13-7-4(8(17)14-10)12-2-15(7)9-5(16)6-3(21-9)1-20-23(18,19)22-6/h2-3,5-6,9,16H,1H2,(H,18,19)(H3,11,13,14,17)/t3-,5-,6-,9-/m1/s1
+size, 27
+rotatable_bond, 1
+LMCSS, 5kjz, PCG, chain: A, (size: 27, mcss_size: 27, resolution: 1.35) 
+SMCSS, 5kjx, CMP, chain: A, (size: 26, mcss_size: 26, resolution:  1.9) 
+hiResHolo, 5kjz, PCG, chain: A, (resolution: 1.35)
+hiTanimoto, 5kjz, PCG, chain: A, (tanimoto_similarity:  1.0, resolution: 1.35)

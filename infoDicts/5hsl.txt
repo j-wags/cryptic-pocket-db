@@ -1,0 +1,11 @@
+query, 5hsl
+ph, 3.5
+ligand, BHA
+inchi, InChI=1S/C7H7NO3/c8-4-1-2-5(7(10)11)6(9)3-4/h1-3,9H,8H2,(H,10,11)
+size, 11
+rotatable_bond, 1
+LMCSS, 5x7z, BHA, chain: A, (size: 11, mcss_size: 11, resolution:  2.2) 
+SMCSS, 5x80, SAL, chain: A, (size: 10, mcss_size: 9, resolution:  2.4) 
+hiResHolo, 5x7z, BHA, chain: A, (resolution:  2.2)
+hiResApo, 5hsm
+hiTanimoto, 5x7z, BHA, chain: A, (tanimoto_similarity:  1.0, resolution:  2.2)

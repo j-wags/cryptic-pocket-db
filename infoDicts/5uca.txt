@@ -1,0 +1,11 @@
+query, 5uca
+ph, N/A
+ligand, DAO
+inchi, InChI=1S/C12H24O2/c1-2-3-4-5-6-7-8-9-10-11-12(13)14/h2-11H2,1H3,(H,13,14)
+size, 14
+rotatable_bond, 10
+LMCSS, 5uca, DAO, chain: B, (size: 14, mcss_size: 14, resolution: 2.12) 
+SMCSS, 2q32, OXN, chain: A, (size: 45, mcss_size: 6, resolution:  2.4) 
+hiResHolo, 5uca, DAO, chain: B, (resolution: 2.12)
+hiResApo, 5uc9
+hiTanimoto, 5uca, DAO, chain: B, (tanimoto_similarity:  1.0, resolution: 2.12)

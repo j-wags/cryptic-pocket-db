@@ -1,0 +1,13 @@
+query, 5iga
+ph, 8.5
+ligand, PHB
+inchi, InChI=1S/C7H6O3/c8-6-3-1-5(2-4-6)7(9)10/h1-4,8H,(H,9,10)
+size, 10
+rotatable_bond, 1
+LMCSS, 5iga, PHB, chain: A, (size: 10, mcss_size: 10, resolution: 1.45) 
+LMCSS, 5izz, 3HP, chain: A, (size: 11, mcss_size: 10, resolution:  1.6) 
+LMCSS, 5i5p, PHB, chain: A, (size: 10, mcss_size: 10, resolution:  1.6) 
+SMCSS, 5i7i, 3HB, chain: A, (size: 10, mcss_size: 9, resolution:  1.3) 
+hiResHolo, 5i7i, 3HB, chain: A, (resolution:  1.3)
+hiTanimoto, 5iga, PHB, chain: A, (tanimoto_similarity:  1.0, resolution: 1.45)
+hiTanimoto, 5i5p, PHB, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)

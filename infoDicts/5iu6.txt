@@ -1,0 +1,13 @@
+query, 5iu6
+ph, N/A
+ligand, 7HX
+inchi, InChI=1S/C6H5N3O/c10-6-4-1-2-7-5(4)8-3-9-6/h1-3H,(H2,7,8,9,10)
+size, 10
+rotatable_bond, 0
+LMCSS, 1pr0, NOS, chain: A, (size: 23, mcss_size: 9, resolution:  2.2) 
+LMCSS, 5i3c, AC2, chain: A, (size: 16, mcss_size: 9, resolution: 2.32) 
+LMCSS, 1pr5, TBN, chain: A, (size: 23, mcss_size: 9, resolution:  2.5) 
+SMCSS, 1ovg, MDR, chain: A, (size: 21, mcss_size: 6, resolution:  2.2) 
+hiResHolo, 4ts9, FMC, chain: A, (resolution: 1.77)
+hiResApo, 4rj2
+hiTanimoto, 1pr5, TBN, chain: A, (tanimoto_similarity: 0.40, resolution:  2.5)

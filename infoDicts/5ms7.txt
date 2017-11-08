@@ -1,0 +1,13 @@
+query, 5ms7
+ph, 5.6
+ligand, BA
+inchi, InChI=1S/Ba/q+2
+size, 1
+rotatable_bond, 0
+LMCSS, 5ms7, BA, chain: A, (size: 1, mcss_size: 0, resolution:  2.8) 
+LMCSS, 5ms8, BA, chain: A, (size: 1, mcss_size: 0, resolution: 2.85) 
+SMCSS, 5ms7, BA, chain: A, (size: 1, mcss_size: 0, resolution:  2.8) 
+hiResHolo, 5ms7, BA, chain: A, (resolution:  2.8)
+hiResApo, 5hzy
+hiTanimoto, 5ms7, BA, chain: A, (tanimoto_similarity:  1.0, resolution:  2.8)
+hiTanimoto, 5ms8, BA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.85)

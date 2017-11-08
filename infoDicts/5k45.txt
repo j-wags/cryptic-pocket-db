@@ -1,0 +1,13 @@
+query, 5k45
+ph, 7.5
+ligand, GLU
+inchi, InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/t3-/m0/s1
+size, 11
+rotatable_bond, 4
+LMCSS, 5k45, GLU, chain: A, (size: 11, mcss_size: 11, resolution: 1.63) 
+LMCSS, 5k4h, GLU, chain: A, (size: 11, mcss_size: 11, resolution:  2.0) 
+SMCSS, 5k4g, ASP, chain: A, (size: 10, mcss_size: 8, resolution:  1.6) 
+hiResHolo, 5k4g, ASP, chain: A, (resolution:  1.6)
+hiResApo, 1wsa
+hiTanimoto, 5k45, GLU, chain: A, (tanimoto_similarity:  1.0, resolution: 1.63)
+hiTanimoto, 5k4h, GLU, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)

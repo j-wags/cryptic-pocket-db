@@ -1,0 +1,10 @@
+query, 5tpv
+ph, 5
+ligand, TYD
+inchi, InChI=1S/C10H16N2O11P2/c1-5-3-12(10(15)11-9(5)14)8-2-6(13)7(22-8)4-21-25(19,20)23-24(16,17)18/h3,6-8,13H,2,4H2,1H3,(H,19,20)(H,11,14,15)(H2,16,17,18)/t6-,7+,8+/m0/s1
+size, 28
+rotatable_bond, 6
+LMCSS, 5tpv, TYD, chain: A, (size: 28, mcss_size: 28, resolution: 2.14) 
+SMCSS, 5tpv, TYD, chain: A, (size: 28, mcss_size: 28, resolution: 2.14) 
+hiResHolo, 5tpv, TYD, chain: A, (resolution: 2.14)
+hiTanimoto, 5tpv, TYD, chain: A, (tanimoto_similarity:  1.0, resolution: 2.14)

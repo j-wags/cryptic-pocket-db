@@ -1,0 +1,28 @@
+query, 5kjl
+ph, 7.5
+ligand, SAM
+inchi, InChI=1S/C15H22N6O5S/c1-27(3-2-7(16)15(24)25)4-8-10(22)11(23)14(26-8)21-6-20-9-12(17)18-5-19-13(9)21/h5-8,10-11,14,22-23H,2-4,16H2,1H3,(H2-,17,18,19,24,25)/t7-,8+,10+,11+,14+,27-/m0/s1
+size, 32
+rotatable_bond, 7
+LMCSS, 5arf, SAM, chain: A, (size: 32, mcss_size: 32, resolution: 1.92) 
+LMCSS, 5kjk, SAM, chain: A, (size: 32, mcss_size: 32, resolution: 1.93) 
+LMCSS, 5arg, SAM, chain: A, (size: 32, mcss_size: 32, resolution: 1.99) 
+LMCSS, 3tg4, SAM, chain: A, (size: 32, mcss_size: 32, resolution:  2.0) 
+LMCSS, 5kjm, SAM, chain: A, (size: 32, mcss_size: 32, resolution: 2.19) 
+LMCSS, 3s7b, SAM, chain: A, (size: 32, mcss_size: 32, resolution: 2.42) 
+LMCSS, 5kjl, SAM, chain: A, (size: 32, mcss_size: 32, resolution:  2.7) 
+LMCSS, 5kjn, SAM, chain: A, (size: 32, mcss_size: 32, resolution: 2.72) 
+LMCSS, 4ynd, SAM, chain: A, (size: 32, mcss_size: 32, resolution: 2.79) 
+LMCSS, 3s7f, SAM, chain: A, (size: 32, mcss_size: 32, resolution: 2.85) 
+SMCSS, 5kjk, BU3, chain: A, (size: 8, mcss_size: 8, resolution: 1.93) 
+hiResHolo, 4wuy, SAH, chain: A, (resolution: 1.63)
+hiTanimoto, 5arf, SAM, chain: A, (tanimoto_similarity:  1.0, resolution: 1.92)
+hiTanimoto, 5kjk, SAM, chain: A, (tanimoto_similarity:  1.0, resolution: 1.93)
+hiTanimoto, 5arg, SAM, chain: A, (tanimoto_similarity:  1.0, resolution: 1.99)
+hiTanimoto, 3tg4, SAM, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5kjm, SAM, chain: A, (tanimoto_similarity:  1.0, resolution: 2.19)
+hiTanimoto, 3s7b, SAM, chain: A, (tanimoto_similarity:  1.0, resolution: 2.42)
+hiTanimoto, 5kjl, SAM, chain: A, (tanimoto_similarity:  1.0, resolution:  2.7)
+hiTanimoto, 5kjn, SAM, chain: A, (tanimoto_similarity:  1.0, resolution: 2.72)
+hiTanimoto, 4ynd, SAM, chain: A, (tanimoto_similarity:  1.0, resolution: 2.79)
+hiTanimoto, 3s7f, SAM, chain: A, (tanimoto_similarity:  1.0, resolution: 2.85)

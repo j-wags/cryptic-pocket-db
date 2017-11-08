@@ -1,0 +1,10 @@
+query, 5vwm
+ph, 7.7
+ligand, C90
+inchi, InChI=1S/C24H27N3O5/c1-17(28)22(24(30)26-31)25-23(29)21-10-8-19(9-11-21)3-2-18-4-6-20(7-5-18)16-27-12-14-32-15-13-27/h4-11,17,22,28,31H,12-16H2,1H3,(H,25,29)(H,26,30)/t17-,22+/m1/s1
+size, 34
+rotatable_bond, 6
+LMCSS, 5vwm, C90, chain: A, (size: 34, mcss_size: 34, resolution:  1.8) 
+SMCSS, 5vwm, C90, chain: A, (size: 34, mcss_size: 34, resolution:  1.8) 
+hiResHolo, 5vwm, C90, chain: A, (resolution:  1.8)
+hiTanimoto, 5vwm, C90, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)

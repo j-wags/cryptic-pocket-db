@@ -1,0 +1,15 @@
+query, 5inu
+ph, 5.8
+ligand, OXY
+inchi, InChI=1S/O2/c1-2
+size, 2
+rotatable_bond, 0
+LMCSS, 5inu, OXY, chain: A, (size: 2, mcss_size: 2, resolution: 1.98) 
+LMCSS, 5ims, OXY, chain: A, (size: 2, mcss_size: 2, resolution: 1.98) 
+LMCSS, 5inv, OXY, chain: A, (size: 2, mcss_size: 2, resolution: 2.28) 
+SMCSS, 5fem, 60G, chain: A, (size: 28, mcss_size: 0, resolution: 2.17) 
+hiResHolo, 5inu, OXY, chain: A, (resolution: 1.98)
+hiResHolo, 5ims, OXY, chain: A, (resolution: 1.98)
+hiTanimoto, 5inu, OXY, chain: A, (tanimoto_similarity:  1.0, resolution: 1.98)
+hiTanimoto, 5ims, OXY, chain: A, (tanimoto_similarity:  1.0, resolution: 1.98)
+hiTanimoto, 5inv, OXY, chain: A, (tanimoto_similarity:  1.0, resolution: 2.28)

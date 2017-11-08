@@ -1,0 +1,11 @@
+query, 5jna
+ph, 4.6
+ligand, TOR
+inchi, InChI=1S/C12H21NO8S/c1-10(2)18-7-5-16-12(6-17-22(13,14)15)9(8(7)19-10)20-11(3,4)21-12/h7-9H,5-6H2,1-4H3,(H2,13,14,15)/t7-,8-,9+,12+/m1/s1
+size, 25
+rotatable_bond, 3
+LMCSS, 5jna, TOR, chain: A, (size: 25, mcss_size: 25, resolution:  2.0) 
+SMCSS, 5ku6, MZM, chain: A, (size: 14, mcss_size: 4, resolution:  1.8) 
+hiResHolo, 3fw3, GLC, chain: A, (resolution: 1.72)
+hiResApo, 1znc
+hiTanimoto, 5jna, TOR, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)

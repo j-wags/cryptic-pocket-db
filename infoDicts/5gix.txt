@@ -1,0 +1,12 @@
+query, 5gix
+ph, 7.4
+ligand, 6WF
+inchi, InChI=1S/C17H19N3OS.Fe/c21-16-9-8-13-6-2-3-7-14(13)15(16)12-18-19-17(22)20-10-4-1-5-11-20;/h2-3,6-9,12,21H,1,4-5,10-11H2,(H,19,22);/q;+1/p-1/b18-12+;
+size, 24
+rotatable_bond, 2
+LMCSS, 4lb9, EVP, chain: A, (size: 52, mcss_size: 13, resolution:  2.7) 
+LMCSS, 4l9q, 9TP, chain: A, (size: 56, mcss_size: 13, resolution:  2.7) 
+LMCSS, 4lb2, DM5, chain: A, (size: 41, mcss_size: 13, resolution:  2.8) 
+SMCSS, 5x52, AME, chain: A, (size: 13, mcss_size: 4, resolution: 3.01) 
+hiResHolo, 4l8u, 9AZ, chain: A, (resolution: 2.01)
+hiTanimoto, 4iw1, FUD, chain: A, (tanimoto_similarity: 0.49, resolution: 2.56)

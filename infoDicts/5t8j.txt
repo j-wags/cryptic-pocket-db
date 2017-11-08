@@ -1,0 +1,10 @@
+query, 5t8j
+ph, 7.2
+ligand, 77T
+inchi, InChI=1S/C14H17FN2O/c1-9-12(5-4-11(8-16)13(9)15)17-7-6-14(3,18)10(17)2/h4-5,10,18H,6-7H2,1-3H3/t10-,14-/m0/s1
+size, 19
+rotatable_bond, 1
+LMCSS, 5cj6, 51Y, chain: A, (size: 19, mcss_size: 18, resolution: 2.07) 
+SMCSS, 1t7r, DHT, chain: A, (size: 26, mcss_size: 7, resolution:  1.4) 
+hiResHolo, 1t7r, DHT, chain: A, (resolution:  1.4)
+hiTanimoto, 5cj6, 51Y, chain: A, (tanimoto_similarity: 0.55, resolution: 2.07)

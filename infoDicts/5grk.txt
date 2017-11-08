@@ -1,0 +1,11 @@
+query, 5grk
+ph, 4
+ligand, XAN
+inchi, InChI=1S/C5H4N4O2/c10-4-2-3(7-1-6-2)8-5(11)9-4/h1H,(H3,6,7,8,9,10,11)
+size, 11
+rotatable_bond, 0
+LMCSS, 5grk, XAN, chain: A, (size: 11, mcss_size: 11, resolution:  2.8) 
+SMCSS, 5gnw, URA, chain: A, (size: 8, mcss_size: 8, resolution: 2.87) 
+hiResHolo, 5grk, XAN, chain: A, (resolution:  2.8)
+hiResApo, 5gn2
+hiTanimoto, 5grk, XAN, chain: A, (tanimoto_similarity:  1.0, resolution:  2.8)

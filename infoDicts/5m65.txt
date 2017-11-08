@@ -1,0 +1,15 @@
+query, 5m65
+ph, 6.5
+ligand, ADE
+inchi, InChI=1S/C5H5N5/c6-4-3-5(9-1-7-3)10-2-8-4/h1-2H,(H3,6,7,8,9,10)
+size, 10
+rotatable_bond, 0
+LMCSS, 5m67, ADE, chain: A, (size: 10, mcss_size: 10, resolution: 1.54) 
+LMCSS, 4lvc, ADN, chain: A, (size: 23, mcss_size: 10, resolution: 1.74) 
+LMCSS, 5m5k, ADN, chain: A, (size: 23, mcss_size: 10, resolution: 1.84) 
+LMCSS, 5m66, ADN, chain: A, (size: 23, mcss_size: 10, resolution: 1.95) 
+LMCSS, 5m65, ADE, chain: A, (size: 10, mcss_size: 10, resolution: 1.95) 
+SMCSS, 5m67, ADE, chain: A, (size: 10, mcss_size: 10, resolution: 1.54) 
+hiResHolo, 5m67, ADE, chain: A, (resolution: 1.54)
+hiTanimoto, 5m67, ADE, chain: A, (tanimoto_similarity:  1.0, resolution: 1.54)
+hiTanimoto, 5m65, ADE, chain: A, (tanimoto_similarity:  1.0, resolution: 1.95)

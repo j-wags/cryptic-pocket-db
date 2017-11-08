@@ -1,0 +1,11 @@
+query, 5svf
+ph, N/A
+ligand, 70P
+inchi, InChI=1S/C18H22N4O2/c1-12(2)15-11-24-18(23)22(15)16-9-10-19-17(21-16)20-13(3)14-7-5-4-6-8-14/h4-10,12-13,15H,11H2,1-3H3,(H,19,20,21)/t13-,15+/m0/s1
+size, 26
+rotatable_bond, 3
+LMCSS, 5tqh, 7J2, chain: A, (size: 34, mcss_size: 21, resolution:  2.2) 
+SMCSS, 3inm, AKG, chain: A, (size: 10, mcss_size: 5, resolution:  2.1) 
+SMCSS, 4l03, AKG, chain: A, (size: 10, mcss_size: 5, resolution:  2.1) 
+hiResHolo, 4umx, VVS, chain: A, (resolution: 1.88)
+hiTanimoto, 5tqh, 7J2, chain: A, (tanimoto_similarity: 0.71, resolution:  2.2)

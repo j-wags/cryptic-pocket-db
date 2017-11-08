@@ -1,0 +1,11 @@
+query, 5gn5
+ph, N/A
+ligand, 6XZ
+inchi, InChI=1S/C21H22N2O5/c1-27-16-4-2-15(3-5-16)23-10-8-22(9-11-23)13-14-12-19(25)28-21-17(14)6-7-18(24)20(21)26/h2-7,12,24,26H,8-11,13H2,1H3
+size, 28
+rotatable_bond, 4
+LMCSS, 3wxl, ADP, chain: A, (size: 31, mcss_size: 9, resolution:  1.9) 
+SMCSS, 5azi, TPO, chain: B, (size: 14, mcss_size: 4, resolution: 2.45) 
+hiResHolo, 3wxl, ADP, chain: A, (resolution:  1.9)
+hiTanimoto, 5azi, TPO, chain: B, (tanimoto_similarity: 0.39, resolution: 2.45)
+hiTanimoto, 5azj, TPO, chain: B, (tanimoto_similarity: 0.39, resolution: 2.61)

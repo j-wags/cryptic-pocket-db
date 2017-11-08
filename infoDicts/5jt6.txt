@@ -1,0 +1,16 @@
+query, 5jt6
+ph, 5.5
+ligand, 6N1
+inchi, InChI=1S/C14H20N6O2/c15-19-13(21)10-1-2-11-12(9-10)18-14(17-11)16-3-4-20-5-7-22-8-6-20/h1-2,9H,3-8,15H2,(H,19,21)(H2,16,17,18)
+size, 22
+rotatable_bond, 4
+LMCSS, 4puj, CKR, chain: A, (size: 24, mcss_size: 21, resolution: 1.42) 
+LMCSS, 4q4r, SQO, chain: A, (size: 23, mcss_size: 21, resolution: 1.45) 
+LMCSS, 4gh1, 0WX, chain: A, (size: 33, mcss_size: 21, resolution: 1.45) 
+LMCSS, 4q8p, CKR, chain: A, (size: 24, mcss_size: 21, resolution: 1.45) 
+LMCSS, 4q8q, CKR, chain: A, (size: 24, mcss_size: 21, resolution: 1.72) 
+LMCSS, 4q8o, CKR, chain: A, (size: 24, mcss_size: 21, resolution: 1.89) 
+SMCSS, 2z1w, BDI, chain: A, (size: 15, mcss_size: 7, resolution: 1.63) 
+hiResHolo, 4q8w, 2YY, chain: A, (resolution: 1.14)
+hiResApo, 4q8m
+hiTanimoto, 4q4r, SQO, chain: A, (tanimoto_similarity: 0.63, resolution: 1.45)

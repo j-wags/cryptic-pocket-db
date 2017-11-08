@@ -1,0 +1,11 @@
+query, 5kmi
+ph, 6.5
+ligand, 6UE
+inchi, InChI=1S/C25H20N4O/c1-16-26-15-22(23(27-16)17-9-3-2-4-10-17)28-25(30)29-24-20-13-7-5-11-18(20)19-12-6-8-14-21(19)24/h2-15,24H,1H3,(H2,28,29,30)
+size, 30
+rotatable_bond, 3
+LMCSS, 4pms, 31X, chain: A, (size: 34, mcss_size: 13, resolution:  2.8) 
+SMCSS, 4pmp, 31W, chain: A, (size: 30, mcss_size: 9, resolution:  1.8) 
+hiResHolo, 4pmp, 31W, chain: A, (resolution:  1.8)
+hiResApo, 4f0i
+hiTanimoto, 4pms, 31X, chain: A, (tanimoto_similarity: 0.50, resolution:  2.8)

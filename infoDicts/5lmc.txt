@@ -1,0 +1,12 @@
+query, 5lmc
+ph, 6.5
+ligand, FEO
+inchi, InChI=1S/2Fe.O
+size, 3
+rotatable_bond, 0
+LMCSS, 4d02, O, chain: A, (size: 1, mcss_size: 0, resolution: 1.76) 
+LMCSS, 5lmc, FEO, chain: A, (size: 3, mcss_size: 0, resolution:  1.9) 
+SMCSS, 4d02, O, chain: A, (size: 1, mcss_size: 0, resolution: 1.76) 
+hiResHolo, 4d02, O, chain: A, (resolution: 1.76)
+hiTanimoto, 4d02, O, chain: A, (tanimoto_similarity:  1.0, resolution: 1.76)
+hiTanimoto, 5lmc, FEO, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)

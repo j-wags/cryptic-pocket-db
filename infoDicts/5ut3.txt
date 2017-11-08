@@ -1,0 +1,11 @@
+query, 5ut3
+ph, 8
+ligand, IK1
+inchi, InChI=1S/C12H11N3O2S/c13-10(16)8-6-9(7-4-2-1-3-5-7)18-11(8)15-12(14)17/h1-6H,(H2,13,16)(H3,14,15,17)
+size, 18
+rotatable_bond, 3
+LMCSS, 5ut3, IK1, chain: A, (size: 18, mcss_size: 18, resolution:  1.5) 
+SMCSS, 5i4n, ATP, chain: A, (size: 35, mcss_size: 5, resolution: 1.54) 
+hiResHolo, 5ut3, IK1, chain: A, (resolution:  1.5)
+hiResApo, 4fvp
+hiTanimoto, 5ut3, IK1, chain: A, (tanimoto_similarity:  1.0, resolution:  1.5)

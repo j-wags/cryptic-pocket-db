@@ -1,0 +1,11 @@
+query, 5twk
+ph, N/A
+ligand, SFG
+inchi, InChI=1S/C15H23N7O5/c16-6(1-2-7(17)15(25)26)3-8-10(23)11(24)14(27-8)22-5-21-9-12(18)19-4-20-13(9)22/h4-8,10-11,14,23-24H,1-3,16-17H2,(H,25,26)(H2,18,19,20)/t6-,7-,8+,10+,11+,14+/m0/s1
+size, 33
+rotatable_bond, 7
+LMCSS, 5twk, SFG, chain: A, (size: 33, mcss_size: 33, resolution:  2.1) 
+SMCSS, 5twj, SAM, chain: A, (size: 32, mcss_size: 22, resolution:  2.3) 
+hiResHolo, 5twk, SFG, chain: A, (resolution:  2.1)
+hiResApo, 1ns5
+hiTanimoto, 5twk, SFG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)

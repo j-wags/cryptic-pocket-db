@@ -1,0 +1,11 @@
+query, 5aan
+ph, N/A
+ligand, XOC
+inchi, InChI=1S/C19H21N3OS/c23-19(14-21-12-6-1-7-13-21)20-22-15-8-2-4-10-17(15)24-18-11-5-3-9-16(18)22/h2-5,8-11H,1,6-7,12-14H2,(H,20,23)
+size, 24
+rotatable_bond, 3
+LMCSS, 5g08, Z80, chain: A, (size: 21, mcss_size: 14, resolution: 1.52) 
+SMCSS, 5g08, Z80, chain: A, (size: 21, mcss_size: 14, resolution: 1.52) 
+hiResHolo, 5g08, Z80, chain: A, (resolution: 1.52)
+hiResApo, 4by5
+hiTanimoto, 5g08, Z80, chain: A, (tanimoto_similarity: 0.48, resolution: 1.52)

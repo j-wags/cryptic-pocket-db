@@ -1,0 +1,10 @@
+query, 5tso
+ph, 8
+ligand, PHN
+inchi, InChI=1S/C12H8N2/c1-3-9-5-6-10-4-2-8-14-12(10)11(9)13-7-1/h1-8H
+size, 14
+rotatable_bond, 0
+LMCSS, 5tso, PHN, chain: R, (size: 14, mcss_size: 14, resolution:  1.9) 
+SMCSS, 1j0x, CSX, chain: O, (size: 9, mcss_size: 3, resolution:  2.4) 
+hiResHolo, 5tso, PHN, chain: R, (resolution:  1.9)
+hiTanimoto, 5tso, PHN, chain: R, (tanimoto_similarity:  1.0, resolution:  1.9)

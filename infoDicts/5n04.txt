@@ -1,0 +1,22 @@
+query, 5n04
+ph, 3.5
+ligand, NAG
+inchi, InChI=1S/C8H15NO6/c1-3(11)9-5-7(13)6(12)4(2-10)15-8(5)14/h4-8,10,12-14H,2H2,1H3,(H,9,11)/t4-,5-,6-,7-,8-/m1/s1
+size, 20
+rotatable_bond, 2
+LMCSS, 5ach, NAG, chain: A, (size: 20, mcss_size: 20, resolution: 1.28) 
+LMCSS, 5n05, NAG, chain: A, (size: 20, mcss_size: 20, resolution: 1.58) 
+LMCSS, 5acj, NAG, chain: A, (size: 20, mcss_size: 20, resolution:  1.7) 
+LMCSS, 5aci, NAG, chain: A, (size: 20, mcss_size: 20, resolution: 1.75) 
+LMCSS, 5n04, NAG, chain: A, (size: 20, mcss_size: 20, resolution: 1.76) 
+LMCSS, 5acf, NAG, chain: A, (size: 20, mcss_size: 20, resolution:  1.8) 
+LMCSS, 5acg, NAG, chain: A, (size: 20, mcss_size: 20, resolution: 1.91) 
+SMCSS, 5ach, HIC, chain: A, (size: 13, mcss_size: 8, resolution: 1.28) 
+hiResHolo, 5ach, NAG, chain: A, (resolution: 1.28)
+hiTanimoto, 5ach, NAG, chain: A, (tanimoto_similarity:  1.0, resolution: 1.28)
+hiTanimoto, 5n05, NAG, chain: A, (tanimoto_similarity:  1.0, resolution: 1.58)
+hiTanimoto, 5acj, NAG, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)
+hiTanimoto, 5aci, NAG, chain: A, (tanimoto_similarity:  1.0, resolution: 1.75)
+hiTanimoto, 5n04, NAG, chain: A, (tanimoto_similarity:  1.0, resolution: 1.76)
+hiTanimoto, 5acf, NAG, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 5acg, NAG, chain: A, (tanimoto_similarity:  1.0, resolution: 1.91)

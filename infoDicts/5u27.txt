@@ -1,0 +1,10 @@
+query, 5u27
+ph, 4.6
+ligand, P65
+inchi, InChI=1S/C14H15Cl3N4O2/c1-7-12(13(18)21-14(19)20-7)23-4-2-3-22-11-6-9(16)8(15)5-10(11)17/h5-6H,2-4H2,1H3,(H4,18,19,20,21)
+size, 23
+rotatable_bond, 6
+LMCSS, 5u27, P65, chain: A, (size: 23, mcss_size: 23, resolution: 2.05) 
+SMCSS, 4km0, CP6, chain: A, (size: 17, mcss_size: 7, resolution:  1.3) 
+hiResHolo, 4klx, ATR, chain: A, (resolution: 1.23)
+hiTanimoto, 5u27, P65, chain: A, (tanimoto_similarity:  1.0, resolution: 2.05)

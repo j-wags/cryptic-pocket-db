@@ -1,0 +1,14 @@
+query, 5u53
+ph, N/A
+ligand, CAZ
+inchi, InChI=1S/C17H19N5O7S2/c1-7-5-30-13(21-10(7)14(25)26)8(4-23)19-12(24)11(9-6-31-16(18)20-9)22-29-17(2,3)15(27)28/h4,6,8,13H,1,5H2,2-3H3,(H2,18,20)(H,19,24)(H,25,26)(H,27,28)/b22-11-/t8-,13-/m1/s1
+size, 33
+rotatable_bond, 9
+LMCSS, 5u53, CAZ, chain: A, (size: 33, mcss_size: 33, resolution:  1.4) 
+LMCSS, 5twe, CAZ, chain: A, (size: 33, mcss_size: 33, resolution:  1.5) 
+LMCSS, 5tw6, CAZ, chain: A, (size: 33, mcss_size: 33, resolution:  1.7) 
+SMCSS, 3g2z, GZ2, chain: A, (size: 13, mcss_size: 5, resolution:  1.5) 
+hiResHolo, 4ua6, PCA, chain: A, (resolution: 0.79)
+hiTanimoto, 5u53, CAZ, chain: A, (tanimoto_similarity:  1.0, resolution:  1.4)
+hiTanimoto, 5twe, CAZ, chain: A, (tanimoto_similarity:  1.0, resolution:  1.5)
+hiTanimoto, 5tw6, CAZ, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)

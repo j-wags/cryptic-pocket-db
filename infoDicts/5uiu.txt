@@ -1,0 +1,14 @@
+query, 5uiu
+ph, N/A
+ligand, 8CG
+inchi, InChI=1S/C18H20FN3O4/c1-3-10-13(22-17(24)15(10)19)8-26-18-11-7-14(25-2)12(16(20)23)6-9(11)4-5-21-18/h4-7,10,13,15H,3,8H2,1-2H3,(H2,20,23)(H,22,24)/t10-,13+,15-/m0/s1
+size, 29
+rotatable_bond, 5
+LMCSS, 2nry, STU, chain: A, (size: 38, mcss_size: 13, resolution: 2.15) 
+LMCSS, 4u97, STU, chain: A, (size: 38, mcss_size: 13, resolution: 2.65) 
+LMCSS, 4u9a, STU, chain: A, (size: 38, mcss_size: 13, resolution:  2.8) 
+SMCSS, 5uit, SEP, chain: A, (size: 12, mcss_size: 6, resolution: 1.84) 
+hiResHolo, 5uit, TPO, chain: A, (resolution: 1.84)
+hiTanimoto, 2nry, STU, chain: A, (tanimoto_similarity: 0.50, resolution: 2.15)
+hiTanimoto, 4u97, STU, chain: A, (tanimoto_similarity: 0.50, resolution: 2.65)
+hiTanimoto, 4u9a, STU, chain: A, (tanimoto_similarity: 0.50, resolution:  2.8)

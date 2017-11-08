@@ -1,0 +1,10 @@
+query, 5uhz
+ph, 7
+ligand, 89Y
+inchi, InChI=1S/C5H8O5/c6-1-5(9)2-10-4(8)3(5)7/h3,6-7,9H,1-2H2/t3-,5+/m0/s1
+size, 11
+rotatable_bond, 1
+LMCSS, 5uib, TLA, chain: A, (size: 12, mcss_size: 10, resolution: 2.65) 
+SMCSS, 5uib, TLA, chain: A, (size: 12, mcss_size: 10, resolution: 2.65) 
+hiResHolo, 5uib, TLA, chain: A, (resolution: 2.65)
+hiTanimoto, 5uib, TLA, chain: A, (tanimoto_similarity: 0.46, resolution: 2.65)

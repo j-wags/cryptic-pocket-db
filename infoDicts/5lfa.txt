@@ -1,0 +1,12 @@
+query, 5lfa
+ph, 6
+ligand, DLZ
+inchi, InChI=1S/C13H18N4O6/c1-5-6(2)17(3-7(19)10(21)8(20)4-18)11-9(14-5)12(22)16-13(23)15-11/h7-8,10,18-21H,3-4H2,1-2H3,(H,16,22,23)/t7-,8+,10-/m0/s1
+size, 26
+rotatable_bond, 5
+LMCSS, 4dja, DLZ, chain: A, (size: 26, mcss_size: 26, resolution: 1.45) 
+LMCSS, 5lfa, DLZ, chain: A, (size: 26, mcss_size: 26, resolution:  2.5) 
+SMCSS, 4dja, DLZ, chain: A, (size: 26, mcss_size: 26, resolution: 1.45) 
+hiResHolo, 4dja, DLZ, chain: A, (resolution: 1.45)
+hiTanimoto, 4dja, DLZ, chain: A, (tanimoto_similarity:  1.0, resolution: 1.45)
+hiTanimoto, 5lfa, DLZ, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

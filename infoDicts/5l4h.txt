@@ -1,0 +1,10 @@
+query, 5l4h
+ph, N/A
+ligand, 6JW
+inchi, InChI=1S/C8H11BrN2O3/c1-2-8(3-4-9)5(12)10-7(14)11-6(8)13/h2-4H2,1H3,(H2,10,11,12,13,14)
+size, 14
+rotatable_bond, 3
+LMCSS, 5l4e, EDP, chain: D, (size: 17, mcss_size: 12, resolution:  3.5) 
+SMCSS, 5hcj, MBR, chain: E, (size: 4, mcss_size: 2, resolution: 2.95) 
+hiResHolo, 5hcj, MBR, chain: E, (resolution: 2.95)
+hiTanimoto, 5l4e, EDP, chain: D, (tanimoto_similarity: 0.54, resolution:  3.5)

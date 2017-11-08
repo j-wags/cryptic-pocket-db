@@ -1,0 +1,13 @@
+query, 5up8
+ph, N/A
+ligand, BYD
+inchi, InChI=1S/C8H8N2O4/c11-7(9-13)5-1-2-6(4-3-5)8(12)10-14/h1-4,13-14H,(H,9,11)(H,10,12)
+size, 14
+rotatable_bond, 2
+LMCSS, 5up8, BYD, chain: A, (size: 14, mcss_size: 14, resolution: 2.63) 
+LMCSS, 5cmr, BYD, chain: A, (size: 14, mcss_size: 14, resolution: 3.79) 
+SMCSS, 4y08, OXY, chain: A, (size: 2, mcss_size: 0, resolution: 1.34) 
+hiResHolo, 4y08, OXY, chain: A, (resolution: 1.34)
+hiResApo, 2cih
+hiTanimoto, 5up8, BYD, chain: A, (tanimoto_similarity:  1.0, resolution: 2.63)
+hiTanimoto, 5cmr, BYD, chain: A, (tanimoto_similarity:  1.0, resolution: 3.79)

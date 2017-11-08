@@ -1,0 +1,11 @@
+query, 5hkf
+ph, N/A
+ligand, PRP
+inchi, InChI=1S/C5H13O14P3/c6-3-2(1-16-20(8,9)10)17-5(4(3)7)18-22(14,15)19-21(11,12)13/h2-7H,1H2,(H,14,15)(H2,8,9,10)(H2,11,12,13)/t2-,3-,4-,5-/m1/s1
+size, 26
+rotatable_bond, 7
+LMCSS, 5hkf, PRP, chain: A, (size: 26, mcss_size: 26, resolution: 2.25) 
+SMCSS, 5hkf, PRP, chain: A, (size: 26, mcss_size: 26, resolution: 2.25) 
+hiResHolo, 5hkf, PRP, chain: A, (resolution: 2.25)
+hiResApo, 5hkl
+hiTanimoto, 5hkf, PRP, chain: A, (tanimoto_similarity:  1.0, resolution: 2.25)

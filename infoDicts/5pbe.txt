@@ -1,0 +1,11 @@
+query, 5pbe
+ph, 7
+ligand, TYL
+inchi, InChI=1S/C8H9NO2/c1-6(10)9-7-2-4-8(11)5-3-7/h2-5,11H,1H3,(H,9,10)
+size, 11
+rotatable_bond, 1
+LMCSS, 5pbe, TYL, chain: A, (size: 11, mcss_size: 11, resolution: 1.84) 
+SMCSS, 5pbc, ES3, chain: A, (size: 6, mcss_size: 4, resolution: 1.77) 
+hiResHolo, 5pb8, AC6, chain: A, (resolution: 1.65)
+hiResApo, 5pg1
+hiTanimoto, 5pbe, TYL, chain: A, (tanimoto_similarity:  1.0, resolution: 1.84)

@@ -1,0 +1,10 @@
+query, 5nak
+ph, 7
+ligand, KYN
+inchi, InChI=1S/C10H12N2O3/c11-7-4-2-1-3-6(7)9(13)5-8(12)10(14)15/h1-4,8H,5,11-12H2,(H,14,15)/t8-/m0/s1
+size, 16
+rotatable_bond, 4
+LMCSS, 5nak, KYN, chain: A, (size: 16, mcss_size: 16, resolution:  1.5) 
+SMCSS, 5mzi, FYK, chain: A, (size: 20, mcss_size: 7, resolution: 1.71) 
+hiResHolo, 5nak, KYN, chain: A, (resolution:  1.5)
+hiTanimoto, 5nak, KYN, chain: A, (tanimoto_similarity:  1.0, resolution:  1.5)

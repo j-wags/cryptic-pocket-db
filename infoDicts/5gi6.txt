@@ -1,0 +1,13 @@
+query, 5gi6
+ph, 7
+ligand, PEA
+inchi, InChI=1S/C8H11N/c9-7-6-8-4-2-1-3-5-8/h1-5H,6-7,9H2/p+1
+size, 9
+rotatable_bond, 2
+LMCSS, 5gi7, 54W, chain: A, (size: 12, mcss_size: 9, resolution:  1.2) 
+LMCSS, 5gii, 54W, chain: A, (size: 12, mcss_size: 9, resolution: 1.29) 
+LMCSS, 5gih, 54W, chain: A, (size: 12, mcss_size: 9, resolution: 1.39) 
+LMCSS, 5gi6, PEA, chain: A, (size: 9, mcss_size: 9, resolution: 1.65) 
+SMCSS, 5gi7, 54W, chain: A, (size: 12, mcss_size: 9, resolution:  1.2) 
+hiResHolo, 5gi7, 54W, chain: A, (resolution:  1.2)
+hiTanimoto, 5gi6, PEA, chain: A, (tanimoto_similarity:  1.0, resolution: 1.65)

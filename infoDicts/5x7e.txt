@@ -1,0 +1,12 @@
+query, 5x7e
+ph, 6.8
+ligand, 7ZU
+inchi, InChI=1S/C28H44O3/c1-18(9-10-19(2)27(4,5)31)24-13-14-25-21(8-7-15-28(24,25)6)11-12-22-16-23(29)17-26(30)20(22)3/h9-12,18-19,23-26,29-31H,3,7-8,13-17H2,1-2,4-6H3/b10-9+,21-11+,22-12-/t18-,19+,23-,24-,25+,26+,28-/m1/s1
+size, 41
+rotatable_bond, 5
+LMCSS, 3cv9, VDX, chain: A, (size: 37, mcss_size: 31, resolution:  1.7) 
+LMCSS, 2zbz, VDX, chain: A, (size: 37, mcss_size: 31, resolution:  1.9) 
+SMCSS, 3cv9, VDX, chain: A, (size: 37, mcss_size: 31, resolution:  1.7) 
+hiResHolo, 3cv9, VDX, chain: A, (resolution:  1.7)
+hiTanimoto, 3cv9, VDX, chain: A, (tanimoto_similarity: 0.93, resolution:  1.7)
+hiTanimoto, 2zbz, VDX, chain: A, (tanimoto_similarity: 0.93, resolution:  1.9)

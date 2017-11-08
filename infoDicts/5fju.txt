@@ -1,0 +1,10 @@
+query, 5fju
+ph, 8
+ligand, 5CR
+inchi, InChI=1S/C11H13NO3/c1-8(13)12-10(11(14)15)7-9-5-3-2-4-6-9/h2-6,10H,7H2,1H3,(H,12,13)(H,14,15)/t10-/m0/s1
+size, 16
+rotatable_bond, 4
+LMCSS, 1sjd, NPG, chain: A, (size: 19, mcss_size: 15, resolution: 1.87) 
+SMCSS, 1sjc, SMG, chain: A, (size: 17, mcss_size: 11, resolution:  2.1) 
+hiResHolo, 1sjd, NPG, chain: A, (resolution: 1.87)
+hiTanimoto, 1sjd, NPG, chain: A, (tanimoto_similarity: 0.54, resolution: 1.87)

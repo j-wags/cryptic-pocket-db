@@ -1,0 +1,10 @@
+query, 5wyf
+ph, 7.5
+ligand, ILP
+inchi, InChI=1S/C14H23N2O7P/c1-4-8(2)12(14(18)19)16-6-11-10(7-23-24(20,21)22)5-15-9(3)13(11)17/h5,8,12,16-17H,4,6-7H2,1-3H3,(H,18,19)(H2,20,21,22)/t8-,12+/m0/s1
+size, 26
+rotatable_bond, 9
+LMCSS, 5wyf, ILP, chain: A, (size: 26, mcss_size: 26, resolution: 2.12) 
+SMCSS, 5wyf, ILP, chain: A, (size: 26, mcss_size: 26, resolution: 2.12) 
+hiResHolo, 5wyf, ILP, chain: A, (resolution: 2.12)
+hiTanimoto, 5wyf, ILP, chain: A, (tanimoto_similarity:  1.0, resolution: 2.12)

@@ -1,0 +1,30 @@
+query, 5jwk
+ph, 7.5
+ligand, AKG
+inchi, InChI=1S/C5H6O5/c6-3(5(9)10)1-2-4(7)8/h1-2H2,(H,7,8)(H,9,10)
+size, 10
+rotatable_bond, 4
+LMCSS, 5jwp, AKG, chain: A, (size: 10, mcss_size: 10, resolution:  2.1) 
+LMCSS, 3d8c, AKG, chain: A, (size: 10, mcss_size: 10, resolution:  2.1) 
+LMCSS, 1h2l, AKG, chain: A, (size: 10, mcss_size: 10, resolution: 2.25) 
+LMCSS, 2y0i, AKG, chain: A, (size: 10, mcss_size: 10, resolution: 2.28) 
+LMCSS, 5jwk, AKG, chain: A, (size: 10, mcss_size: 10, resolution:  2.3) 
+LMCSS, 2ilm, AKG, chain: A, (size: 10, mcss_size: 10, resolution:  2.3) 
+LMCSS, 5jwl, AKG, chain: A, (size: 10, mcss_size: 10, resolution:  2.4) 
+LMCSS, 1mzf, AKG, chain: A, (size: 10, mcss_size: 10, resolution:  2.4) 
+LMCSS, 3p3n, AKG, chain: A, (size: 10, mcss_size: 10, resolution:  2.4) 
+LMCSS, 4z2w, AKG, chain: A, (size: 10, mcss_size: 10, resolution:  2.5) 
+SMCSS, 2ilm, BCT, chain: A, (size: 4, mcss_size: 3, resolution:  2.3) 
+hiResHolo, 5jwp, AKG, chain: A, (resolution:  2.1)
+hiResHolo, 4z1v, OGA, chain: A, (resolution:  2.1)
+hiResHolo, 3d8c, AKG, chain: A, (resolution:  2.1)
+hiTanimoto, 5jwp, AKG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)
+hiTanimoto, 3d8c, AKG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)
+hiTanimoto, 1h2l, AKG, chain: A, (tanimoto_similarity:  1.0, resolution: 2.25)
+hiTanimoto, 2y0i, AKG, chain: A, (tanimoto_similarity:  1.0, resolution: 2.28)
+hiTanimoto, 5jwk, AKG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)
+hiTanimoto, 2ilm, AKG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)
+hiTanimoto, 5jwl, AKG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.4)
+hiTanimoto, 1mzf, AKG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.4)
+hiTanimoto, 3p3n, AKG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.4)
+hiTanimoto, 4z2w, AKG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

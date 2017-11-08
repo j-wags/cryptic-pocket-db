@@ -1,0 +1,6 @@
+query, 5k21
+ph, N/A
+ligand, 6QF
+inchi, InChI=1S/C12H8N2O/c15-11-7-3-6-10-12(11)14-9-5-2-1-4-8(9)13-10/h1-7,15H
+size, 15
+rotatable_bond, 0

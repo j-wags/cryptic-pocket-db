@@ -1,0 +1,10 @@
+query, 5gl5
+ph, N/A
+ligand, UPG
+inchi, InChI=1S/C15H24N2O17P2/c18-3-5-8(20)10(22)12(24)14(32-5)33-36(28,29)34-35(26,27)30-4-6-9(21)11(23)13(31-6)17-2-1-7(19)16-15(17)25/h1-2,5-6,8-14,18,20-24H,3-4H2,(H,26,27)(H,28,29)(H,16,19,25)/t5-,6-,8-,9-,10+,11-,12-,13-,14-/m1/s1
+size, 45
+rotatable_bond, 9
+LMCSS, 5gl5, UPG, chain: A, (size: 45, mcss_size: 45, resolution:  1.9) 
+SMCSS, 5gl5, UPG, chain: A, (size: 45, mcss_size: 45, resolution:  1.9) 
+hiResHolo, 5gl5, UPG, chain: A, (resolution:  1.9)
+hiTanimoto, 5gl5, UPG, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)

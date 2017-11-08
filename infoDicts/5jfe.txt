@@ -1,0 +1,19 @@
+query, 5jfe
+ph, 6.6
+ligand, UMC
+inchi, InChI=1S/C9H15N2O8P/c12-5-3-8(11-2-1-7(13)10-9(11)14)19-6(5)4-18-20(15,16)17/h5-6,8,12H,1-4H2,(H,10,13,14)(H2,15,16,17)/t5-,6+,8+/m0/s1
+size, 23
+rotatable_bond, 4
+LMCSS, 4gt9, UMP, chain: A, (size: 23, mcss_size: 23, resolution: 1.39) 
+LMCSS, 4gta, UMP, chain: A, (size: 23, mcss_size: 23, resolution:  1.5) 
+LMCSS, 1o26, UMP, chain: A, (size: 23, mcss_size: 23, resolution:  1.6) 
+LMCSS, 4gtb, UMP, chain: A, (size: 23, mcss_size: 23, resolution:  1.7) 
+LMCSS, 4gtd, UMP, chain: A, (size: 23, mcss_size: 23, resolution: 1.76) 
+LMCSS, 4gtf, UMP, chain: A, (size: 23, mcss_size: 23, resolution: 1.77) 
+LMCSS, 4kas, DU, chain: A, (size: 23, mcss_size: 23, resolution: 1.85) 
+LMCSS, 5ios, UMP, chain: A, (size: 23, mcss_size: 23, resolution:  1.9) 
+LMCSS, 3g4a, UMP, chain: A, (size: 23, mcss_size: 23, resolution: 1.95) 
+LMCSS, 1o29, UFP, chain: A, (size: 24, mcss_size: 23, resolution:  2.0) 
+SMCSS, 5chp, 51Q, chain: A, (size: 15, mcss_size: 5, resolution:  1.7) 
+hiResHolo, 4gt9, UMP, chain: A, (resolution: 1.39)
+hiTanimoto, 5jfe, UMC, chain: A, (tanimoto_similarity:  1.0, resolution: 2.03)

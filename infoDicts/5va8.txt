@@ -1,0 +1,10 @@
+query, 5va8
+ph, 7.5
+ligand, TCE
+inchi, InChI=1S/C9H15O6P/c10-7(11)1-4-16(5-2-8(12)13)6-3-9(14)15/h1-6H2,(H,10,11)(H,12,13)(H,14,15)
+size, 16
+rotatable_bond, 9
+LMCSS, 5va8, TCE, chain: A, (size: 16, mcss_size: 16, resolution:  1.6) 
+SMCSS, 5va8, TCE, chain: A, (size: 16, mcss_size: 16, resolution:  1.6) 
+hiResHolo, 5va8, TCE, chain: A, (resolution:  1.6)
+hiTanimoto, 5va8, TCE, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)

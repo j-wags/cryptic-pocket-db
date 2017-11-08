@@ -1,0 +1,10 @@
+query, 5ifm
+ph, 8
+ligand, PRO
+inchi, InChI=1S/C5H9NO2/c7-5(8)4-2-1-3-6-4/h4,6H,1-3H2,(H,7,8)/t4-/m0/s1
+size, 9
+rotatable_bond, 1
+LMCSS, 5ifm, PRO, chain: A, (size: 9, mcss_size: 9, resolution:  2.6) 
+SMCSS, 5ifm, PRO, chain: A, (size: 9, mcss_size: 9, resolution:  2.6) 
+hiResHolo, 5ifm, PRO, chain: A, (resolution:  2.6)
+hiTanimoto, 5ifm, PRO, chain: A, (tanimoto_similarity:  1.0, resolution:  2.6)

@@ -1,0 +1,19 @@
+query, 5tie
+ph, 7.5
+ligand, OCA
+inchi, InChI=1S/C8H16O2/c1-2-3-4-5-6-7-8(9)10/h2-7H2,1H3,(H,9,10)
+size, 10
+rotatable_bond, 6
+LMCSS, 5tif, OCA, chain: A, (size: 10, mcss_size: 10, resolution: 0.97) 
+LMCSS, 5tie, OCA, chain: A, (size: 10, mcss_size: 10, resolution: 1.15) 
+LMCSS, 5tid, OCA, chain: A, (size: 10, mcss_size: 10, resolution:  1.2) 
+LMCSS, 1v2g, OCA, chain: A, (size: 10, mcss_size: 10, resolution:  2.0) 
+LMCSS, 1u8u, OCA, chain: A, (size: 10, mcss_size: 10, resolution: 2.08) 
+SMCSS, 1j00, SDP, chain: A, (size: 16, mcss_size: 5, resolution:  2.0) 
+hiResHolo, 5tif, OCA, chain: A, (resolution: 0.97)
+hiResApo, 5tic
+hiTanimoto, 5tif, OCA, chain: A, (tanimoto_similarity:  1.0, resolution: 0.97)
+hiTanimoto, 5tie, OCA, chain: A, (tanimoto_similarity:  1.0, resolution: 1.15)
+hiTanimoto, 5tid, OCA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.2)
+hiTanimoto, 1v2g, OCA, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 1u8u, OCA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.08)

@@ -1,0 +1,15 @@
+query, 5f11
+ph, 6
+ligand, FRU
+inchi, InChI=1S/C6H12O6/c7-1-3-4(9)5(10)6(11,2-8)12-3/h3-5,7-11H,1-2H2/t3-,4-,5+,6-/m1/s1
+size, 15
+rotatable_bond, 2
+LMCSS, 5eyn, FRU, chain: A, (size: 15, mcss_size: 15, resolution: 1.29) 
+LMCSS, 5f0z, FRU, chain: A, (size: 15, mcss_size: 15, resolution: 1.75) 
+LMCSS, 5f11, FRU, chain: A, (size: 15, mcss_size: 15, resolution:  2.3) 
+SMCSS, 5eyn, ADP, chain: A, (size: 31, mcss_size: 12, resolution: 1.29) 
+hiResHolo, 5eyn, FRU, chain: A, (resolution: 1.29)
+hiResApo, 5ey7
+hiTanimoto, 5eyn, FRU, chain: A, (tanimoto_similarity:  1.0, resolution: 1.29)
+hiTanimoto, 5f0z, FRU, chain: A, (tanimoto_similarity:  1.0, resolution: 1.75)
+hiTanimoto, 5f11, FRU, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)

@@ -1,0 +1,10 @@
+query, 5fgn
+ph, N/A
+ligand, BGL
+inchi, InChI=1S/C14H28O6/c1-2-3-4-5-6-7-8-19-13-12(17)11(16)10(9-15)20-14(13)18/h10-18H,2-9H2,1H3/t10-,11-,12+,13-,14-/m1/s1
+size, 25
+rotatable_bond, 9
+LMCSS, 5fgn, BGL, chain: A, (size: 25, mcss_size: 25, resolution: 2.75) 
+SMCSS, 5fgn, BGL, chain: A, (size: 25, mcss_size: 25, resolution: 2.75) 
+hiResHolo, 5fgn, BGL, chain: A, (resolution: 2.75)
+hiTanimoto, 5fgn, BGL, chain: A, (tanimoto_similarity:  1.0, resolution: 2.75)

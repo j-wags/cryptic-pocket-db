@@ -1,0 +1,10 @@
+query, 5jos
+ph, 8
+ligand, BEZ
+inchi, InChI=1S/C7H6O2/c8-7(9)6-4-2-1-3-5-6/h1-5H,(H,8,9)
+size, 9
+rotatable_bond, 1
+LMCSS, 5jos, BEZ, chain: A, (size: 9, mcss_size: 9, resolution:  2.1) 
+SMCSS, 5jos, BEZ, chain: A, (size: 9, mcss_size: 9, resolution:  2.1) 
+hiResHolo, 5jos, BEZ, chain: A, (resolution:  2.1)
+hiTanimoto, 5jos, BEZ, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)

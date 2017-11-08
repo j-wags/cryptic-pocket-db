@@ -1,0 +1,10 @@
+query, 5lbm
+ph, 6.5
+ligand, FOR
+inchi, InChI=1S/CH2O/c1-2/h1H2
+size, 2
+rotatable_bond, 0
+LMCSS, 5lbm, FOR, chain: A, (size: 2, mcss_size: 2, resolution:  2.7) 
+SMCSS, 5lbm, FOR, chain: A, (size: 2, mcss_size: 2, resolution:  2.7) 
+hiResHolo, 5lbm, FOR, chain: A, (resolution:  2.7)
+hiTanimoto, 5lbm, FOR, chain: A, (tanimoto_similarity:  1.0, resolution:  2.7)

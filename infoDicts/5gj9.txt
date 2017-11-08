@@ -1,0 +1,11 @@
+query, 5gj9
+ph, 5
+ligand, VGL
+inchi, InChI=1S/C5H4N2O2/c8-5(9)4-3-6-1-2-7-4/h1-3H,(H,8,9)
+size, 9
+rotatable_bond, 1
+LMCSS, 5gj9, VGL, chain: A, (size: 9, mcss_size: 9, resolution:  2.1) 
+SMCSS, 5gja, 6PC, chain: A, (size: 9, mcss_size: 8, resolution:  2.1) 
+hiResHolo, 5gja, 6PC, chain: A, (resolution:  2.1)
+hiResHolo, 5gj9, VGL, chain: A, (resolution:  2.1)
+hiTanimoto, 5gj9, VGL, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)

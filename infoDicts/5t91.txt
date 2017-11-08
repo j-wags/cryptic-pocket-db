@@ -1,0 +1,10 @@
+query, 5t91
+ph, 8.5
+ligand, BCN
+inchi, InChI=1S/C6H13NO4/c8-3-1-7(2-4-9)5-6(10)11/h8-9H,1-5H2,(H,10,11)
+size, 11
+rotatable_bond, 6
+LMCSS, 5t91, BCN, chain: A, (size: 11, mcss_size: 11, resolution: 1.53) 
+SMCSS, 5t9c, G3P, chain: E, (size: 11, mcss_size: 3, resolution: 1.48) 
+hiResHolo, 5t9c, G3P, chain: E, (resolution: 1.48)
+hiTanimoto, 5t91, BCN, chain: A, (tanimoto_similarity:  1.0, resolution: 1.53)

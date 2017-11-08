@@ -1,0 +1,12 @@
+query, 5jzb
+ph, 9.5
+ligand, 6OT
+inchi, InChI=1S/C6H5Cl2NO2S/c7-4-1-5(8)3-6(2-4)12(9,10)11/h1-3H,(H2,9,10,11)
+size, 12
+rotatable_bond, 1
+LMCSS, 2wue, KEK, chain: B, (size: 23, mcss_size: 7, resolution:  1.8) 
+SMCSS, 2wuf, KEM, chain: B, (size: 31, mcss_size: 4, resolution:  1.9) 
+hiResHolo, 2wug, HPK, chain: A, (resolution:  1.8)
+hiResHolo, 2wue, KEK, chain: B, (resolution:  1.8)
+hiResApo, 2wud
+hiTanimoto, 2wug, HPK, chain: A, (tanimoto_similarity: 0.38, resolution:  1.8)

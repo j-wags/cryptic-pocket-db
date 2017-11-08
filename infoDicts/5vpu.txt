@@ -1,0 +1,10 @@
+query, 5vpu
+ph, 6.5
+ligand, 3PG
+inchi, InChI=1S/C3H7O7P/c4-2(3(5)6)1-10-11(7,8)9/h2,4H,1H2,(H,5,6)(H2,7,8,9)/t2-/m1/s1
+size, 12
+rotatable_bond, 4
+LMCSS, 5vpu, 3PG, chain: A, (size: 12, mcss_size: 12, resolution:  1.5) 
+SMCSS, 5vpu, 3PG, chain: A, (size: 12, mcss_size: 12, resolution:  1.5) 
+hiResHolo, 5vpu, 3PG, chain: A, (resolution:  1.5)
+hiTanimoto, 5vpu, 3PG, chain: A, (tanimoto_similarity:  1.0, resolution:  1.5)

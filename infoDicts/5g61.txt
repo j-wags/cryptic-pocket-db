@@ -1,0 +1,12 @@
+query, 5g61
+ph, 8
+ligand, FNY
+inchi, InChI=1S/C30H52O26/c31-1-10-15(37)20(42)21(43)26(51-10)56-30(25(47)19(41)14(5-35)55-30)9-50-29(24(46)18(40)13(4-34)54-29)8-49-28(23(45)17(39)12(3-33)53-28)7-48-27(6-36)22(44)16(38)11(2-32)52-27/h10-26,31-47H,1-9H2/t10-,11+,12+,13+,14+,15+,16+,17+,18+,19-,20+,21+,22-,23-,24-,25+,26+,27+,28+,29+,30-/m0/s1
+size, 73
+rotatable_bond, 17
+LMCSS, 5g60, NYT, chain: A, (size: 59, mcss_size: 59, resolution: 1.99) 
+SMCSS, 5g5z, DQR, chain: A, (size: 45, mcss_size: 45, resolution: 2.01) 
+hiResHolo, 5g60, NYT, chain: A, (resolution: 1.99)
+hiResApo, 5g5y
+hiTanimoto, 5g60, NYT, chain: A, (tanimoto_similarity:  1.0, resolution: 1.99)
+hiTanimoto, 5g5z, DQR, chain: A, (tanimoto_similarity:  1.0, resolution: 2.01)

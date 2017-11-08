@@ -1,0 +1,16 @@
+query, 5v8s
+ph, 4
+ligand, FEO
+inchi, InChI=1S/2Fe.O
+size, 3
+rotatable_bond, 0
+LMCSS, 5v8s, FEO, chain: A, (size: 3, mcss_size: 0, resolution: 1.41) 
+LMCSS, 4dik, FEO, chain: A, (size: 3, mcss_size: 0, resolution: 1.75) 
+LMCSS, 1vme, FEO, chain: A, (size: 3, mcss_size: 0, resolution:  1.8) 
+LMCSS, 4dil, FEO, chain: A, (size: 3, mcss_size: 0, resolution:  2.0) 
+SMCSS, 5v8s, FEO, chain: A, (size: 3, mcss_size: 0, resolution: 1.41) 
+hiResHolo, 5v8s, FEO, chain: A, (resolution: 1.41)
+hiTanimoto, 5v8s, FEO, chain: A, (tanimoto_similarity:  1.0, resolution: 1.41)
+hiTanimoto, 4dik, FEO, chain: A, (tanimoto_similarity:  1.0, resolution: 1.75)
+hiTanimoto, 1vme, FEO, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 4dil, FEO, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)

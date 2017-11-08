@@ -1,0 +1,15 @@
+query, 5uud
+ph, N/A
+ligand, DMF
+inchi, InChI=1S/C3H7NO/c1-4(2)3-5/h3H,1-2H3
+size, 5
+rotatable_bond, 1
+LMCSS, 5uud, DMF, chain: A, (size: 5, mcss_size: 5, resolution:  1.6) 
+LMCSS, 1qf2, TI3, chain: A, (size: 32, mcss_size: 5, resolution: 2.06) 
+SMCSS, 5uub, XYP, chain: A, (size: 14, mcss_size: 0, resolution:  1.6) 
+SMCSS, 5uua, XYP, chain: A, (size: 14, mcss_size: 0, resolution:  1.6) 
+SMCSS, 5uu9, XYP, chain: A, (size: 14, mcss_size: 0, resolution:  1.6) 
+SMCSS, 5un3, XYP, chain: A, (size: 14, mcss_size: 0, resolution:  1.6) 
+hiResHolo, 5jvi, 6QC, chain: E, (resolution: 1.12)
+hiResApo, 3fxs
+hiTanimoto, 5uud, DMF, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)

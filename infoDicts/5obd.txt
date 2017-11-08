@@ -1,0 +1,14 @@
+query, 5obd
+ph, N/A
+ligand, 9Q8
+inchi, InChI=1S/3CO.3H2O.Ru/c3*1-2;;;;/h;;;3*1H2;/q3*+1;;;;+3/p-3
+size, 10
+rotatable_bond, 0
+LMCSS, 5jmg, CMO, chain: A, (size: 2, mcss_size: 2, resolution: 1.85) 
+LMCSS, 5jml, CMO, chain: A, (size: 2, mcss_size: 2, resolution: 2.29) 
+SMCSS, 1o0o, A2P, chain: A, (size: 31, mcss_size: 0, resolution:  1.2) 
+SMCSS, 1o0h, ADP, chain: A, (size: 31, mcss_size: 0, resolution:  1.2) 
+hiResHolo, 1o0o, A2P, chain: A, (resolution:  1.2)
+hiResHolo, 1o0h, ADP, chain: A, (resolution:  1.2)
+hiTanimoto, 5jmg, CMO, chain: A, (tanimoto_similarity:  1.0, resolution: 1.85)
+hiTanimoto, 5jml, CMO, chain: A, (tanimoto_similarity:  1.0, resolution: 2.29)

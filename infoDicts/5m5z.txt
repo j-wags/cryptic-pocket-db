@@ -1,0 +1,12 @@
+query, 5m5z
+ph, 6.8
+ligand, NAG
+inchi, InChI=1S/C8H15NO6/c1-3(11)9-5-7(13)6(12)4(2-10)15-8(5)14/h4-8,10,12-14H,2H2,1H3,(H,9,11)/t4-,5-,6-,7-,8-/m1/s1
+size, 20
+rotatable_bond, 2
+LMCSS, 5m5z, NAG, chain: A, (size: 20, mcss_size: 20, resolution: 1.25) 
+LMCSS, 5m60, NAG, chain: A, (size: 20, mcss_size: 20, resolution:  1.5) 
+SMCSS, 5m5z, PCA, chain: A, (size: 10, mcss_size: 9, resolution: 1.25) 
+hiResHolo, 5m5z, NAG, chain: A, (resolution: 1.25)
+hiTanimoto, 5m5z, NAG, chain: A, (tanimoto_similarity:  1.0, resolution: 1.25)
+hiTanimoto, 5m60, NAG, chain: A, (tanimoto_similarity:  1.0, resolution:  1.5)

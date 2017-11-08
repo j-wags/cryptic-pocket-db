@@ -1,0 +1,12 @@
+query, 5v8p
+ph, 7
+ligand, 90G
+inchi, InChI=1S/C11H10ClN3OS/c12-8-3-1-7(2-4-8)9-5-10(15-14-9)13-11(16)6-17/h1-5,17H,6H2,(H2,13,14,15,16)
+size, 17
+rotatable_bond, 2
+LMCSS, 2ilp, GB5, chain: A, (size: 15, mcss_size: 11, resolution:  1.9) 
+LMCSS, 2ima, GB4, chain: A, (size: 16, mcss_size: 11, resolution: 1.94) 
+SMCSS, 4kuf, LMR, chain: A, (size: 10, mcss_size: 3, resolution:  1.7) 
+hiResHolo, 4kuf, 0QL, chain: A, (resolution:  1.7)
+hiResApo, 3bon
+hiTanimoto, 3qiy, QI1, chain: A, (tanimoto_similarity: 0.52, resolution:  2.3)

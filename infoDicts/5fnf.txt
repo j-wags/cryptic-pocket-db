@@ -1,0 +1,12 @@
+query, 5fnf
+ph, 6.5
+ligand, TQL
+inchi, InChI=1S/C12H10N2O3/c15-9-3-4-10(11(16)6-9)12(14-17)8-2-1-5-13-7-8/h1-7,15-17H/b14-12+
+size, 17
+rotatable_bond, 2
+LMCSS, 5cf0, FJS, chain: A, (size: 37, mcss_size: 17, resolution:  1.8) 
+SMCSS, 3b24, B2J, chain: A, (size: 11, mcss_size: 4, resolution:  1.7) 
+hiResHolo, 3t10, ACP, chain: A, (resolution: 1.24)
+hiResApo, 3t0h
+hiTanimoto, 2ye2, XQI, chain: A, (tanimoto_similarity: 0.52, resolution:  1.9)
+hiTanimoto, 2yei, XQI, chain: A, (tanimoto_similarity: 0.52, resolution:  2.2)

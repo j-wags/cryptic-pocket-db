@@ -1,0 +1,12 @@
+query, 5fag
+ph, N/A
+ligand, PPI
+inchi, InChI=1S/C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5)
+size, 5
+rotatable_bond, 1
+LMCSS, 5fag, KCX, chain: A, (size: 14, mcss_size: 5, resolution: 1.51) 
+LMCSS, 5faj, KCX, chain: A, (size: 14, mcss_size: 5, resolution: 1.64) 
+LMCSS, 5fac, KCX, chain: A, (size: 14, mcss_size: 5, resolution:  2.8) 
+SMCSS, 5faj, DCS, chain: A, (size: 23, mcss_size: 4, resolution: 1.64) 
+hiResHolo, 5fag, KCX, chain: A, (resolution: 1.51)
+hiTanimoto, 5fag, PPI, chain: A, (tanimoto_similarity:  1.0, resolution: 1.51)

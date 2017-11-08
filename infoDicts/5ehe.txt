@@ -1,0 +1,15 @@
+query, 5ehe
+ph, 7.5
+ligand, WWO
+inchi, InChI=1S/C15H15F3N2O5S2/c16-10-11(17)15(26(22,23)7-6-21)13(12(18)14(10)27(19,24)25)20-8-9-4-2-1-3-5-9/h1-5,20-21H,6-8H2,(H2,19,24,25)
+size, 27
+rotatable_bond, 7
+LMCSS, 5drs, 5EF, chain: A, (size: 30, mcss_size: 27, resolution:  1.1) 
+LMCSS, 4qiy, WWX, chain: A, (size: 37, mcss_size: 27, resolution:  1.3) 
+LMCSS, 5ehe, WWO, chain: A, (size: 27, mcss_size: 27, resolution:  1.5) 
+LMCSS, 4qtl, WWO, chain: A, (size: 27, mcss_size: 27, resolution:  1.8) 
+SMCSS, 5eoi, OXY, chain: A, (size: 2, mcss_size: 0, resolution:  1.8) 
+hiResHolo, 3k34, SUA, chain: A, (resolution:  0.9)
+hiResApo, 3ks3
+hiTanimoto, 5ehe, WWO, chain: A, (tanimoto_similarity:  1.0, resolution:  1.5)
+hiTanimoto, 4qtl, WWO, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)

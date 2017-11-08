@@ -1,0 +1,10 @@
+query, 5uv4
+ph, N/A
+ligand, ANP
+inchi, InChI=1S/C10H17N6O12P3/c11-8-5-9(13-2-12-8)16(3-14-5)10-7(18)6(17)4(27-10)1-26-31(24,25)28-30(22,23)15-29(19,20)21/h2-4,6-7,10,17-18H,1H2,(H,24,25)(H2,11,12,13)(H4,15,19,20,21,22,23)/t4-,6-,7-,10-/m1/s1
+size, 35
+rotatable_bond, 8
+LMCSS, 5uv4, ANP, chain: A, (size: 35, mcss_size: 35, resolution:  2.3) 
+SMCSS, 5uv4, ANP, chain: A, (size: 35, mcss_size: 35, resolution:  2.3) 
+hiResHolo, 5uv4, ANP, chain: A, (resolution:  2.3)
+hiTanimoto, 5uv4, ANP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)

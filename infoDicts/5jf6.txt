@@ -1,0 +1,12 @@
+query, 5jf6
+ph, 7
+ligand, BB4
+inchi, InChI=1S/C10H9BrN2O2/c11-7-1-2-9-8(4-7)6(5-12-9)3-10(14)13-15/h1-2,4-5,12,15H,3H2,(H,13,14)
+size, 15
+rotatable_bond, 2
+LMCSS, 5jf6, BB4, chain: A, (size: 15, mcss_size: 15, resolution:  1.7) 
+SMCSS, 5jf3, OCS, chain: A, (size: 11, mcss_size: 4, resolution:  1.6) 
+SMCSS, 5jf0, OCS, chain: A, (size: 11, mcss_size: 4, resolution:  1.6) 
+hiResHolo, 5jf3, OCS, chain: A, (resolution:  1.6)
+hiResHolo, 5jf0, SME, chain: A, (resolution:  1.6)
+hiTanimoto, 5jf6, BB4, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)

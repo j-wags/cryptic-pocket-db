@@ -1,0 +1,13 @@
+query, 5hik
+ph, N/A
+ligand, SAM
+inchi, InChI=1S/C15H22N6O5S/c1-27(3-2-7(16)15(24)25)4-8-10(22)11(23)14(26-8)21-6-20-9-12(17)18-5-19-13(9)21/h5-8,10-11,14,22-23H,2-4,16H2,1H3,(H2-,17,18,19,24,25)/t7-,8+,10+,11+,14+,27-/m0/s1
+size, 32
+rotatable_bond, 7
+LMCSS, 5gwx, SAM, chain: A, (size: 32, mcss_size: 32, resolution: 2.21) 
+LMCSS, 5hik, SAM, chain: A, (size: 32, mcss_size: 32, resolution: 2.35) 
+SMCSS, 5gwx, SAR, chain: A, (size: 6, mcss_size: 5, resolution: 2.21) 
+hiResHolo, 5h02, SAH, chain: A, (resolution: 1.78)
+hiResApo, 5hii
+hiTanimoto, 5gwx, SAM, chain: A, (tanimoto_similarity:  1.0, resolution: 2.21)
+hiTanimoto, 5hik, SAM, chain: A, (tanimoto_similarity:  1.0, resolution: 2.35)

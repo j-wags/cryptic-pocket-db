@@ -1,0 +1,25 @@
+query, 5ily
+ph, N/A
+ligand, DPO
+inchi, InChI=1S/H4O7P2/c1-8(2,3)7-9(4,5)6/h(H2,1,2,3)(H2,4,5,6)/p-4
+size, 9
+rotatable_bond, 2
+LMCSS, 3m00, 2CF, chain: A, (size: 26, mcss_size: 9, resolution:  2.1) 
+LMCSS, 5eau, FFF, chain: A, (size: 29, mcss_size: 9, resolution: 2.15) 
+LMCSS, 3lz9, FPF, chain: A, (size: 26, mcss_size: 9, resolution: 2.28) 
+LMCSS, 5ik6, DPO, chain: A, (size: 9, mcss_size: 9, resolution:  2.3) 
+LMCSS, 4di5, DPO, chain: A, (size: 9, mcss_size: 9, resolution:  2.3) 
+LMCSS, 5ily, DPO, chain: A, (size: 9, mcss_size: 9, resolution: 2.45) 
+LMCSS, 5ika, DPO, chain: A, (size: 9, mcss_size: 9, resolution: 2.45) 
+LMCSS, 4rnq, A4S, chain: A, (size: 28, mcss_size: 9, resolution: 2.47) 
+LMCSS, 3m02, 2CF, chain: A, (size: 26, mcss_size: 9, resolution:  2.5) 
+LMCSS, 3m01, FPF, chain: A, (size: 26, mcss_size: 9, resolution:  2.6) 
+SMCSS, 5ikh, 6BW, chain: A, (size: 17, mcss_size: 0, resolution:  2.1) 
+hiResHolo, 5ikh, 6BW, chain: A, (resolution:  2.1)
+hiResHolo, 3m00, 2CF, chain: A, (resolution:  2.1)
+hiResApo, 5im1
+hiTanimoto, 5ik6, DPO, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)
+hiTanimoto, 4di5, DPO, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)
+hiTanimoto, 5ily, DPO, chain: A, (tanimoto_similarity:  1.0, resolution: 2.45)
+hiTanimoto, 5ika, DPO, chain: A, (tanimoto_similarity:  1.0, resolution: 2.45)
+hiTanimoto, 4rnq, DPO, chain: A, (tanimoto_similarity:  1.0, resolution: 2.47)

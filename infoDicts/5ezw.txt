@@ -1,0 +1,22 @@
+query, 5ezw
+ph, 6.2
+ligand, THJ
+inchi, InChI=1S/H2O3S2/c1-5(2,3)4/h(H2,1,2,3,4)/p-2
+size, 5
+rotatable_bond, 0
+LMCSS, 4xff, THJ, chain: A, (size: 5, mcss_size: 5, resolution: 1.25) 
+LMCSS, 4xez, THJ, chain: A, (size: 5, mcss_size: 5, resolution: 1.25) 
+LMCSS, 5i0s, THJ, chain: A, (size: 5, mcss_size: 5, resolution:  1.3) 
+LMCSS, 5i0t, THJ, chain: A, (size: 5, mcss_size: 5, resolution: 1.37) 
+LMCSS, 5ezw, THJ, chain: A, (size: 5, mcss_size: 5, resolution: 1.65) 
+SMCSS, 5i0u, CSS, chain: A, (size: 9, mcss_size: 0, resolution: 1.25) 
+hiResHolo, 5i0u, CSS, chain: A, (resolution: 1.25)
+hiResHolo, 4ieu, 2CO, chain: A, (resolution: 1.25)
+hiResHolo, 4xff, THJ, chain: A, (resolution: 1.25)
+hiResHolo, 4xez, THJ, chain: A, (resolution: 1.25)
+hiResApo, 4xet
+hiTanimoto, 4xff, THJ, chain: A, (tanimoto_similarity:  1.0, resolution: 1.25)
+hiTanimoto, 4xez, THJ, chain: A, (tanimoto_similarity:  1.0, resolution: 1.25)
+hiTanimoto, 5i0s, THJ, chain: A, (tanimoto_similarity:  1.0, resolution:  1.3)
+hiTanimoto, 5i0t, THJ, chain: A, (tanimoto_similarity:  1.0, resolution: 1.37)
+hiTanimoto, 5ezw, THJ, chain: A, (tanimoto_similarity:  1.0, resolution: 1.65)

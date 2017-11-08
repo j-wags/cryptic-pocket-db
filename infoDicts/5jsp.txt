@@ -1,0 +1,13 @@
+query, 5jsp
+ph, 6.5
+ligand, DQY
+inchi, InChI=1S/C5H12O2S/c1-8(2)4-3-5(6)7/h8H,3-4H2,1-2H3,(H,6,7)
+size, 8
+rotatable_bond, 3
+LMCSS, 5jsp, DQY, chain: A, (size: 8, mcss_size: 8, resolution:  2.2) 
+LMCSS, 4la3, DQY, chain: A, (size: 8, mcss_size: 8, resolution:  2.7) 
+SMCSS, 5jsr, AKR, chain: A, (size: 5, mcss_size: 4, resolution:  2.5) 
+hiResHolo, 5jsp, DQY, chain: A, (resolution:  2.2)
+hiResApo, 4la2
+hiTanimoto, 5jsp, DQY, chain: A, (tanimoto_similarity:  1.0, resolution:  2.2)
+hiTanimoto, 4la3, DQY, chain: A, (tanimoto_similarity:  1.0, resolution:  2.7)

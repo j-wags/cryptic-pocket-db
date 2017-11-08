@@ -1,0 +1,10 @@
+query, 5ngn
+ph, N/A
+ligand, CCN
+inchi, InChI=1S/C2H3N/c1-2-3/h1H3
+size, 3
+rotatable_bond, 0
+LMCSS, 5ngn, CCN, chain: A, (size: 3, mcss_size: 3, resolution: 1.48) 
+SMCSS, 5ngn, CCN, chain: A, (size: 3, mcss_size: 3, resolution: 1.48) 
+hiResHolo, 5ngn, CCN, chain: A, (resolution: 1.48)
+hiTanimoto, 5ngn, CCN, chain: A, (tanimoto_similarity:  1.0, resolution: 1.48)

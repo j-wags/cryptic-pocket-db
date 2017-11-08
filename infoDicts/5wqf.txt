@@ -1,0 +1,10 @@
+query, 5wqf
+ph, N/A
+ligand, POL
+inchi, InChI=1S/C3H8O/c1-2-3-4/h4H,2-3H2,1H3
+size, 4
+rotatable_bond, 1
+LMCSS, 5wqf, POL, chain: A, (size: 4, mcss_size: 4, resolution:  2.0) 
+SMCSS, 5wqf, POL, chain: A, (size: 4, mcss_size: 4, resolution:  2.0) 
+hiResHolo, 5wqf, POL, chain: A, (resolution:  2.0)
+hiTanimoto, 5wqf, POL, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)

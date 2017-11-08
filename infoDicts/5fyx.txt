@@ -1,0 +1,11 @@
+query, 5fyx
+ph, N/A
+ligand, FD6
+inchi, InChI=1S/C19H23ClN4S/c1-22-10-12-23(13-11-22)21-8-9-24-16-4-2-3-5-18(16)25-19-7-6-15(20)14-17(19)24/h2-7,14,21H,8-13H2,1H3
+size, 25
+rotatable_bond, 4
+LMCSS, 5g08, Z80, chain: A, (size: 21, mcss_size: 17, resolution: 1.52) 
+SMCSS, 5g08, Z80, chain: A, (size: 21, mcss_size: 17, resolution: 1.52) 
+hiResHolo, 5g08, Z80, chain: A, (resolution: 1.52)
+hiResApo, 4by5
+hiTanimoto, 5g08, Z80, chain: A, (tanimoto_similarity: 0.87, resolution: 1.52)

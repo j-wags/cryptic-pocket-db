@@ -1,0 +1,19 @@
+query, 5eqr
+ph, 6.5
+ligand, TSV
+inchi, InChI=1S/C35H44FN5O9S/c1-34(2,3)50-32(45)37-27-13-8-6-4-5-7-11-22-17-35(22,31(44)39-51(47,48)24-14-15-24)38-29(42)28-16-23(19-41(28)30(27)43)49-33(46)40-18-21-10-9-12-26(36)25(21)20-40/h7,9-12,18,20,22-24,27-28H,4-6,8,13-17,19H2,1-3H3,(H,37,45)(H,38,42)(H,39,44)/b11-7-/t22-,23-,27+,28+,35-/m1/s1
+size, 57
+rotatable_bond, 5
+LMCSS, 3su0, TSV, chain: A, (size: 57, mcss_size: 57, resolution: 1.16) 
+LMCSS, 3m5l, TSV, chain: A, (size: 57, mcss_size: 57, resolution: 1.25) 
+LMCSS, 3su1, TSV, chain: A, (size: 57, mcss_size: 57, resolution:  1.4) 
+LMCSS, 3su2, TSV, chain: A, (size: 57, mcss_size: 57, resolution:  1.5) 
+LMCSS, 5eqr, TSV, chain: A, (size: 57, mcss_size: 57, resolution: 1.96) 
+SMCSS, 3sv6, SV6, chain: A, (size: 56, mcss_size: 25, resolution:  1.4) 
+hiResHolo, 3su6, SU3, chain: A, (resolution:  1.1)
+hiResApo, 3rc6
+hiTanimoto, 3su0, TSV, chain: A, (tanimoto_similarity:  1.0, resolution: 1.16)
+hiTanimoto, 3m5l, TSV, chain: A, (tanimoto_similarity:  1.0, resolution: 1.25)
+hiTanimoto, 3su1, TSV, chain: A, (tanimoto_similarity:  1.0, resolution:  1.4)
+hiTanimoto, 3su2, TSV, chain: A, (tanimoto_similarity:  1.0, resolution:  1.5)
+hiTanimoto, 5eqr, TSV, chain: A, (tanimoto_similarity:  1.0, resolution: 1.96)

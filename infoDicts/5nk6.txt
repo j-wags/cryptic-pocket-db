@@ -1,0 +1,11 @@
+query, 5nk6
+ph, 5.5
+ligand, 90W
+inchi, InChI=1S/C24H25ClN4O3S/c1-14-4-2-7-19(25)21(14)29-23(32)20-13-26-24(33-20)28-17-6-3-5-15(12-17)22(31)27-16-8-10-18(30)11-9-16/h2-7,12-13,16,18,30H,8-11H2,1H3,(H,26,28)(H,27,31)(H,29,32)/t16-,18-
+size, 35
+rotatable_bond, 5
+LMCSS, 5i9y, 1N1, chain: A, (size: 33, mcss_size: 20, resolution: 1.23) 
+SMCSS, 4trl, PTR, chain: A, (size: 18, mcss_size: 7, resolution: 2.45) 
+hiResHolo, 5i9y, 1N1, chain: A, (resolution: 1.23)
+hiResApo, 4p2k
+hiTanimoto, 5i9y, 1N1, chain: A, (tanimoto_similarity: 0.65, resolution: 1.23)

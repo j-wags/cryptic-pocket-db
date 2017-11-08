@@ -1,0 +1,10 @@
+query, 5for
+ph, N/A
+ligand, I3C
+inchi, InChI=1S/C8H4I3NO4/c9-3-1(7(13)14)4(10)6(12)5(11)2(3)8(15)16/h12H2,(H,13,14)(H,15,16)
+size, 16
+rotatable_bond, 2
+LMCSS, 5for, I3C, chain: A, (size: 16, mcss_size: 16, resolution:  2.5) 
+SMCSS, 5for, MLY, chain: A, (size: 13, mcss_size: 5, resolution:  2.5) 
+hiResHolo, 5for, I3C, chain: A, (resolution:  2.5)
+hiTanimoto, 5for, I3C, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

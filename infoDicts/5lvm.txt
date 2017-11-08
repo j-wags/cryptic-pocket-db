@@ -1,0 +1,19 @@
+query, 5lvm
+ph, 7.5
+ligand, ADE
+inchi, InChI=1S/C5H5N5/c6-4-3-5(9-1-7-3)10-2-8-4/h1-2H,(H3,6,7,8,9,10)
+size, 10
+rotatable_bond, 0
+LMCSS, 5lvo, ATP, chain: A, (size: 35, mcss_size: 10, resolution: 1.09) 
+LMCSS, 5ack, ATP, chain: A, (size: 35, mcss_size: 10, resolution: 1.24) 
+LMCSS, 4ct2, ATP, chain: A, (size: 35, mcss_size: 10, resolution: 1.25) 
+LMCSS, 5lvm, ADE, chain: A, (size: 10, mcss_size: 10, resolution: 1.26) 
+LMCSS, 5lvn, ADN, chain: A, (size: 23, mcss_size: 10, resolution: 1.38) 
+LMCSS, 4xx9, ATP, chain: A, (size: 35, mcss_size: 10, resolution:  1.4) 
+LMCSS, 4rrv, ATP, chain: A, (size: 35, mcss_size: 10, resolution: 1.41) 
+LMCSS, 5mrd, ATP, chain: A, (size: 35, mcss_size: 10, resolution: 1.41) 
+LMCSS, 4aw0, ATP, chain: A, (size: 35, mcss_size: 10, resolution: 1.43) 
+LMCSS, 4rqv, ATP, chain: A, (size: 35, mcss_size: 10, resolution:  1.5) 
+SMCSS, 5lvo, SEP, chain: A, (size: 12, mcss_size: 3, resolution: 1.09) 
+hiResHolo, 5lvo, ATP, chain: A, (resolution: 1.09)
+hiTanimoto, 5lvm, ADE, chain: A, (tanimoto_similarity:  1.0, resolution: 1.26)

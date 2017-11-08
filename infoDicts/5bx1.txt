@@ -1,0 +1,8 @@
+query, 5bx1
+ph, N/A
+ligand, 4XA
+inchi, InChI=1S/C22H19N3O2/c1-15-9-18-13-25(14-19(18)10-16(15)2)20-6-3-5-17(11-20)22(26)24-23-12-21-7-4-8-27-21/h3-14H,1-2H3,(H,24,26)/b23-12+
+size, 28
+rotatable_bond, 4
+hiResApo, 1rxd
+hiResApo, 1zck

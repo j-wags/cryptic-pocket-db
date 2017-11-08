@@ -1,0 +1,11 @@
+query, 5chp
+ph, N/A
+ligand, 51Q
+inchi, InChI=1S/C6H7N3O4S/c1-2(5(11)12)14-4-3(10)7-6(13)9-8-4/h2H,1H3,(H,11,12)(H2,7,9,10,13)/t2-/m0/s1
+size, 15
+rotatable_bond, 3
+LMCSS, 4gtb, D16, chain: A, (size: 33, mcss_size: 7, resolution:  1.7) 
+LMCSS, 4kat, FDA, chain: A, (size: 60, mcss_size: 7, resolution: 2.14) 
+SMCSS, 4gt9, UMP, chain: A, (size: 23, mcss_size: 5, resolution: 1.39) 
+hiResHolo, 4gt9, MEF, chain: A, (resolution: 1.39)
+hiTanimoto, 4kat, FDA, chain: A, (tanimoto_similarity: 0.40, resolution: 2.14)

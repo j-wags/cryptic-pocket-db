@@ -1,0 +1,18 @@
+query, 5jza
+ph, 9
+ligand, OGA
+inchi, InChI=1S/C4H5NO5/c6-2(7)1-5-3(8)4(9)10/h1H2,(H,5,8)(H,6,7)(H,9,10)
+size, 10
+rotatable_bond, 2
+LMCSS, 5jqy, OGA, chain: A, (size: 10, mcss_size: 10, resolution: 1.99) 
+LMCSS, 5jz8, OGA, chain: A, (size: 10, mcss_size: 10, resolution:  2.1) 
+LMCSS, 5jza, OGA, chain: A, (size: 10, mcss_size: 10, resolution: 2.14) 
+LMCSS, 5jzz, OGA, chain: A, (size: 10, mcss_size: 10, resolution: 2.29) 
+LMCSS, 5jzu, OGA, chain: A, (size: 10, mcss_size: 10, resolution:  2.5) 
+SMCSS, 5jtc, PD2, chain: A, (size: 12, mcss_size: 4, resolution: 2.24) 
+hiResHolo, 5jqy, OGA, chain: A, (resolution: 1.99)
+hiTanimoto, 5jqy, OGA, chain: A, (tanimoto_similarity:  1.0, resolution: 1.99)
+hiTanimoto, 5jz8, OGA, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)
+hiTanimoto, 5jza, OGA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.14)
+hiTanimoto, 5jzz, OGA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.29)
+hiTanimoto, 5jzu, OGA, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

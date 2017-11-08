@@ -1,0 +1,22 @@
+query, 5l6x
+ph, 6
+ligand, 6SG
+inchi, InChI=1S/C18H21N4O7S.C5H.Fe/c19-12(18(28)29)5-6-14(23)22-13(17(27)21-8-16(25)26)9-30-10-15(24)20-7-11-3-1-2-4-11;1-2-4-5-3-1;/h9,12,14,22-23H,5-8,10,19H2,(H,20,24)(H,21,27)(H,25,26)(H,28,29);1H;/b13-9-;;/t12-,14-;;/m0../s1
+size, 39
+rotatable_bond, 14
+LMCSS, 2a2r, GSN, chain: A, (size: 24, mcss_size: 10, resolution:  1.4) 
+LMCSS, 5dal, 5AU, chain: A, (size: 51, mcss_size: 10, resolution:  1.5) 
+LMCSS, 3csh, LZ6, chain: A, (size: 40, mcss_size: 10, resolution: 1.55) 
+LMCSS, 2a2s, GSN, chain: A, (size: 24, mcss_size: 10, resolution:  1.7) 
+LMCSS, 1pgt, GTX, chain: A, (size: 28, mcss_size: 10, resolution:  1.8) 
+LMCSS, 18gs, GDN, chain: A, (size: 34, mcss_size: 10, resolution:  1.9) 
+LMCSS, 2pgt, GPR, chain: A, (size: 39, mcss_size: 10, resolution:  1.9) 
+LMCSS, 17gs, GTX, chain: A, (size: 28, mcss_size: 10, resolution:  1.9) 
+LMCSS, 3csi, LZ6, chain: A, (size: 40, mcss_size: 10, resolution:  1.9) 
+LMCSS, 1aqv, 0HG, chain: A, (size: 30, mcss_size: 10, resolution: 1.94) 
+SMCSS, 1zgn, NO, chain: A, (size: 2, mcss_size: 0, resolution:  2.1) 
+hiResHolo, 5j41, 3LF, chain: A, (resolution: 1.19)
+hiResApo, 3hkr
+hiResApo, 3kmn
+hiTanimoto, 2a2r, GSN, chain: A, (tanimoto_similarity: 0.40, resolution:  1.4)
+hiTanimoto, 2a2s, GSN, chain: A, (tanimoto_similarity: 0.40, resolution:  1.7)

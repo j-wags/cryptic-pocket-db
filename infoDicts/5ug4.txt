@@ -1,0 +1,12 @@
+query, 5ug4
+ph, 8.5
+ligand, MOH
+inchi, InChI=1S/CH4O/c1-2/h2H,1H3
+size, 2
+rotatable_bond, 0
+LMCSS, 5ug4, MOH, chain: C, (size: 2, mcss_size: 2, resolution: 2.15) 
+LMCSS, 4ygo, MOH, chain: A, (size: 2, mcss_size: 2, resolution:  2.5) 
+SMCSS, 4mhd, SPD, chain: A, (size: 10, mcss_size: 0, resolution: 2.32) 
+hiResHolo, 5ug4, MOH, chain: C, (resolution: 2.15)
+hiTanimoto, 5ug4, MOH, chain: C, (tanimoto_similarity:  1.0, resolution: 2.15)
+hiTanimoto, 4ygo, MOH, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

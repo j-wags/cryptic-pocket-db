@@ -1,0 +1,21 @@
+query, 5jqx
+ph, 7.5
+ligand, 3PG
+inchi, InChI=1S/C3H7O7P/c4-2(3(5)6)1-10-11(7,8)9/h2,4H,1H2,(H,5,6)(H2,7,8,9)/t2-/m1/s1
+size, 12
+rotatable_bond, 4
+LMCSS, 4dec, 3PG, chain: A, (size: 12, mcss_size: 12, resolution: 1.98) 
+LMCSS, 4y6u, 3PG, chain: A, (size: 12, mcss_size: 12, resolution: 2.27) 
+LMCSS, 4y6n, 3PG, chain: A, (size: 12, mcss_size: 12, resolution: 2.35) 
+LMCSS, 4y9x, 3PG, chain: A, (size: 12, mcss_size: 12, resolution: 2.64) 
+LMCSS, 3e25, 3PG, chain: A, (size: 12, mcss_size: 12, resolution:  2.7) 
+LMCSS, 5jqx, 3PG, chain: A, (size: 12, mcss_size: 12, resolution: 2.82) 
+SMCSS, 4y7f, 48X, chain: A, (size: 10, mcss_size: 10, resolution: 3.23) 
+hiResHolo, 4dec, 3PG, chain: A, (resolution: 1.98)
+hiResApo, 3e26
+hiTanimoto, 4dec, 3PG, chain: A, (tanimoto_similarity:  1.0, resolution: 1.98)
+hiTanimoto, 4y6u, 3PG, chain: A, (tanimoto_similarity:  1.0, resolution: 2.27)
+hiTanimoto, 4y6n, 3PG, chain: A, (tanimoto_similarity:  1.0, resolution: 2.35)
+hiTanimoto, 4y9x, 3PG, chain: A, (tanimoto_similarity:  1.0, resolution: 2.64)
+hiTanimoto, 3e25, 3PG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.7)
+hiTanimoto, 5jqx, 3PG, chain: A, (tanimoto_similarity:  1.0, resolution: 2.82)

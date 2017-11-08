@@ -1,0 +1,10 @@
+query, 5ki9
+ph, 4.5
+ligand, TFA
+inchi, InChI=1S/C2HF3O2/c3-2(4,5)1(6)7/h(H,6,7)
+size, 7
+rotatable_bond, 0
+LMCSS, 5ki9, TFA, chain: A, (size: 7, mcss_size: 7, resolution:  1.6) 
+SMCSS, 5ki9, MLY, chain: A, (size: 13, mcss_size: 4, resolution:  1.6) 
+hiResHolo, 5ki9, TFA, chain: A, (resolution:  1.6)
+hiTanimoto, 5ki9, TFA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)

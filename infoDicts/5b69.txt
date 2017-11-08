@@ -1,0 +1,10 @@
+query, 5b69
+ph, 4.8
+ligand, 1GP
+inchi, InChI=1S/C3H9O6P/c4-1-3(5)2-9-10(6,7)8/h3-5H,1-2H2,(H2,6,7,8)/t3-/m0/s1
+size, 11
+rotatable_bond, 4
+LMCSS, 5b69, 1GP, chain: A, (size: 11, mcss_size: 11, resolution:  2.5) 
+SMCSS, 5b69, 1GP, chain: A, (size: 11, mcss_size: 11, resolution:  2.5) 
+hiResHolo, 5b69, 1GP, chain: A, (resolution:  2.5)
+hiTanimoto, 5b69, 1GP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

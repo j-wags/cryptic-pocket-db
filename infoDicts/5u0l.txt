@@ -1,0 +1,6 @@
+query, 5u0l
+ph, 7
+ligand, 8YP
+inchi, InChI=1S/C10H20O/c1-2-3-4-5-6-7-8-9-10-11/h10H,2-9H2,1H3
+size, 11
+rotatable_bond, 8

@@ -1,0 +1,13 @@
+query, 5eln
+ph, 8.5
+ligand, LYS
+inchi, InChI=1S/C6H14N2O2/c7-4-2-1-3-5(8)6(9)10/h5H,1-4,7-8H2,(H,9,10)/p+1/t5-/m0/s1
+size, 11
+rotatable_bond, 5
+LMCSS, 5elo, LYS, chain: A, (size: 11, mcss_size: 11, resolution:  1.9) 
+LMCSS, 5eln, LYS, chain: A, (size: 11, mcss_size: 11, resolution:  1.9) 
+SMCSS, 5elo, KRS, chain: A, (size: 24, mcss_size: 8, resolution:  1.9) 
+hiResHolo, 5elo, LYS, chain: A, (resolution:  1.9)
+hiResHolo, 5eln, LYS, chain: A, (resolution:  1.9)
+hiTanimoto, 5elo, LYS, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)
+hiTanimoto, 5eln, LYS, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)

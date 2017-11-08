@@ -1,0 +1,12 @@
+query, 5wcm
+ph, N/A
+ligand, 4NZ
+inchi, InChI=1S/C6H6N2O4S/c7-13(11,12)6-3-1-5(2-4-6)8(9)10/h1-4H,(H2,7,11,12)
+size, 13
+rotatable_bond, 2
+LMCSS, 5wcm, 4NZ, chain: A, (size: 13, mcss_size: 13, resolution:  1.2) 
+SMCSS, 5wcm, 4NZ, chain: A, (size: 13, mcss_size: 13, resolution:  1.2) 
+hiResHolo, 5wcm, 4NZ, chain: A, (resolution:  1.2)
+hiResApo, 3lvz
+hiResApo, 2gmn
+hiTanimoto, 5wcm, 4NZ, chain: A, (tanimoto_similarity:  1.0, resolution:  1.2)

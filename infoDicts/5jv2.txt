@@ -1,0 +1,13 @@
+query, 5jv2
+ph, N/A
+ligand, 6O3
+inchi, InChI=1S/C14H13N2O3PS/c1-9-2-4-10(5-3-9)13-12(7-20(17,18)19)11-6-15-8-16-14(11)21-13/h2-6,8H,7H2,1H3,(H2,17,18,19)
+size, 21
+rotatable_bond, 3
+LMCSS, 4lph, YL3, chain: F, (size: 22, mcss_size: 16, resolution:  2.3) 
+LMCSS, 4lpg, 1MV, chain: F, (size: 26, mcss_size: 16, resolution: 2.35) 
+LMCSS, 4l2x, YL2, chain: F, (size: 28, mcss_size: 16, resolution: 2.55) 
+LMCSS, 4jvj, 1MV, chain: F, (size: 26, mcss_size: 16, resolution:  2.8) 
+SMCSS, 4h5e, IPR, chain: F, (size: 14, mcss_size: 4, resolution: 2.04) 
+hiResHolo, 4nua, RIS, chain: A, (resolution: 1.43)
+hiTanimoto, 4l2x, YL2, chain: F, (tanimoto_similarity: 0.50, resolution: 2.55)

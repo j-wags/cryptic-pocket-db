@@ -1,0 +1,10 @@
+query, 5g4j
+ph, 6
+ligand, EXT
+inchi, InChI=1S/C10H16N2O9P2/c1-7-10(13)9(5-11-2-3-20-22(14,15)16)8(4-12-7)6-21-23(17,18)19/h4-5,13H,2-3,6H2,1H3,(H2,14,15,16)(H2,17,18,19)/b11-5+
+size, 24
+rotatable_bond, 8
+LMCSS, 5g4j, EXT, chain: A, (size: 24, mcss_size: 24, resolution: 1.87) 
+SMCSS, 5g4j, EXT, chain: A, (size: 24, mcss_size: 24, resolution: 1.87) 
+hiResHolo, 5g4j, EXT, chain: A, (resolution: 1.87)
+hiTanimoto, 5g4j, EXT, chain: A, (tanimoto_similarity:  1.0, resolution: 1.87)

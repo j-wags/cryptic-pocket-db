@@ -1,0 +1,10 @@
+query, 5li6
+ph, N/A
+ligand, 6XF
+inchi, InChI=1S/C21H22N4O5/c1-14(2)24(20(26)12-15-4-8-17(9-5-15)25(27)28)13-19-22-21(23-30-19)16-6-10-18(29-3)11-7-16/h4-11,14H,12-13H2,1-3H3
+size, 30
+rotatable_bond, 8
+LMCSS, 5li8, KKK, chain: A, (size: 37, mcss_size: 11, resolution: 1.83) 
+SMCSS, 5li8, KKK, chain: A, (size: 37, mcss_size: 11, resolution: 1.83) 
+hiResHolo, 5li8, KKK, chain: A, (resolution: 1.83)
+hiTanimoto, 5li8, KKK, chain: A, (tanimoto_similarity: 0.44, resolution: 1.83)

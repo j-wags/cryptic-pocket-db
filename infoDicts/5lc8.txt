@@ -1,0 +1,18 @@
+query, 5lc8
+ph, 7.1
+ligand, ZPE
+inchi, InChI=1S/C37H70NO8P/c1-3-5-7-9-11-13-15-16-17-18-20-21-23-25-27-29-36(39)43-33-35(34-45-47(41,42)44-32-31-38)46-37(40)30-28-26-24-22-19-14-12-10-8-6-4-2/h13,15,22,24,35H,3-12,14,16-21,23,25-34,38H2,1-2H3,(H,41,42)/b15-13-,24-22?/t35-/m1/s1
+size, 52
+rotatable_bond, 35
+LMCSS, 5ir4, ZPE, chain: A, (size: 52, mcss_size: 52, resolution: 1.48) 
+LMCSS, 4g32, ZPE, chain: A, (size: 52, mcss_size: 52, resolution: 1.75) 
+LMCSS, 5lc8, ZPE, chain: A, (size: 52, mcss_size: 52, resolution:  1.8) 
+LMCSS, 5ir5, ZPE, chain: A, (size: 52, mcss_size: 52, resolution:  1.9) 
+LMCSS, 4g33, ZPE, chain: A, (size: 52, mcss_size: 52, resolution: 2.03) 
+SMCSS, 4rpe, 8PE, chain: A, (size: 48, mcss_size: 32, resolution:  1.6) 
+hiResHolo, 5ir4, ZPE, chain: A, (resolution: 1.48)
+hiTanimoto, 5ir4, ZPE, chain: A, (tanimoto_similarity:  1.0, resolution: 1.48)
+hiTanimoto, 4g32, ZPE, chain: A, (tanimoto_similarity:  1.0, resolution: 1.75)
+hiTanimoto, 5lc8, ZPE, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 5ir5, ZPE, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)
+hiTanimoto, 4g33, ZPE, chain: A, (tanimoto_similarity:  1.0, resolution: 2.03)

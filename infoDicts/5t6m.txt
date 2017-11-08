@@ -1,0 +1,10 @@
+query, 5t6m
+ph, 7.85
+ligand, 78U
+inchi, InChI=1S/C12H14N2O2/c1-7(11(13)12(15)16)9-6-14-10-5-3-2-4-8(9)10/h2-7,11,14H,13H2,1H3,(H,15,16)/t7-,11-/m0/s1
+size, 18
+rotatable_bond, 3
+LMCSS, 5dw3, TRP, chain: A, (size: 16, mcss_size: 16, resolution: 1.74) 
+SMCSS, 5vm5, PLS, chain: A, (size: 23, mcss_size: 7, resolution: 1.67) 
+hiResHolo, 5ixj, THR, chain: A, (resolution: 1.54)
+hiTanimoto, 5dw3, TRP, chain: A, (tanimoto_similarity: 0.86, resolution: 1.74)

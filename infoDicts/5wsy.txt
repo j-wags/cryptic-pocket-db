@@ -1,0 +1,7 @@
+query, 5wsy
+ph, 9
+ligand, 7UC
+inchi, InChI=1S/C6H11NO4/c1-4(2-5(8)9)7-3-6(10)11/h4,7H,2-3H2,1H3,(H,8,9)(H,10,11)/t4-/m1/s1
+size, 12
+rotatable_bond, 5
+hiResApo, 5wsx

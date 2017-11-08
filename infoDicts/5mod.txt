@@ -1,0 +1,11 @@
+query, 5mod
+ph, 6.5
+ligand, 86L
+inchi, InChI=1S/C10H14ClNO/c1-7(2)13-10-4-3-8(6-12)5-9(10)11/h3-5,7H,6,12H2,1-2H3
+size, 13
+rotatable_bond, 3
+LMCSS, 5cs6, K82, chain: A, (size: 13, mcss_size: 12, resolution: 1.88) 
+SMCSS, 5cvh, I6P, chain: A, (size: 42, mcss_size: 4, resolution: 1.85) 
+hiResHolo, 3war, NIO, chain: A, (resolution: 1.04)
+hiResApo, 5cvg
+hiTanimoto, 5cs6, K82, chain: A, (tanimoto_similarity: 0.90, resolution: 1.88)

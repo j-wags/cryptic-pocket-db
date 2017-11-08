@@ -1,0 +1,11 @@
+query, 5xg4
+ph, N/A
+ligand, QUE
+inchi, InChI=1S/C15H10O7/c16-7-4-10(19)12-11(5-7)22-15(14(21)13(12)20)6-1-2-8(17)9(18)3-6/h1-5,16-19,21H
+size, 22
+rotatable_bond, 1
+LMCSS, 5xg4, QUE, chain: U, (size: 22, mcss_size: 22, resolution:  3.0) 
+SMCSS, 1f5l, AMR, chain: A, (size: 15, mcss_size: 4, resolution:  2.1) 
+hiResHolo, 4jni, PZH, chain: U, (resolution: 1.17)
+hiResApo, 4zkn
+hiTanimoto, 5xg4, QUE, chain: U, (tanimoto_similarity:  1.0, resolution:  3.0)

@@ -1,0 +1,20 @@
+query, 5glz
+ph, N/A
+ligand, BGC
+inchi, InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5-,6-/m1/s1
+size, 17
+rotatable_bond, 1
+LMCSS, 5gm0, GAL, chain: A, (size: 17, mcss_size: 17, resolution:  1.7) 
+LMCSS, 5glz, BGC, chain: A, (size: 17, mcss_size: 17, resolution:  2.0) 
+LMCSS, 5glw, GAL, chain: A, (size: 17, mcss_size: 17, resolution:  2.0) 
+LMCSS, 5glt, BGC, chain: A, (size: 17, mcss_size: 17, resolution:  2.0) 
+LMCSS, 5glu, GAL, chain: A, (size: 17, mcss_size: 17, resolution:  2.1) 
+SMCSS, 5glw, NAG, chain: A, (size: 20, mcss_size: 16, resolution:  2.0) 
+SMCSS, 5glt, NAG, chain: A, (size: 20, mcss_size: 16, resolution:  2.0) 
+hiResHolo, 5gm0, GAL, chain: A, (resolution:  1.7)
+hiResApo, 5glv
+hiTanimoto, 5gm0, GAL, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)
+hiTanimoto, 5glz, BGC, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5glw, GAL, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5glt, BGC, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5glu, GAL, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)

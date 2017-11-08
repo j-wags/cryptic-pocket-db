@@ -1,0 +1,10 @@
+query, 5tui
+ph, N/A
+ligand, CTC
+inchi, InChI=1S/C22H23ClN2O8/c1-21(32)7-6-8-15(25(2)3)17(28)13(20(24)31)19(30)22(8,33)18(29)11(7)16(27)12-10(26)5-4-9(23)14(12)21/h4-5,7-8,15,26,28-29,32-33H,6H2,1-3H3,(H2,24,31)/t7-,8-,15-,21-,22-/m0/s1
+size, 36
+rotatable_bond, 2
+LMCSS, 5tui, CTC, chain: B, (size: 36, mcss_size: 36, resolution: 1.75) 
+SMCSS, 5tuf, TDC, chain: B, (size: 33, mcss_size: 27, resolution: 2.25) 
+hiResHolo, 5tui, CTC, chain: B, (resolution: 1.75)
+hiTanimoto, 5tui, CTC, chain: B, (tanimoto_similarity:  1.0, resolution: 1.75)

@@ -1,0 +1,24 @@
+query, 5ug8
+ph, N/A
+ligand, 8BP
+inchi, InChI=1S/C19H26FN9O/c1-5-15(30)24-14-9-28(8-13(14)20)19-25-17(23-12-6-22-27(4)7-12)16-18(26-19)29(10-21-16)11(2)3/h6-7,10-11,13-14H,5,8-9H2,1-4H3,(H,24,30)(H,23,25,26)/t13-,14-/m1/s1
+size, 32
+rotatable_bond, 5
+LMCSS, 5cas, 4ZQ, chain: A, (size: 38, mcss_size: 15, resolution:  2.1) 
+LMCSS, 5cau, 4ZR, chain: A, (size: 38, mcss_size: 15, resolution: 2.25) 
+LMCSS, 5caq, 4ZJ, chain: A, (size: 31, mcss_size: 15, resolution:  2.5) 
+LMCSS, 5cav, 4ZQ, chain: A, (size: 38, mcss_size: 15, resolution: 2.73) 
+LMCSS, 4r5s, FI3, chain: A, (size: 48, mcss_size: 15, resolution:  3.0) 
+SMCSS, 4wkq, CSX, chain: A, (size: 9, mcss_size: 5, resolution: 1.85) 
+hiResHolo, 5hg8, 634, chain: A, (resolution: 1.42)
+hiResApo, 2eb2
+hiTanimoto, 5cno, ANP, chain: A, (tanimoto_similarity: 0.57, resolution: 1.55)
+hiTanimoto, 5cnn, ANP, chain: A, (tanimoto_similarity: 0.57, resolution:  1.9)
+hiTanimoto, 4zse, ANP, chain: A, (tanimoto_similarity: 0.57, resolution: 1.97)
+hiTanimoto, 5d41, ANP, chain: A, (tanimoto_similarity: 0.57, resolution: 2.31)
+hiTanimoto, 3vjn, ANP, chain: A, (tanimoto_similarity: 0.57, resolution: 2.34)
+hiTanimoto, 2itv, ANP, chain: A, (tanimoto_similarity: 0.57, resolution: 2.47)
+hiTanimoto, 2itn, ANP, chain: A, (tanimoto_similarity: 0.57, resolution: 2.47)
+hiTanimoto, 2gs7, ANP, chain: A, (tanimoto_similarity: 0.57, resolution:  2.6)
+hiTanimoto, 3vjo, ANP, chain: A, (tanimoto_similarity: 0.57, resolution: 2.64)
+hiTanimoto, 2eb3, ANP, chain: A, (tanimoto_similarity: 0.57, resolution: 2.84)

@@ -1,0 +1,12 @@
+query, 5m47
+ph, 9
+ligand, API
+inchi, InChI=1S/C7H14N2O4/c8-4(6(10)11)2-1-3-5(9)7(12)13/h4-5H,1-3,8-9H2,(H,10,11)(H,12,13)/t4-,5+
+size, 15
+rotatable_bond, 6
+LMCSS, 5m47, API, chain: A, (size: 15, mcss_size: 15, resolution: 2.59) 
+SMCSS, 5m47, API, chain: A, (size: 15, mcss_size: 15, resolution: 2.59) 
+hiResHolo, 5m47, API, chain: A, (resolution: 2.59)
+hiResApo, 5h2y
+hiResApo, 5h2g
+hiTanimoto, 5m47, API, chain: A, (tanimoto_similarity:  1.0, resolution: 2.59)

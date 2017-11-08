@@ -1,0 +1,12 @@
+query, 5kah
+ph, 5.6
+ligand, YE1
+inchi, InChI=1S/C29H43N8O19P3/c1-29(2,24(43)27(44)33-4-3-19(40)31-5-6-32-20(41)9-15-7-16(38)10-17(39)8-15)12-53-59(50,51)56-58(48,49)52-11-18-23(55-57(45,46)47)22(42)28(54-18)37-14-36-21-25(30)34-13-35-26(21)37/h7-8,10,13-14,18,22-24,28,38-39,42-43H,3-6,9,11-12H2,1-2H3,(H,31,40)(H,32,41)(H,33,44)(H,48,49)(H,50,51)(H2,30,34,35)(H2,45,46,47)/t18-,22-,23-,24+,28-/m1/s1
+size, 64
+rotatable_bond, 21
+LMCSS, 2np9, YE1, chain: A, (size: 64, mcss_size: 64, resolution: 2.45) 
+LMCSS, 2pg8, YE1, chain: A, (size: 64, mcss_size: 64, resolution:  3.0) 
+SMCSS, 2np9, OXY, chain: A, (size: 2, mcss_size: 0, resolution: 2.45) 
+hiResHolo, 2np9, YE1, chain: A, (resolution: 2.45)
+hiTanimoto, 2np9, YE1, chain: A, (tanimoto_similarity:  1.0, resolution: 2.45)
+hiTanimoto, 2pg8, YE1, chain: A, (tanimoto_similarity:  1.0, resolution:  3.0)

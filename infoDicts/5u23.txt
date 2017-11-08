@@ -1,0 +1,12 @@
+query, 5u23
+ph, 7
+ligand, TQP
+inchi, InChI=1S/C24H35N4O19P3/c1-10-7-28(24(34)27-22(10)33)17-4-15(29)16(45-17)9-43-49(38,39)47-50(40,41)46-23-21(32)18(20(31)12(3)44-23)26-6-14-13(8-42-48(35,36)37)5-25-11(2)19(14)30/h5-7,12,15-18,20-21,23,29-32H,4,8-9H2,1-3H3,(H,38,39)(H,40,41)(H,27,33,34)(H2,35,36,37)/b26-6+/t12-,15+,16-,17-,18+,20-,21-,23-/m1/s1
+size, 59
+rotatable_bond, 13
+LMCSS, 5u23, TQP, chain: A, (size: 59, mcss_size: 59, resolution: 1.45) 
+LMCSS, 5u21, TQP, chain: A, (size: 59, mcss_size: 59, resolution:  1.6) 
+SMCSS, 5u23, TQP, chain: A, (size: 59, mcss_size: 59, resolution: 1.45) 
+hiResHolo, 5u23, TQP, chain: A, (resolution: 1.45)
+hiTanimoto, 5u23, TQP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.45)
+hiTanimoto, 5u21, TQP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)

@@ -1,0 +1,10 @@
+query, 5llt
+ph, N/A
+ligand, DND
+inchi, InChI=1S/C21H26N6O15P2/c22-17-12-18(24-7-23-17)27(8-25-12)20-16(31)14(29)11(41-20)6-39-44(36,37)42-43(34,35)38-5-10-13(28)15(30)19(40-10)26-3-1-2-9(4-26)21(32)33/h1-4,7-8,10-11,13-16,19-20,28-31H,5-6H2,(H4-,22,23,24,32,33,34,35,36,37)/p+1/t10-,11-,13-,14-,15-,16-,19-,20-/m1/s1
+size, 52
+rotatable_bond, 11
+LMCSS, 5llt, DND, chain: A, (size: 52, mcss_size: 52, resolution:  2.2) 
+SMCSS, 5lm3, APC, chain: A, (size: 35, mcss_size: 26, resolution:  2.5) 
+hiResHolo, 5llt, DND, chain: A, (resolution:  2.2)
+hiTanimoto, 5llt, DND, chain: A, (tanimoto_similarity:  1.0, resolution:  2.2)

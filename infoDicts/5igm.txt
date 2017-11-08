@@ -1,0 +1,12 @@
+query, 5igm
+ph, 7.5
+ligand, BMF
+inchi, InChI=1S/C17H20N6O4S/c1-5-27-17(24)18-15-9-14(21-23-11(3)19-20-16(15)23)12-7-6-10(2)13(8-12)22-28(4,25)26/h6-9,22H,5H2,1-4H3,(H,18,24)
+size, 28
+rotatable_bond, 5
+LMCSS, 5igm, BMF, chain: A, (size: 28, mcss_size: 28, resolution:  1.6) 
+SMCSS, 5f2p, 5TY, chain: A, (size: 15, mcss_size: 8, resolution:  1.8) 
+hiResHolo, 5igm, BMF, chain: A, (resolution:  1.6)
+hiResHolo, 5eu1, 5SW, chain: A, (resolution:  1.6)
+hiResApo, 3hme
+hiTanimoto, 5igm, BMF, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)

@@ -1,0 +1,10 @@
+query, 5mpq
+ph, 7.5
+ligand, BLG
+inchi, InChI=1S/C16H29N3O14S2/c1-7(22)18-12-13(23)14(33-35(28,29)30)11(6-21)32-16(12)31-10-4-8(19-9(10)5-20)15(24)17-2-3-34(25,26)27/h8-14,16,19-21,23H,2-6H2,1H3,(H,17,24)(H,18,22)(H,25,26,27)(H,28,29,30)/p+1/t8-,9+,10-,11+,12+,13+,14+,16+/m0/s1
+size, 43
+rotatable_bond, 11
+LMCSS, 5mpq, BLG, chain: A, (size: 43, mcss_size: 43, resolution: 1.78) 
+SMCSS, 5mpq, BLG, chain: A, (size: 43, mcss_size: 43, resolution: 1.78) 
+hiResHolo, 5mpq, BLG, chain: A, (resolution: 1.78)
+hiTanimoto, 5mpq, BLG, chain: A, (tanimoto_similarity:  1.0, resolution: 1.78)

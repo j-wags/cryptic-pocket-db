@@ -1,0 +1,21 @@
+query, 5un3
+ph, N/A
+ligand, XYP
+inchi, InChI=1S/C5H10O5/c6-2-1-10-5(9)4(8)3(2)7/h2-9H,1H2/t2-,3+,4-,5-/m1/s1
+size, 14
+rotatable_bond, 0
+LMCSS, 5uub, XYP, chain: A, (size: 14, mcss_size: 14, resolution:  1.6) 
+LMCSS, 5uua, XYP, chain: A, (size: 14, mcss_size: 14, resolution:  1.6) 
+LMCSS, 5uu9, XYP, chain: A, (size: 14, mcss_size: 14, resolution:  1.6) 
+LMCSS, 5un3, XYP, chain: A, (size: 14, mcss_size: 14, resolution:  1.6) 
+LMCSS, 3fxp, GLO, chain: A, (size: 16, mcss_size: 14, resolution: 2.05) 
+LMCSS, 1tlp, RDF, chain: E, (size: 44, mcss_size: 14, resolution:  2.3) 
+LMCSS, 5uu8, XYP, chain: A, (size: 14, mcss_size: 14, resolution:  2.5) 
+SMCSS, 5fsj, OXY, chain: A, (size: 2, mcss_size: 0, resolution:  1.2) 
+hiResHolo, 5jvi, 6QC, chain: E, (resolution: 1.12)
+hiResApo, 3fxs
+hiTanimoto, 5uub, XYP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)
+hiTanimoto, 5uua, XYP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)
+hiTanimoto, 5uu9, XYP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)
+hiTanimoto, 5un3, XYP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)
+hiTanimoto, 5uu8, XYP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

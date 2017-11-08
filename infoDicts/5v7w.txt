@@ -1,0 +1,10 @@
+query, 5v7w
+ph, N/A
+ligand, 91J
+inchi, InChI=1S/C17H24N4OS/c1-21-8-6-11(7-9-21)10-18-17-19-15(22)14-12-4-2-3-5-13(12)23-16(14)20-17/h11H,2-10H2,1H3,(H2,18,19,20,22)
+size, 23
+rotatable_bond, 2
+LMCSS, 3smj, FDR, chain: A, (size: 14, mcss_size: 13, resolution:  1.5) 
+SMCSS, 4f1l, 0RY, chain: A, (size: 19, mcss_size: 7, resolution:  1.9) 
+hiResHolo, 3smj, FDR, chain: A, (resolution:  1.5)
+hiTanimoto, 3smj, FDR, chain: A, (tanimoto_similarity: 0.69, resolution:  1.5)

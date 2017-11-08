@@ -1,0 +1,11 @@
+query, 5l7v
+ph, N/A
+ligand, GNL
+inchi, InChI=1S/C8H13NO4S/c1-3-9-5-7(12)6(11)4(2-10)13-8(5)14-3/h4-8,10-12H,2H2,1H3/t4-,5-,6+,7-,8-/m1/s1
+size, 19
+rotatable_bond, 1
+LMCSS, 5l7v, GNL, chain: A, (size: 19, mcss_size: 19, resolution:  2.3) 
+SMCSS, 5l7u, NGA, chain: A, (size: 20, mcss_size: 18, resolution:  2.1) 
+hiResHolo, 5l7u, NGA, chain: A, (resolution:  2.1)
+hiResApo, 5l7r
+hiTanimoto, 5l7v, GNL, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)

@@ -1,0 +1,11 @@
+query, 5ur1
+ph, N/A
+ligand, YY9
+inchi, InChI=1S/C31H35Cl2N7O4/c1-37(2)14-8-11-25(41)38-15-12-22(13-16-38)40-29-20(18-34-30(36-29)35-21-9-6-5-7-10-21)19-39(31(40)42)28-26(32)23(43-3)17-24(44-4)27(28)33/h5-11,17-18,22H,12-16,19H2,1-4H3,(H,34,35,36)
+size, 44
+rotatable_bond, 8
+LMCSS, 5ew8, 5SF, chain: A, (size: 33, mcss_size: 15, resolution: 1.63) 
+SMCSS, 4uwc, PPI, chain: A, (size: 5, mcss_size: 3, resolution: 1.96) 
+hiResHolo, 5ew8, 5SF, chain: A, (resolution: 1.63)
+hiResApo, 1fgk
+hiTanimoto, 5vnd, 9ES, chain: A, (tanimoto_similarity: 0.64, resolution:  2.2)

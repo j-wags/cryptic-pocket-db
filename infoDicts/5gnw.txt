@@ -1,0 +1,12 @@
+query, 5gnw
+ph, 4
+ligand, URA
+inchi, InChI=1S/C4H4N2O2/c7-3-1-2-5-4(8)6-3/h1-2H,(H2,5,6,7,8)
+size, 8
+rotatable_bond, 0
+LMCSS, 5grk, XAN, chain: A, (size: 11, mcss_size: 8, resolution:  2.8) 
+LMCSS, 5gnw, URA, chain: A, (size: 8, mcss_size: 8, resolution: 2.87) 
+SMCSS, 5grk, XAN, chain: A, (size: 11, mcss_size: 8, resolution:  2.8) 
+hiResHolo, 5grk, XAN, chain: A, (resolution:  2.8)
+hiResApo, 5gn2
+hiTanimoto, 5gnw, URA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.87)

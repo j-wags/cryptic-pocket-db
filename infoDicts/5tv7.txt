@@ -1,0 +1,10 @@
+query, 5tv7
+ph, 8.5
+ligand, HGA
+inchi, InChI=1S/C5H10N2O4/c6-3(5(9)10)1-2-4(8)7-11/h3,11H,1-2,6H2,(H,7,8)(H,9,10)/t3-/m0/s1
+size, 12
+rotatable_bond, 4
+LMCSS, 5tv7, HGA, chain: A, (size: 12, mcss_size: 12, resolution: 2.05) 
+SMCSS, 5tv7, HGA, chain: A, (size: 12, mcss_size: 12, resolution: 2.05) 
+hiResHolo, 5tv7, HGA, chain: A, (resolution: 2.05)
+hiTanimoto, 5tv7, HGA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.05)

@@ -1,0 +1,16 @@
+query, 5x1k
+ph, N/A
+ligand, 7WR
+inchi, InChI=1S/C8H8O5/c1-13-6-3-4(8(11)12)2-5(9)7(6)10/h2-3,9-10H,1H3,(H,11,12)
+size, 13
+rotatable_bond, 2
+LMCSS, 5x1m, DHB, chain: A, (size: 11, mcss_size: 11, resolution:  1.9) 
+LMCSS, 5x1j, VNL, chain: A, (size: 12, mcss_size: 11, resolution:  1.9) 
+LMCSS, 5x1n, DHB, chain: A, (size: 11, mcss_size: 11, resolution:  2.0) 
+SMCSS, 5x1m, THG, chain: B, (size: 34, mcss_size: 8, resolution:  1.9) 
+SMCSS, 5x1l, THG, chain: B, (size: 34, mcss_size: 8, resolution:  1.9) 
+hiResHolo, 5x1m, DHB, chain: A, (resolution:  1.9)
+hiResHolo, 5x1l, THG, chain: B, (resolution:  1.9)
+hiResHolo, 5x1j, VNL, chain: A, (resolution:  1.9)
+hiResApo, 5tl4
+hiTanimoto, 5x1j, VNL, chain: A, (tanimoto_similarity: 0.73, resolution:  1.9)

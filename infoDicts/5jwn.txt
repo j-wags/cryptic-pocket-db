@@ -1,0 +1,13 @@
+query, 5jwn
+ph, 7
+ligand, 6OL
+inchi, InChI=1S/CH5AsO2/c1-2(3)4/h3-4H,1H3
+size, 4
+rotatable_bond, 0
+LMCSS, 4kw7, PA0, chain: A, (size: 8, mcss_size: 2, resolution:  1.8) 
+LMCSS, 5eg5, PA0, chain: A, (size: 8, mcss_size: 2, resolution: 1.97) 
+LMCSS, 4rsr, RXO, chain: A, (size: 11, mcss_size: 2, resolution: 2.25) 
+SMCSS, 4fr0, SAM, chain: A, (size: 32, mcss_size: 0, resolution: 2.75) 
+hiResHolo, 4kw7, PA0, chain: A, (resolution:  1.8)
+hiTanimoto, 4kw7, PA0, chain: A, (tanimoto_similarity: 0.20, resolution:  1.8)
+hiTanimoto, 5eg5, PA0, chain: A, (tanimoto_similarity: 0.20, resolution: 1.97)

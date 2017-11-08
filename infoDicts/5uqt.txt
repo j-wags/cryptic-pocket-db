@@ -1,0 +1,10 @@
+query, 5uqt
+ph, N/A
+ligand, AGI
+inchi, InChI=1S/C15H10O5/c16-9-3-1-8(2-4-9)13-7-12(19)15-11(18)5-10(17)6-14(15)20-13/h1-7,16-18H
+size, 20
+rotatable_bond, 1
+LMCSS, 5uqt, AGI, chain: B, (size: 20, mcss_size: 20, resolution: 2.75) 
+SMCSS, 2bvl, UDP, chain: A, (size: 29, mcss_size: 6, resolution:  2.2) 
+hiResHolo, 5uqm, U2F, chain: A, (resolution: 2.03)
+hiTanimoto, 5uqt, AGI, chain: B, (tanimoto_similarity:  1.0, resolution: 2.75)

@@ -1,0 +1,11 @@
+query, 5vyj
+ph, 8.5
+ligand, GLY
+inchi, InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)
+size, 5
+rotatable_bond, 1
+LMCSS, 5vyj, GLY, chain: A, (size: 5, mcss_size: 5, resolution:  3.3) 
+SMCSS, 5vyj, GLY, chain: A, (size: 5, mcss_size: 5, resolution:  3.3) 
+hiResHolo, 5vyj, GLY, chain: A, (resolution:  3.3)
+hiResApo, 1jqo
+hiTanimoto, 5vyj, GLY, chain: A, (tanimoto_similarity:  1.0, resolution:  3.3)

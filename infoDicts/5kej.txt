@@ -1,0 +1,11 @@
+query, 5kej
+ph, 6
+ligand, GTX
+inchi, InChI=1S/C16H29N3O6S/c1-2-3-4-5-8-26-10-12(15(23)18-9-14(21)22)19-13(20)7-6-11(17)16(24)25/h11-12H,2-10,17H2,1H3,(H,18,23)(H,19,20)(H,21,22)(H,24,25)/p+1/t11-,12-/m0/s1
+size, 28
+rotatable_bond, 15
+LMCSS, 5kej, GTX, chain: A, (size: 28, mcss_size: 28, resolution: 2.35) 
+SMCSS, 5kej, GTX, chain: A, (size: 28, mcss_size: 28, resolution: 2.35) 
+hiResHolo, 5kej, GTX, chain: A, (resolution: 2.35)
+hiResApo, 5g5e
+hiTanimoto, 5kej, GTX, chain: A, (tanimoto_similarity:  1.0, resolution: 2.35)

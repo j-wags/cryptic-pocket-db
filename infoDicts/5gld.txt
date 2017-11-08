@@ -1,0 +1,13 @@
+query, 5gld
+ph, N/A
+ligand, CB4
+inchi, InChI=1S/C10H15BN4O6S/c1-10(2,8(17)18)21-15-6(5-3-22-9(12)14-5)7(16)13-4-11(19)20/h3,19-20H,4H2,1-2H3,(H2,12,14)(H,13,16)(H,17,18)/b15-6-
+size, 22
+rotatable_bond, 7
+LMCSS, 5glb, CB4, chain: A, (size: 22, mcss_size: 22, resolution:  1.6) 
+LMCSS, 5gld, CB4, chain: A, (size: 22, mcss_size: 22, resolution:  1.7) 
+SMCSS, 5glb, CB4, chain: A, (size: 22, mcss_size: 22, resolution:  1.6) 
+hiResHolo, 5glb, CB4, chain: A, (resolution:  1.6)
+hiResApo, 5gla
+hiTanimoto, 5glb, CB4, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)
+hiTanimoto, 5gld, CB4, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)

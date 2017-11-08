@@ -1,0 +1,16 @@
+query, 5eed
+ph, N/A
+ligand, DE1
+inchi, InChI=1S/C10H22O/c1-2-3-4-5-6-7-8-9-10-11/h11H,2-10H2,1H3
+size, 11
+rotatable_bond, 8
+LMCSS, 5eee, DE1, chain: A, (size: 11, mcss_size: 11, resolution: 1.95) 
+LMCSS, 5eed, DE1, chain: A, (size: 11, mcss_size: 11, resolution:  2.0) 
+LMCSS, 3ueu, DAO, chain: A, (size: 14, mcss_size: 11, resolution:  2.1) 
+LMCSS, 4ib6, DAO, chain: A, (size: 14, mcss_size: 11, resolution:  2.2) 
+LMCSS, 1bso, BRC, chain: A, (size: 15, mcss_size: 11, resolution: 2.23) 
+SMCSS, 4omx, URE, chain: A, (size: 4, mcss_size: 2, resolution:  2.3) 
+hiResHolo, 4kii, RHL, chain: A, (resolution: 1.85)
+hiResApo, 4ck4
+hiTanimoto, 5eee, DE1, chain: A, (tanimoto_similarity:  1.0, resolution: 1.95)
+hiTanimoto, 5eed, DE1, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)

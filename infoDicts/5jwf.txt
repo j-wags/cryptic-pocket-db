@@ -1,0 +1,11 @@
+query, 5jwf
+ph, N/A
+ligand, PGO
+inchi, InChI=1S/C3H8O2/c1-3(5)2-4/h3-5H,2H2,1H3/t3-/m0/s1
+size, 6
+rotatable_bond, 1
+LMCSS, 5jwf, PGO, chain: B, (size: 6, mcss_size: 6, resolution:  2.4) 
+SMCSS, 5jwf, PGO, chain: B, (size: 6, mcss_size: 6, resolution:  2.4) 
+hiResHolo, 5jwf, PGO, chain: B, (resolution:  2.4)
+hiResApo, 4y04
+hiTanimoto, 5jwf, PGO, chain: B, (tanimoto_similarity:  1.0, resolution:  2.4)

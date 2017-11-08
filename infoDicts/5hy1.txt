@@ -1,0 +1,10 @@
+query, 5hy1
+ph, 6.5
+ligand, WDL
+inchi, InChI=1S/C3H3N3O3/c7-1-4-2(8)6-3(9)5-1/h(H3,4,5,6,7,8,9)
+size, 9
+rotatable_bond, 0
+LMCSS, 5hy1, WDL, chain: A, (size: 9, mcss_size: 9, resolution: 2.01) 
+SMCSS, 5hwe, MHA, chain: A, (size: 13, mcss_size: 3, resolution: 1.71) 
+hiResHolo, 5hwe, MHA, chain: A, (resolution: 1.71)
+hiTanimoto, 5hy1, WDL, chain: A, (tanimoto_similarity:  1.0, resolution: 2.01)

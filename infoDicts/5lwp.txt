@@ -1,0 +1,11 @@
+query, 5lwp
+ph, N/A
+ligand, 79U
+inchi, InChI=1S/C24H17ClF3N3O4/c1-30(2)22(32)14-8-11-19-16(12-14)21(29-31(19)15-9-6-13(7-10-15)23(33)34)35-20-17(24(26,27)28)4-3-5-18(20)25/h3-12H,1-2H3,(H,33,34)
+size, 35
+rotatable_bond, 4
+LMCSS, 5aph, VYI, chain: A, (size: 29, mcss_size: 17, resolution: 1.54) 
+SMCSS, 4wlb, TLA, chain: A, (size: 12, mcss_size: 5, resolution:  1.7) 
+hiResHolo, 5aph, VYI, chain: A, (resolution: 1.54)
+hiResApo, 5vb3
+hiTanimoto, 5c4u, 4Y7, chain: A, (tanimoto_similarity: 0.63, resolution: 2.08)

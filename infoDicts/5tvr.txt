@@ -1,0 +1,14 @@
+query, 5tvr
+ph, 6
+ligand, AKG
+inchi, InChI=1S/C5H6O5/c6-3(5(9)10)1-2-4(7)8/h1-2H2,(H,7,8)(H,9,10)
+size, 10
+rotatable_bond, 4
+LMCSS, 2q8c, AKG, chain: A, (size: 10, mcss_size: 10, resolution: 2.05) 
+LMCSS, 5tvr, AKG, chain: A, (size: 10, mcss_size: 10, resolution: 2.09) 
+LMCSS, 2gp5, AKG, chain: A, (size: 10, mcss_size: 10, resolution: 2.28) 
+SMCSS, 2p5b, OXY, chain: A, (size: 2, mcss_size: 0, resolution: 1.99) 
+hiResHolo, 4v2w, OGA, chain: A, (resolution: 1.81)
+hiTanimoto, 2q8c, AKG, chain: A, (tanimoto_similarity:  1.0, resolution: 2.05)
+hiTanimoto, 5tvr, AKG, chain: A, (tanimoto_similarity:  1.0, resolution: 2.09)
+hiTanimoto, 2gp5, AKG, chain: A, (tanimoto_similarity:  1.0, resolution: 2.28)

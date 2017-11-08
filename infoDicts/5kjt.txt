@@ -1,0 +1,11 @@
+query, 5kjt
+ph, 7.24
+ligand, WCA
+inchi, InChI=1S/C30H42N7O18P3S/c1-30(2,25(42)28(43)33-10-9-20(39)32-11-12-59-21(40)8-5-17-3-6-18(38)7-4-17)14-52-58(49,50)55-57(47,48)51-13-19-24(54-56(44,45)46)23(41)29(53-19)37-16-36-22-26(31)34-15-35-27(22)37/h3-8,15-16,19,23-25,29,38,41-42H,9-14H2,1-2H3,(H,32,39)(H,33,43)(H,47,48)(H,49,50)(H2,31,34,35)(H2,44,45,46)/b8-5+/t19-,23-,24-,25+,29-/m1/s1
+size, 66
+rotatable_bond, 21
+LMCSS, 5kjt, WCA, chain: A, (size: 66, mcss_size: 66, resolution:  2.5) 
+SMCSS, 5kjt, WCA, chain: A, (size: 66, mcss_size: 66, resolution:  2.5) 
+hiResHolo, 5kjt, WCA, chain: A, (resolution:  2.5)
+hiResApo, 5kjs
+hiTanimoto, 5kjt, WCA, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

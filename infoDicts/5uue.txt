@@ -1,0 +1,20 @@
+query, 5uue
+ph, N/A
+ligand, MOH
+inchi, InChI=1S/CH4O/c1-2/h2H,1H3
+size, 2
+rotatable_bond, 0
+LMCSS, 5jvi, 6QC, chain: E, (size: 32, mcss_size: 2, resolution: 1.12) 
+LMCSS, 4n4e, 2G6, chain: E, (size: 31, mcss_size: 2, resolution: 1.13) 
+LMCSS, 5js3, 6MG, chain: E, (size: 33, mcss_size: 2, resolution: 1.16) 
+LMCSS, 4mzn, 2G9, chain: E, (size: 31, mcss_size: 2, resolution: 1.17) 
+LMCSS, 5jss, 6NG, chain: E, (size: 33, mcss_size: 2, resolution: 1.19) 
+LMCSS, 5fsj, VAL, chain: A, (size: 9, mcss_size: 2, resolution:  1.2) 
+LMCSS, 3dnz, VAL, chain: A, (size: 9, mcss_size: 2, resolution:  1.2) 
+LMCSS, 3do2, VAL, chain: A, (size: 9, mcss_size: 2, resolution: 1.22) 
+LMCSS, 5lwd, 79E, chain: E, (size: 34, mcss_size: 2, resolution: 1.23) 
+LMCSS, 5l3u, 6NG, chain: E, (size: 33, mcss_size: 2, resolution: 1.23) 
+SMCSS, 1y3g, 3PL, chain: E, (size: 10, mcss_size: 0, resolution:  2.1) 
+hiResHolo, 5jvi, 6QC, chain: E, (resolution: 1.12)
+hiResApo, 3fxs
+hiTanimoto, 5uue, MOH, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)

@@ -1,0 +1,11 @@
+query, 5ihk
+ph, 5
+ligand, PRO
+inchi, InChI=1S/C5H9NO2/c7-5(8)4-2-1-3-6-4/h4,6H,1-3H2,(H,7,8)/t4-/m0/s1
+size, 9
+rotatable_bond, 1
+LMCSS, 5ihk, PRO, chain: A, (size: 9, mcss_size: 9, resolution: 1.35) 
+SMCSS, 5ihk, PRO, chain: A, (size: 9, mcss_size: 9, resolution: 1.35) 
+hiResHolo, 5ihk, PRO, chain: A, (resolution: 1.35)
+hiResApo, 3m0r
+hiTanimoto, 5ihk, PRO, chain: A, (tanimoto_similarity:  1.0, resolution: 1.35)

@@ -1,0 +1,10 @@
+query, 5gmx
+ph, 7.5
+ligand, PMS
+inchi, InChI=1S/C7H8O3S/c8-11(9,10)6-7-4-2-1-3-5-7/h1-5H,6H2,(H,8,9,10)
+size, 11
+rotatable_bond, 2
+LMCSS, 5gmx, PMS, chain: A, (size: 11, mcss_size: 11, resolution:  2.0) 
+SMCSS, 5gmx, PMS, chain: A, (size: 11, mcss_size: 11, resolution:  2.0) 
+hiResHolo, 5gmx, PMS, chain: A, (resolution:  2.0)
+hiTanimoto, 5gmx, PMS, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)

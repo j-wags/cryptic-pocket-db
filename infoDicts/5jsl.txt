@@ -1,0 +1,28 @@
+query, 5jsl
+ph, 7.5
+ligand, ASC
+inchi, InChI=1S/C6H8O6/c7-1-2(8)5-3(9)4(10)6(11)12-5/h2,5,7-10H,1H2/t2-,5+/m0/s1
+size, 14
+rotatable_bond, 2
+LMCSS, 2ylg, ASC, chain: A, (size: 14, mcss_size: 14, resolution: 1.05) 
+LMCSS, 4cip, ASC, chain: A, (size: 14, mcss_size: 14, resolution: 1.22) 
+LMCSS, 5jsl, ASC, chain: A, (size: 14, mcss_size: 14, resolution: 1.25) 
+LMCSS, 3zwi, ASC, chain: A, (size: 14, mcss_size: 14, resolution: 1.25) 
+LMCSS, 2yld, ASC, chain: A, (size: 14, mcss_size: 14, resolution: 1.25) 
+LMCSS, 5jt4, ASC, chain: A, (size: 14, mcss_size: 14, resolution: 1.25) 
+LMCSS, 5jra, ASC, chain: A, (size: 14, mcss_size: 14, resolution: 1.38) 
+LMCSS, 5jli, ASC, chain: A, (size: 14, mcss_size: 14, resolution: 1.55) 
+LMCSS, 5js5, ASC, chain: A, (size: 14, mcss_size: 14, resolution:  1.7) 
+SMCSS, 3ztm, CMO, chain: A, (size: 2, mcss_size: 0, resolution:  0.9) 
+SMCSS, 2yl7, CMO, chain: A, (size: 2, mcss_size: 0, resolution:  0.9) 
+hiResHolo, 3zqv, PCA, chain: A, (resolution: 0.84)
+hiResHolo, 2ykz, PCA, chain: A, (resolution: 0.84)
+hiTanimoto, 2ylg, ASC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.05)
+hiTanimoto, 4cip, ASC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.22)
+hiTanimoto, 5jsl, ASC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.25)
+hiTanimoto, 3zwi, ASC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.25)
+hiTanimoto, 2yld, ASC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.25)
+hiTanimoto, 5jt4, ASC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.25)
+hiTanimoto, 5jra, ASC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.38)
+hiTanimoto, 5jli, ASC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.55)
+hiTanimoto, 5js5, ASC, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)

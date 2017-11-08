@@ -1,0 +1,7 @@
+query, 5jrn
+ph, 5
+ligand, 6MJ
+inchi, InChI=1S/C6H12O5/c1-10-6-5(9)4(8)3(7)2-11-6/h3-9H,2H2,1H3/t3-,4+,5-,6-/m1/s1
+size, 15
+rotatable_bond, 1
+hiResApo, 5jrm

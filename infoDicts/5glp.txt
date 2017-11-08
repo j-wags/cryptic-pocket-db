@@ -1,0 +1,25 @@
+query, 5glp
+ph, 5
+ligand, ARA
+inchi, InChI=1S/C5H10O5/c6-2-1-10-5(9)4(8)3(2)7/h2-9H,1H2/t2-,3-,4+,5+/m0/s1
+size, 14
+rotatable_bond, 0
+LMCSS, 5glr, ARA, chain: A, (size: 14, mcss_size: 14, resolution:  1.7) 
+LMCSS, 5glq, FUB, chain: A, (size: 14, mcss_size: 14, resolution:  1.7) 
+LMCSS, 5gln, XYS, chain: A, (size: 14, mcss_size: 14, resolution:  1.7) 
+LMCSS, 5glp, ARA, chain: A, (size: 14, mcss_size: 14, resolution:  1.8) 
+LMCSS, 5glo, FUB, chain: A, (size: 14, mcss_size: 14, resolution:  1.8) 
+LMCSS, 5glm, XYP, chain: A, (size: 14, mcss_size: 14, resolution:  1.8) 
+SMCSS, 5glr, ARA, chain: A, (size: 14, mcss_size: 14, resolution:  1.7) 
+SMCSS, 5glq, FUB, chain: A, (size: 14, mcss_size: 14, resolution:  1.7) 
+SMCSS, 5gln, XYS, chain: A, (size: 14, mcss_size: 14, resolution:  1.7) 
+hiResHolo, 5glr, ARA, chain: A, (resolution:  1.7)
+hiResHolo, 5glq, FUB, chain: A, (resolution:  1.7)
+hiResHolo, 5gln, XYS, chain: A, (resolution:  1.7)
+hiResApo, 5glk
+hiTanimoto, 5glr, ARA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)
+hiTanimoto, 5glq, XYP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)
+hiTanimoto, 5gln, XYS, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)
+hiTanimoto, 5glp, ARA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 5glo, ARA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 5glm, XYP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)

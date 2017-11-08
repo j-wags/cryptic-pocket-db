@@ -1,0 +1,12 @@
+query, 5wqa
+ph, 7.5
+ligand, J20
+inchi, InChI=1S/C36H26O5/c1-40-29-14-7-25(8-15-29)36(26-9-16-30(41-2)17-10-26)34-21-28(39)13-20-32(34)33-19-6-24(22-37)31(35(33)36)18-5-23-3-11-27(38)12-4-23/h3-4,6-17,19-22,38-39H,1-2H3
+size, 41
+rotatable_bond, 5
+LMCSS, 4ogb, 2SR, chain: A, (size: 29, mcss_size: 19, resolution: 2.03) 
+LMCSS, 3iad, 15X, chain: A, (size: 29, mcss_size: 19, resolution: 2.65) 
+LMCSS, 3iak, EV1, chain: A, (size: 25, mcss_size: 19, resolution:  2.8) 
+SMCSS, 1zkn, IBM, chain: A, (size: 16, mcss_size: 4, resolution:  2.1) 
+hiResHolo, 1y2k, 7DE, chain: A, (resolution: 1.36)
+hiTanimoto, 3k4s, 0MO, chain: A, (tanimoto_similarity: 0.47, resolution: 2.05)

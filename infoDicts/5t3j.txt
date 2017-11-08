@@ -1,0 +1,10 @@
+query, 5t3j
+ph, 8
+ligand, SEY
+inchi, InChI=1S/CH4N2Se/c2-1(3)4/h(H4,2,3,4)
+size, 4
+rotatable_bond, 0
+LMCSS, 5t3j, SEY, chain: A, (size: 4, mcss_size: 4, resolution: 2.55) 
+SMCSS, 5eq7, MLZ, chain: A, (size: 12, mcss_size: 2, resolution: 1.19) 
+hiResHolo, 5eq7, MLZ, chain: A, (resolution: 1.19)
+hiTanimoto, 5t3j, SEY, chain: A, (tanimoto_similarity:  1.0, resolution: 2.55)

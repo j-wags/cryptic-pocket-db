@@ -1,0 +1,12 @@
+query, 5k1u
+ph, 6.3
+ligand, TNF
+inchi, InChI=1S/C6H3N3O7/c10-6-4(8(13)14)1-3(7(11)12)2-5(6)9(15)16/h1-2,10H
+size, 16
+rotatable_bond, 3
+LMCSS, 5k1u, TNF, chain: A, (size: 16, mcss_size: 16, resolution: 1.55) 
+LMCSS, 5k1w, TNF, chain: A, (size: 16, mcss_size: 16, resolution:  1.6) 
+SMCSS, 4b5n, 8K6, chain: A, (size: 18, mcss_size: 2, resolution:  1.1) 
+hiResHolo, 4b5n, 8K6, chain: A, (resolution:  1.1)
+hiTanimoto, 5k1u, TNF, chain: A, (tanimoto_similarity:  1.0, resolution: 1.55)
+hiTanimoto, 5k1w, TNF, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)

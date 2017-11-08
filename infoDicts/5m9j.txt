@@ -1,0 +1,26 @@
+query, 5m9j
+ph, 6.5
+ligand, TLA
+inchi, InChI=1S/C4H6O6/c5-1(3(7)8)2(6)4(9)10/h1-2,5-6H,(H,7,8)(H,9,10)/t1-,2-/m1/s1
+size, 12
+rotatable_bond, 3
+LMCSS, 4aoh, TLA, chain: A, (size: 12, mcss_size: 12, resolution: 1.04) 
+LMCSS, 5m9r, TLA, chain: A, (size: 12, mcss_size: 12, resolution: 1.44) 
+LMCSS, 5m9v, TLA, chain: A, (size: 12, mcss_size: 12, resolution:  1.7) 
+LMCSS, 5m9j, TLA, chain: A, (size: 12, mcss_size: 12, resolution:  1.9) 
+LMCSS, 4ahm, TLA, chain: A, (size: 12, mcss_size: 12, resolution: 1.96) 
+LMCSS, 4ahl, TLA, chain: A, (size: 12, mcss_size: 12, resolution: 2.05) 
+LMCSS, 4ahe, TLA, chain: A, (size: 12, mcss_size: 12, resolution: 2.08) 
+LMCSS, 4ahh, TLA, chain: A, (size: 12, mcss_size: 12, resolution:  2.5) 
+SMCSS, 5m9t, BO4, chain: A, (size: 5, mcss_size: 0, resolution:  2.2) 
+hiResHolo, 4aoh, TLA, chain: A, (resolution: 1.04)
+hiResApo, 5m9q
+hiResApo, 5eop
+hiTanimoto, 4aoh, TLA, chain: A, (tanimoto_similarity:  1.0, resolution: 1.04)
+hiTanimoto, 5m9r, TLA, chain: A, (tanimoto_similarity:  1.0, resolution: 1.44)
+hiTanimoto, 5m9v, TLA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)
+hiTanimoto, 5m9j, TLA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)
+hiTanimoto, 4ahm, TLA, chain: A, (tanimoto_similarity:  1.0, resolution: 1.96)
+hiTanimoto, 4ahl, TLA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.05)
+hiTanimoto, 4ahe, TLA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.08)
+hiTanimoto, 4ahh, TLA, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

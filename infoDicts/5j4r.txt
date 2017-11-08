@@ -1,0 +1,19 @@
+query, 5j4r
+ph, 7.5
+ligand, AKG
+inchi, InChI=1S/C5H6O5/c6-3(5(9)10)1-2-4(7)8/h1-2H2,(H,7,8)(H,9,10)
+size, 10
+rotatable_bond, 4
+LMCSS, 5j4r, AKG, chain: A, (size: 10, mcss_size: 10, resolution: 1.65) 
+LMCSS, 5iqs, AKG, chain: A, (size: 10, mcss_size: 10, resolution:  2.0) 
+LMCSS, 5iqv, AKG, chain: A, (size: 10, mcss_size: 10, resolution:  2.4) 
+LMCSS, 5iqt, AKG, chain: A, (size: 10, mcss_size: 10, resolution:  2.4) 
+LMCSS, 5iqu, AKG, chain: A, (size: 10, mcss_size: 10, resolution: 2.51) 
+SMCSS, 5iqv, 6CU, chain: A, (size: 26, mcss_size: 5, resolution:  2.4) 
+SMCSS, 5iqt, 6CU, chain: A, (size: 26, mcss_size: 5, resolution:  2.4) 
+hiResHolo, 5j4r, AKG, chain: A, (resolution: 1.65)
+hiTanimoto, 5j4r, AKG, chain: A, (tanimoto_similarity:  1.0, resolution: 1.65)
+hiTanimoto, 5iqs, AKG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5iqv, AKG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.4)
+hiTanimoto, 5iqt, AKG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.4)
+hiTanimoto, 5iqu, AKG, chain: A, (tanimoto_similarity:  1.0, resolution: 2.51)

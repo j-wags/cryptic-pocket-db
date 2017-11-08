@@ -1,0 +1,21 @@
+query, 5jgt
+ph, N/A
+ligand, EVI
+inchi, InChI=1S/C3H4N2O2S2/c4-9(6,7)3-5-1-2-8-3/h1-2H,(H2,4,6,7)
+size, 9
+rotatable_bond, 0
+LMCSS, 5jgt, EVI, chain: B, (size: 9, mcss_size: 9, resolution:  1.1) 
+LMCSS, 5jgs, EVF, chain: B, (size: 13, mcss_size: 9, resolution: 1.11) 
+LMCSS, 5jeh, EVF, chain: B, (size: 13, mcss_size: 9, resolution: 1.13) 
+LMCSS, 5je7, EVF, chain: B, (size: 13, mcss_size: 9, resolution: 1.15) 
+LMCSS, 5jg5, EVF, chain: B, (size: 13, mcss_size: 9, resolution: 1.19) 
+LMCSS, 5jeg, EVF, chain: B, (size: 13, mcss_size: 9, resolution: 1.19) 
+LMCSS, 5jep, EVF, chain: B, (size: 13, mcss_size: 9, resolution: 1.19) 
+LMCSS, 5jes, EVF, chain: B, (size: 13, mcss_size: 9, resolution: 1.21) 
+LMCSS, 5jg3, EVF, chain: B, (size: 13, mcss_size: 9, resolution: 1.21) 
+LMCSS, 5jdv, EVF, chain: B, (size: 13, mcss_size: 9, resolution: 1.34) 
+SMCSS, 3u7c, BCT, chain: A, (size: 4, mcss_size: 0, resolution: 0.93) 
+hiResHolo, 3k34, SUA, chain: A, (resolution:  0.9)
+hiResApo, 3ks3
+hiTanimoto, 5jgt, EVI, chain: B, (tanimoto_similarity:  1.0, resolution:  1.1)
+hiTanimoto, 3s77, EVI, chain: B, (tanimoto_similarity:  1.0, resolution: 1.86)

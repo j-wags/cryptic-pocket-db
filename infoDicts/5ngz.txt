@@ -1,0 +1,11 @@
+query, 5ngz
+ph, N/A
+ligand, 2BG
+inchi, InChI=1S/C8H8N2S/c9-5-8-10-6-3-1-2-4-7(6)11-8/h1-4H,5,9H2
+size, 11
+rotatable_bond, 1
+LMCSS, 5ngz, 2BG, chain: A, (size: 11, mcss_size: 11, resolution:  2.4) 
+SMCSS, 5ngz, 2BG, chain: A, (size: 11, mcss_size: 11, resolution:  2.4) 
+hiResHolo, 5ngz, 2BG, chain: A, (resolution:  2.4)
+hiResApo, 4ccg
+hiTanimoto, 5ngz, 2BG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.4)

@@ -1,0 +1,16 @@
+query, 5jd2
+ph, N/A
+ligand, BYY
+inchi, InChI=1S/C10H16N2O3Se/c13-8(14)4-2-1-3-7-9-6(5-16-7)11-10(15)12-9/h6-7,9H,1-5H2,(H,13,14)(H2,11,12,15)/t6-,7-,9-/m0/s1
+size, 19
+rotatable_bond, 5
+LMCSS, 2f01, BTQ, chain: A, (size: 19, mcss_size: 18, resolution: 0.85) 
+LMCSS, 2gh7, BTQ, chain: A, (size: 19, mcss_size: 18, resolution:  1.0) 
+LMCSS, 3t6f, BSO, chain: A, (size: 20, mcss_size: 18, resolution: 1.22) 
+LMCSS, 3wyp, BSO, chain: B, (size: 20, mcss_size: 18, resolution:  1.3) 
+LMCSS, 1swp, BTQ, chain: C, (size: 19, mcss_size: 18, resolution:  2.0) 
+LMCSS, 1swk, BTQ, chain: C, (size: 19, mcss_size: 18, resolution:  2.0) 
+SMCSS, 5b5g, SO3, chain: A, (size: 4, mcss_size: 0, resolution:  1.5) 
+hiResHolo, 2f01, BTQ, chain: A, (resolution: 0.85)
+hiTanimoto, 3rdq, DTB, chain: A, (tanimoto_similarity: 0.61, resolution:  1.6)
+hiTanimoto, 4dne, DTB, chain: A, (tanimoto_similarity: 0.61, resolution: 1.88)

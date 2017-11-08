@@ -1,0 +1,10 @@
+query, 5ij6
+ph, 8.5
+ligand, LPA
+inchi, InChI=1S/C8H14O2S2/c9-8(10)4-2-1-3-7-5-6-11-12-7/h7H,1-6H2,(H,9,10)/t7-/m1/s1
+size, 13
+rotatable_bond, 5
+LMCSS, 5ij6, LPA, chain: A, (size: 13, mcss_size: 13, resolution:  2.0) 
+SMCSS, 5ij6, LPA, chain: A, (size: 13, mcss_size: 13, resolution:  2.0) 
+hiResHolo, 5ij6, LPA, chain: A, (resolution:  2.0)
+hiTanimoto, 5ij6, LPA, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)

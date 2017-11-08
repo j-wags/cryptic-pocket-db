@@ -1,0 +1,12 @@
+query, 5t4k
+ph, N/A
+ligand, 76U
+inchi, InChI=1S/C13H20FN2O7P/c1-8-13(19)11(6-16-10(4-14)2-3-12(17)18)9(5-15-8)7-23-24(20,21)22/h5,10,16,19H,2-4,6-7H2,1H3,(H,17,18)(H2,20,21,22)/t10-/m0/s1
+size, 25
+rotatable_bond, 10
+LMCSS, 5x03, ABU, chain: A, (size: 7, mcss_size: 7, resolution:  2.0) 
+LMCSS, 5t4j, ABU, chain: B, (size: 7, mcss_size: 7, resolution: 2.23) 
+SMCSS, 5x03, ABU, chain: A, (size: 7, mcss_size: 7, resolution:  2.0) 
+hiResHolo, 5x03, ABU, chain: A, (resolution:  2.0)
+hiTanimoto, 5x03, ABU, chain: A, (tanimoto_similarity: 0.48, resolution:  2.0)
+hiTanimoto, 5t4j, ABU, chain: B, (tanimoto_similarity: 0.48, resolution: 2.23)

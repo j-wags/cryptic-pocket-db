@@ -1,0 +1,13 @@
+query, 5meh
+ph, 6.5
+ligand, DMJ
+inchi, InChI=1S/C6H13NO4/c8-2-3-5(10)6(11)4(9)1-7-3/h3-11H,1-2H2/t3-,4-,5-,6-/m1/s1
+size, 15
+rotatable_bond, 1
+LMCSS, 5meh, DMJ, chain: A, (size: 15, mcss_size: 15, resolution: 0.95) 
+LMCSS, 5ne5, KIF, chain: A, (size: 21, mcss_size: 15, resolution: 1.05) 
+LMCSS, 4ayq, MVL, chain: A, (size: 18, mcss_size: 15, resolution:  1.1) 
+SMCSS, 4ayr, IFL, chain: A, (size: 14, mcss_size: 12, resolution:  1.1) 
+hiResHolo, 4ayp, SMD, chain: A, (resolution: 0.85)
+hiResApo, 4ayo
+hiTanimoto, 5meh, DMJ, chain: A, (tanimoto_similarity:  1.0, resolution: 0.95)

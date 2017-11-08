@@ -1,0 +1,11 @@
+query, 5k2j
+ph, 6.5
+ligand, PEO
+inchi, InChI=1S/H2O2/c1-2/h1-2H
+size, 2
+rotatable_bond, 0
+LMCSS, 5k2j, PEO, chain: A, (size: 2, mcss_size: 2, resolution: 1.91) 
+SMCSS, 5k2j, PEO, chain: A, (size: 2, mcss_size: 2, resolution: 1.91) 
+hiResHolo, 5k2j, PEO, chain: A, (resolution: 1.91)
+hiResApo, 5k2i
+hiTanimoto, 5k2j, PEO, chain: A, (tanimoto_similarity:  1.0, resolution: 1.91)

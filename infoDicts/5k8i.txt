@@ -1,0 +1,13 @@
+query, 5k8i
+ph, 7.5
+ligand, ATP
+inchi, InChI=1S/C10H16N5O13P3/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(26-10)1-25-30(21,22)28-31(23,24)27-29(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H,23,24)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1
+size, 35
+rotatable_bond, 8
+LMCSS, 5k8i, ATP, chain: A, (size: 35, mcss_size: 35, resolution: 1.69) 
+LMCSS, 5gjc, ATP, chain: A, (size: 35, mcss_size: 35, resolution:  2.2) 
+SMCSS, 5k8u, ADP, chain: A, (size: 31, mcss_size: 31, resolution:  1.6) 
+hiResHolo, 5k8u, ADP, chain: A, (resolution:  1.6)
+hiResApo, 5jwh
+hiTanimoto, 5k8i, ATP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.69)
+hiTanimoto, 5gjc, ATP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.2)

@@ -1,0 +1,27 @@
+query, 5jeh
+ph, N/A
+ligand, EVF
+inchi, InChI=1S/C7H6N2O2S2/c8-13(10,11)7-9-5-3-1-2-4-6(5)12-7/h1-4H,(H2,8,10,11)
+size, 13
+rotatable_bond, 0
+LMCSS, 5jgs, EVF, chain: B, (size: 13, mcss_size: 13, resolution: 1.11) 
+LMCSS, 5jeh, EVF, chain: B, (size: 13, mcss_size: 13, resolution: 1.13) 
+LMCSS, 5jeg, EVF, chain: B, (size: 13, mcss_size: 13, resolution: 1.19) 
+LMCSS, 5jg5, EVF, chain: B, (size: 13, mcss_size: 13, resolution: 1.19) 
+LMCSS, 5jep, EVF, chain: B, (size: 13, mcss_size: 13, resolution: 1.19) 
+LMCSS, 5jes, EVF, chain: B, (size: 13, mcss_size: 13, resolution: 1.21) 
+LMCSS, 5jg3, EVF, chain: B, (size: 13, mcss_size: 13, resolution: 1.21) 
+LMCSS, 3dd0, EZL, chain: A, (size: 16, mcss_size: 13, resolution: 1.48) 
+LMCSS, 1zfq, ZEC, chain: A, (size: 14, mcss_size: 13, resolution: 1.55) 
+LMCSS, 3d9z, D9Z, chain: A, (size: 16, mcss_size: 13, resolution: 1.65) 
+SMCSS, 3u7c, BCT, chain: A, (size: 4, mcss_size: 0, resolution: 0.93) 
+hiResHolo, 3k34, SUA, chain: A, (resolution:  0.9)
+hiResApo, 3ks3
+hiTanimoto, 5jgs, EVF, chain: B, (tanimoto_similarity:  1.0, resolution: 1.11)
+hiTanimoto, 5jeh, EVF, chain: B, (tanimoto_similarity:  1.0, resolution: 1.13)
+hiTanimoto, 5jeg, EVF, chain: B, (tanimoto_similarity:  1.0, resolution: 1.19)
+hiTanimoto, 5jg5, EVF, chain: B, (tanimoto_similarity:  1.0, resolution: 1.19)
+hiTanimoto, 5jep, EVF, chain: B, (tanimoto_similarity:  1.0, resolution: 1.19)
+hiTanimoto, 5jes, EVF, chain: B, (tanimoto_similarity:  1.0, resolution: 1.21)
+hiTanimoto, 5jg3, EVF, chain: B, (tanimoto_similarity:  1.0, resolution: 1.21)
+hiTanimoto, 3s73, EVF, chain: B, (tanimoto_similarity:  1.0, resolution: 1.75)

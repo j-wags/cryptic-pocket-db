@@ -1,0 +1,14 @@
+query, 5vce
+ph, 7.5
+ligand, RIT
+inchi, InChI=1S/C37H48N6O5S2/c1-24(2)33(42-36(46)43(5)20-29-22-49-35(40-29)25(3)4)34(45)39-28(16-26-12-8-6-9-13-26)18-32(44)31(17-27-14-10-7-11-15-27)41-37(47)48-21-30-19-38-23-50-30/h6-15,19,22-25,28,31-33,44H,16-18,20-21H2,1-5H3,(H,39,45)(H,41,47)(H,42,46)/t28-,31-,32-,33-/m0/s1
+size, 54
+rotatable_bond, 17
+LMCSS, 3nxu, RIT, chain: A, (size: 54, mcss_size: 54, resolution:  2.0) 
+LMCSS, 5vce, RIT, chain: A, (size: 54, mcss_size: 54, resolution:  2.2) 
+LMCSS, 5vc0, RIT, chain: A, (size: 54, mcss_size: 54, resolution:  2.7) 
+SMCSS, 1w0g, MYT, chain: A, (size: 17, mcss_size: 9, resolution: 2.74) 
+hiResHolo, 4d6z, PK9, chain: A, (resolution: 1.93)
+hiTanimoto, 3nxu, RIT, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5vce, RIT, chain: A, (tanimoto_similarity:  1.0, resolution:  2.2)
+hiTanimoto, 5vc0, RIT, chain: A, (tanimoto_similarity:  1.0, resolution:  2.7)

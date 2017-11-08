@@ -1,0 +1,21 @@
+query, 5jei
+ph, 6.2
+ligand, FWD
+inchi, InChI=1S/C7H8FN3O4/c8-3-1-11(2-4(9)6(13)14)7(15)10-5(3)12/h1,4H,2,9H2,(H,13,14)(H,10,12,15)/t4-/m0/s1
+size, 16
+rotatable_bond, 3
+LMCSS, 5jei, FWD, chain: A, (size: 16, mcss_size: 16, resolution: 1.23) 
+LMCSS, 1mqi, FWD, chain: A, (size: 16, mcss_size: 16, resolution: 1.35) 
+LMCSS, 4u21, FWD, chain: A, (size: 16, mcss_size: 16, resolution: 1.39) 
+LMCSS, 4u22, FWD, chain: A, (size: 16, mcss_size: 16, resolution: 1.44) 
+LMCSS, 2al5, FWD, chain: A, (size: 16, mcss_size: 16, resolution: 1.65) 
+LMCSS, 4u23, FWD, chain: A, (size: 16, mcss_size: 16, resolution: 1.67) 
+SMCSS, 3rn8, RN8, chain: A, (size: 30, mcss_size: 4, resolution:  1.7) 
+hiResHolo, 5jei, FWD, chain: A, (resolution: 1.23)
+hiResApo, 4u2r
+hiTanimoto, 5jei, FWD, chain: A, (tanimoto_similarity:  1.0, resolution: 1.23)
+hiTanimoto, 1mqi, FWD, chain: A, (tanimoto_similarity:  1.0, resolution: 1.35)
+hiTanimoto, 4u21, FWD, chain: A, (tanimoto_similarity:  1.0, resolution: 1.39)
+hiTanimoto, 4u22, FWD, chain: A, (tanimoto_similarity:  1.0, resolution: 1.44)
+hiTanimoto, 2al5, FWD, chain: A, (tanimoto_similarity:  1.0, resolution: 1.65)
+hiTanimoto, 4u23, FWD, chain: A, (tanimoto_similarity:  1.0, resolution: 1.67)

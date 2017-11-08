@@ -1,0 +1,16 @@
+query, 5kcl
+ph, 6
+ligand, 6C7
+inchi, InChI=1S/C5H12O6P2S/c1-5(2)3-4-14-13(9,10)11-12(6,7)8/h3H,4H2,1-2H3,(H,9,10)(H2,6,7,8)
+size, 14
+rotatable_bond, 5
+LMCSS, 5kda, 6C7, chain: A, (size: 14, mcss_size: 14, resolution:  2.0) 
+LMCSS, 5kcq, GST, chain: A, (size: 20, mcss_size: 14, resolution:  2.0) 
+LMCSS, 5kcl, 6C7, chain: A, (size: 14, mcss_size: 14, resolution:  2.1) 
+LMCSS, 5kd0, GST, chain: A, (size: 20, mcss_size: 14, resolution: 2.82) 
+SMCSS, 5kda, GEN, chain: A, (size: 20, mcss_size: 5, resolution:  2.0) 
+hiResHolo, 5kda, 6C7, chain: A, (resolution:  2.0)
+hiResHolo, 5kcq, GST, chain: A, (resolution:  2.0)
+hiResApo, 5kcg
+hiTanimoto, 5kda, 6C7, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5kcl, 6C7, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)

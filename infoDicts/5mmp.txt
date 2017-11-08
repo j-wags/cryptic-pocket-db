@@ -1,0 +1,10 @@
+query, 5mmp
+ph, N/A
+ligand, G3Z
+inchi, InChI=1S/C22H20N6O/c1-2-25-22(29)28-21-12-18-17(15-7-10-23-11-8-15)5-6-20(19(18)14-26-21)27-16-4-3-9-24-13-16/h3-14,27H,2H2,1H3,(H2,25,26,28,29)
+size, 29
+rotatable_bond, 4
+LMCSS, 1aj6, NOV, chain: A, (size: 48, mcss_size: 14, resolution:  2.3) 
+SMCSS, 4wub, ANP, chain: A, (size: 35, mcss_size: 9, resolution: 1.75) 
+hiResHolo, 4duh, RLI, chain: A, (resolution:  1.5)
+hiTanimoto, 1aj6, NOV, chain: A, (tanimoto_similarity: 0.44, resolution:  2.3)

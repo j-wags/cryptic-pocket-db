@@ -1,0 +1,12 @@
+query, 5lrf
+ph, 6.8
+ligand, KS3
+inchi, InChI=1S/C18H19N3O5/c22-8-12-13(23)14(24)15(25)16(26-12)18-19-17(20-21-18)11-6-5-9-3-1-2-4-10(9)7-11/h1-7,12-16,22-25H,8H2,(H,19,20,21)/t12-,13-,14+,15-,16-/m1/s1
+size, 31
+rotatable_bond, 3
+LMCSS, 5lrf, KS3, chain: A, (size: 31, mcss_size: 31, resolution: 1.75) 
+LMCSS, 5lre, KS3, chain: A, (size: 31, mcss_size: 31, resolution:  1.8) 
+SMCSS, 1e1y, PO3, chain: A, (size: 4, mcss_size: 0, resolution: 2.23) 
+hiResHolo, 2gj4, 2TH, chain: A, (resolution:  1.6)
+hiTanimoto, 5lrf, KS3, chain: A, (tanimoto_similarity:  1.0, resolution: 1.75)
+hiTanimoto, 5lre, KS3, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)

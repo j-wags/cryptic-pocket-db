@@ -1,0 +1,10 @@
+query, 5gro
+ph, 5.6
+ligand, BUA
+inchi, InChI=1S/C4H8O2/c1-2-3-4(5)6/h2-3H2,1H3,(H,5,6)
+size, 6
+rotatable_bond, 2
+LMCSS, 5gro, BUA, chain: B, (size: 6, mcss_size: 6, resolution:  2.0) 
+SMCSS, 5gro, BUA, chain: B, (size: 6, mcss_size: 6, resolution:  2.0) 
+hiResHolo, 5gro, BUA, chain: B, (resolution:  2.0)
+hiTanimoto, 5gro, BUA, chain: B, (tanimoto_similarity:  1.0, resolution:  2.0)

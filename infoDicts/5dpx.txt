@@ -1,0 +1,12 @@
+query, 5dpx
+ph, 7.75
+ligand, L3B
+inchi, InChI=1S/C9H7N3S/c1-6-4-2-3-5-7(6)8-10-9(13)12-11-8/h2-5H,1H3
+size, 13
+rotatable_bond, 1
+LMCSS, 2aio, MX1, chain: A, (size: 32, mcss_size: 10, resolution:  1.7) 
+LMCSS, 2hb9, L13, chain: A, (size: 14, mcss_size: 10, resolution: 1.75) 
+SMCSS, 5evk, 3C7, chain: A, (size: 16, mcss_size: 3, resolution: 1.63) 
+hiResHolo, 5evk, 3C7, chain: A, (resolution: 1.63)
+hiResApo, 1sml
+hiTanimoto, 2hb9, L13, chain: A, (tanimoto_similarity: 0.46, resolution: 1.75)

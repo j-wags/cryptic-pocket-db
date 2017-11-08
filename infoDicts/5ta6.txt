@@ -1,0 +1,10 @@
+query, 5ta6
+ph, N/A
+ligand, 79D
+inchi, InChI=1S/C30H37N9O2/c1-4-24-27-23(16-31)33-18-38(27)25-17-32-30(36-28(25)39(24)21-7-5-6-8-21)35-22-10-9-19(15-26(22)41-3)29(40)34-20-11-13-37(2)14-12-20/h9-10,15,17-18,20-21,24H,4-8,11-14H2,1-3H3,(H,34,40)(H,32,35,36)/t24-/m1/s1
+size, 42
+rotatable_bond, 6
+LMCSS, 3fc2, IBI, chain: A, (size: 48, mcss_size: 34, resolution: 2.45) 
+SMCSS, 2owb, 626, chain: A, (size: 32, mcss_size: 11, resolution:  2.1) 
+hiResHolo, 2owb, 626, chain: A, (resolution:  2.1)
+hiTanimoto, 3fc2, IBI, chain: A, (tanimoto_similarity: 0.81, resolution: 2.45)

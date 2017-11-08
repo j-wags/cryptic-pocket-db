@@ -1,0 +1,10 @@
+query, 5ko8
+ph, 7.5
+ligand, IYR
+inchi, InChI=1S/C9H10INO3/c10-6-3-5(1-2-8(6)12)4-7(11)9(13)14/h1-3,7,12H,4,11H2,(H,13,14)/t7-/m0/s1
+size, 15
+rotatable_bond, 3
+LMCSS, 5ko8, IYR, chain: A, (size: 15, mcss_size: 15, resolution: 2.15) 
+SMCSS, 5ko8, IYR, chain: A, (size: 15, mcss_size: 15, resolution: 2.15) 
+hiResHolo, 5ko8, IYR, chain: A, (resolution: 2.15)
+hiTanimoto, 5ko8, IYR, chain: A, (tanimoto_similarity:  1.0, resolution: 2.15)

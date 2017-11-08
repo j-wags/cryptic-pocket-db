@@ -1,0 +1,10 @@
+query, 5vfb
+ph, 5
+ligand, GOA
+inchi, InChI=1S/C2H4O3/c3-1-2(4)5/h3H,1H2,(H,4,5)
+size, 5
+rotatable_bond, 1
+LMCSS, 5vfb, GOA, chain: A, (size: 5, mcss_size: 5, resolution: 1.36) 
+SMCSS, 5vfb, GOA, chain: A, (size: 5, mcss_size: 5, resolution: 1.36) 
+hiResHolo, 5vfb, GOA, chain: A, (resolution: 1.36)
+hiTanimoto, 5vfb, GOA, chain: A, (tanimoto_similarity:  1.0, resolution: 1.36)

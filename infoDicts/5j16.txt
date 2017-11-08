@@ -1,0 +1,12 @@
+query, 5j16
+ph, 6
+ligand, IPD
+inchi, InChI=1S/C6H13O9P/c7-1-2(8)4(10)6(5(11)3(1)9)15-16(12,13)14/h1-11H,(H2,12,13,14)/p-2/t1-,2-,3+,4-,5-,6-/m1/s1
+size, 22
+rotatable_bond, 2
+LMCSS, 5j16, IPD, chain: A, (size: 22, mcss_size: 22, resolution:  2.4) 
+SMCSS, 5dw8, 2AM, chain: A, (size: 27, mcss_size: 17, resolution:  2.4) 
+hiResHolo, 5j16, IPD, chain: A, (resolution:  2.4)
+hiResHolo, 5dw8, 2AM, chain: A, (resolution:  2.4)
+hiResApo, 5i3s
+hiTanimoto, 5j16, IPD, chain: A, (tanimoto_similarity:  1.0, resolution:  2.4)

@@ -1,0 +1,11 @@
+query, 5wzr
+ph, 6.5
+ligand, DJN
+inchi, InChI=1S/C8H16N2O4/c1-4(12)10-5-2-9-6(3-11)8(14)7(5)13/h5-9,11,13-14H,2-3H2,1H3,(H,10,12)/t5-,6+,7+,8-/m0/s1
+size, 18
+rotatable_bond, 2
+LMCSS, 5wzr, DJN, chain: A, (size: 18, mcss_size: 18, resolution: 2.79) 
+SMCSS, 5wzn, A2G, chain: A, (size: 20, mcss_size: 17, resolution:  2.1) 
+hiResHolo, 5wzn, A2G, chain: A, (resolution:  2.1)
+hiResApo, 5wzq
+hiTanimoto, 5wzr, DJN, chain: A, (tanimoto_similarity:  1.0, resolution: 2.79)

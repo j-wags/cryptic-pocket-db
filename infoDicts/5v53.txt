@@ -1,0 +1,28 @@
+query, 5v53
+ph, 6.1
+ligand, OXY
+inchi, InChI=1S/O2/c1-2
+size, 2
+rotatable_bond, 0
+LMCSS, 5sxw, OXY, chain: A, (size: 2, mcss_size: 2, resolution:  1.6) 
+LMCSS, 5ksg, OXY, chain: A, (size: 2, mcss_size: 2, resolution: 1.62) 
+LMCSS, 5kq6, OXY, chain: A, (size: 2, mcss_size: 2, resolution: 1.62) 
+LMCSS, 5syh, OXY, chain: A, (size: 2, mcss_size: 2, resolution: 1.65) 
+LMCSS, 5sxr, OXY, chain: A, (size: 2, mcss_size: 2, resolution: 1.69) 
+LMCSS, 5ksk, OXY, chain: A, (size: 2, mcss_size: 2, resolution: 1.69) 
+LMCSS, 5v53, OXY, chain: A, (size: 2, mcss_size: 2, resolution:  1.7) 
+LMCSS, 5syi, OXY, chain: A, (size: 2, mcss_size: 2, resolution:  1.7) 
+LMCSS, 5l05, OXY, chain: A, (size: 2, mcss_size: 2, resolution:  1.7) 
+LMCSS, 5sxx, OXY, chain: A, (size: 2, mcss_size: 2, resolution:  1.7) 
+SMCSS, 5sxw, TOX, chain: A, (size: 18, mcss_size: 0, resolution:  1.6) 
+hiResHolo, 5sxw, OXY, chain: A, (resolution:  1.6)
+hiTanimoto, 5sxw, OXY, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)
+hiTanimoto, 5ksg, OXY, chain: A, (tanimoto_similarity:  1.0, resolution: 1.62)
+hiTanimoto, 5kq6, OXY, chain: A, (tanimoto_similarity:  1.0, resolution: 1.62)
+hiTanimoto, 5syh, OXY, chain: A, (tanimoto_similarity:  1.0, resolution: 1.65)
+hiTanimoto, 5sxr, OXY, chain: A, (tanimoto_similarity:  1.0, resolution: 1.69)
+hiTanimoto, 5ksk, OXY, chain: A, (tanimoto_similarity:  1.0, resolution: 1.69)
+hiTanimoto, 5v53, OXY, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)
+hiTanimoto, 5syi, OXY, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)
+hiTanimoto, 5l05, OXY, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)
+hiTanimoto, 5sxx, OXY, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)

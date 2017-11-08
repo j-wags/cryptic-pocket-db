@@ -1,0 +1,19 @@
+query, 5e93
+ph, 5.2
+ligand, 5LL
+inchi, InChI=1S/C11H8N2O4/c14-9-8(10(15)13-11(16)12-9)5-1-3-7-4-2-6-17-7/h1-6H,(H2,12,13,14,15,16)/b3-1+
+size, 19
+rotatable_bond, 2
+LMCSS, 3w88, W88, chain: A, (size: 28, mcss_size: 11, resolution:  1.4) 
+LMCSS, 3w7d, W7D, chain: A, (size: 25, mcss_size: 11, resolution: 1.52) 
+LMCSS, 3w7j, W7J, chain: A, (size: 26, mcss_size: 11, resolution: 1.58) 
+LMCSS, 3w7k, W7K, chain: A, (size: 27, mcss_size: 11, resolution: 1.61) 
+LMCSS, 3w7i, W7I, chain: A, (size: 25, mcss_size: 11, resolution: 1.69) 
+LMCSS, 3w7c, W7C, chain: A, (size: 25, mcss_size: 11, resolution: 1.75) 
+LMCSS, 4jdb, JDB, chain: A, (size: 25, mcss_size: 11, resolution: 1.82) 
+LMCSS, 3w7l, W7L, chain: A, (size: 25, mcss_size: 11, resolution: 1.88) 
+LMCSS, 3w84, W8Z, chain: A, (size: 27, mcss_size: 11, resolution: 1.93) 
+LMCSS, 3w7m, W7M, chain: A, (size: 27, mcss_size: 11, resolution:  2.4) 
+SMCSS, 2e68, DOR, chain: A, (size: 12, mcss_size: 6, resolution: 1.38) 
+hiResHolo, 2e6f, OXC, chain: A, (resolution: 1.26)
+hiTanimoto, 3w70, W70, chain: A, (tanimoto_similarity: 0.37, resolution:  2.6)

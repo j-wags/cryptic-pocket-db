@@ -1,0 +1,12 @@
+query, 5wse
+ph, 6.5
+ligand, OS
+inchi, InChI=1S/Os/q+3
+size, 1
+rotatable_bond, 0
+LMCSS, 5wsf, OS, chain: A, (size: 1, mcss_size: 0, resolution: 1.11) 
+LMCSS, 5wse, OS, chain: A, (size: 1, mcss_size: 0, resolution: 1.12) 
+SMCSS, 5wsf, OS, chain: A, (size: 1, mcss_size: 0, resolution: 1.11) 
+hiResHolo, 5wsf, OS, chain: A, (resolution: 1.11)
+hiTanimoto, 5wsf, OS, chain: A, (tanimoto_similarity:  1.0, resolution: 1.11)
+hiTanimoto, 5wse, OS, chain: A, (tanimoto_similarity:  1.0, resolution: 1.12)

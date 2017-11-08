@@ -1,0 +1,27 @@
+query, 5ob9
+ph, N/A
+ligand, 9Q8
+inchi, InChI=1S/3CO.3H2O.Ru/c3*1-2;;;;/h;;;3*1H2;/q3*+1;;;;+3/p-3
+size, 10
+rotatable_bond, 0
+LMCSS, 4nhp, 2T8, chain: A, (size: 8, mcss_size: 2, resolution: 1.42) 
+LMCSS, 4n9r, 2T8, chain: A, (size: 8, mcss_size: 2, resolution: 1.55) 
+LMCSS, 4nht, 2T8, chain: A, (size: 8, mcss_size: 2, resolution: 1.65) 
+LMCSS, 4uwn, CMO, chain: A, (size: 2, mcss_size: 2, resolution: 1.67) 
+LMCSS, 4uwv, CMO, chain: A, (size: 2, mcss_size: 2, resolution: 1.77) 
+LMCSS, 4uwu, CMO, chain: A, (size: 2, mcss_size: 2, resolution: 1.78) 
+LMCSS, 4nij, 2T8, chain: A, (size: 8, mcss_size: 2, resolution: 1.86) 
+LMCSS, 4nhq, 2T8, chain: A, (size: 8, mcss_size: 2, resolution: 1.92) 
+LMCSS, 4nhs, 2T8, chain: A, (size: 8, mcss_size: 2, resolution: 1.99) 
+SMCSS, 5iel, 6B9, chain: A, (size: 28, mcss_size: 0, resolution: 1.15) 
+hiResHolo, 5iel, 6B9, chain: A, (resolution: 1.15)
+hiResApo, 3lzt
+hiTanimoto, 4nhp, 2T8, chain: A, (tanimoto_similarity:  1.0, resolution: 1.42)
+hiTanimoto, 4n9r, 2T8, chain: A, (tanimoto_similarity:  1.0, resolution: 1.55)
+hiTanimoto, 4nht, 2T8, chain: A, (tanimoto_similarity:  1.0, resolution: 1.65)
+hiTanimoto, 4uwn, CMO, chain: A, (tanimoto_similarity:  1.0, resolution: 1.67)
+hiTanimoto, 4uwv, CMO, chain: A, (tanimoto_similarity:  1.0, resolution: 1.77)
+hiTanimoto, 4uwu, CMO, chain: A, (tanimoto_similarity:  1.0, resolution: 1.78)
+hiTanimoto, 4nij, 2T8, chain: A, (tanimoto_similarity:  1.0, resolution: 1.86)
+hiTanimoto, 4nhq, 2T8, chain: A, (tanimoto_similarity:  1.0, resolution: 1.92)
+hiTanimoto, 4nhs, 2T8, chain: A, (tanimoto_similarity:  1.0, resolution: 1.99)

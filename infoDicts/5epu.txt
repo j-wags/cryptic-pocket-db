@@ -1,0 +1,12 @@
+query, 5epu
+ph, 8.5
+ligand, CYT
+inchi, InChI=1S/C4H5N3O/c5-3-1-2-6-4(8)7-3/h1-2H,(H3,5,6,7,8)
+size, 8
+rotatable_bond, 0
+LMCSS, 5epu, CYT, chain: A, (size: 8, mcss_size: 8, resolution: 1.06) 
+LMCSS, 5efo, CYT, chain: A, (size: 8, mcss_size: 8, resolution: 1.63) 
+SMCSS, 4lzw, THM, chain: A, (size: 20, mcss_size: 5, resolution: 1.29) 
+hiResHolo, 5epu, CYT, chain: A, (resolution: 1.06)
+hiTanimoto, 5epu, CYT, chain: A, (tanimoto_similarity:  1.0, resolution: 1.06)
+hiTanimoto, 5efo, CYT, chain: A, (tanimoto_similarity:  1.0, resolution: 1.63)

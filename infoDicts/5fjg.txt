@@ -1,0 +1,10 @@
+query, 5fjg
+ph, 4.5
+ligand, ANR
+inchi, InChI=1S/C20H28/c1-7-16(2)10-8-11-17(3)13-14-19-18(4)12-9-15-20(19,5)6/h7-8,10-14H,1,9,15H2,2-6H3/b11-8+,16-10+,17-13+,19-14-
+size, 25
+rotatable_bond, 4
+LMCSS, 5fjg, ANR, chain: A, (size: 25, mcss_size: 25, resolution:  2.0) 
+SMCSS, 5b2n, D12, chain: A, (size: 12, mcss_size: 7, resolution: 1.58) 
+hiResHolo, 5g28, RET, chain: A, (resolution: 1.57)
+hiTanimoto, 5fjg, ANR, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)

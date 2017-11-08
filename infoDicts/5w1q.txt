@@ -1,0 +1,10 @@
+query, 5w1q
+ph, 8
+ligand, DGL
+inchi, InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)/t3-/m1/s1
+size, 11
+rotatable_bond, 4
+LMCSS, 5w1q, DGL, chain: A, (size: 11, mcss_size: 11, resolution: 1.95) 
+SMCSS, 5w1q, DGL, chain: A, (size: 11, mcss_size: 11, resolution: 1.95) 
+hiResHolo, 5w1q, DGL, chain: A, (resolution: 1.95)
+hiTanimoto, 5w1q, DGL, chain: A, (tanimoto_similarity:  1.0, resolution: 1.95)

@@ -1,0 +1,10 @@
+query, 5k3w
+ph, 7
+ligand, GAB
+inchi, InChI=1S/C7H7NO2/c8-6-3-1-2-5(4-6)7(9)10/h1-4H,8H2,(H,9,10)
+size, 10
+rotatable_bond, 1
+LMCSS, 5k3w, GAB, chain: A, (size: 10, mcss_size: 10, resolution:  2.5) 
+SMCSS, 5k3w, GAB, chain: A, (size: 10, mcss_size: 10, resolution:  2.5) 
+hiResHolo, 5k3w, GAB, chain: A, (resolution:  2.5)
+hiTanimoto, 5k3w, GAB, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

@@ -1,0 +1,12 @@
+query, 5v24
+ph, 6
+ligand, 8V7
+inchi, InChI=1S/C14H14N6OS/c1-9(2)20-8-16-19-12(20)14-17-10(7-22-14)13(21)18-11-5-3-4-6-15-11/h3-9H,1-2H3,(H,15,18,21)
+size, 22
+rotatable_bond, 4
+LMCSS, 4bic, IE4, chain: A, (size: 21, mcss_size: 9, resolution: 2.62) 
+LMCSS, 4bid, IE8, chain: A, (size: 31, mcss_size: 9, resolution:  2.8) 
+SMCSS, 4bib, IEO, chain: A, (size: 21, mcss_size: 6, resolution: 2.43) 
+hiResHolo, 4bf2, STU, chain: A, (resolution: 2.11)
+hiTanimoto, 4bf2, STU, chain: A, (tanimoto_similarity: 0.40, resolution: 2.11)
+hiTanimoto, 2clq, STU, chain: A, (tanimoto_similarity: 0.40, resolution:  2.3)

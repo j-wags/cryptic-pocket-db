@@ -1,0 +1,10 @@
+query, 5frb
+ph, 7.4
+ligand, VT2
+inchi, InChI=1S/C31H22F4N6O2/c32-25-10-13-27(28(33)15-25)30(42,19-41-20-38-39-40-41)31(34,35)29-14-9-23(17-37-29)4-1-21-7-11-26(12-8-21)43-18-24-5-2-22(16-36)3-6-24/h1-15,17,20,42H,18-19H2/t30-/m0/s1
+size, 43
+rotatable_bond, 10
+LMCSS, 4uym, VOR, chain: A, (size: 26, mcss_size: 21, resolution: 2.55) 
+SMCSS, 4uyl, VNI, chain: A, (size: 36, mcss_size: 15, resolution: 2.81) 
+hiResHolo, 4uym, VOR, chain: A, (resolution: 2.55)
+hiTanimoto, 4uym, VOR, chain: A, (tanimoto_similarity: 0.66, resolution: 2.55)

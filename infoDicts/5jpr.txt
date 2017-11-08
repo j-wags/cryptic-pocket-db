@@ -1,0 +1,6 @@
+query, 5jpr
+ph, 8
+ligand, DOD
+inchi, InChI=1S/H2O/h1H2/i/hD2
+size, 3
+rotatable_bond, 0

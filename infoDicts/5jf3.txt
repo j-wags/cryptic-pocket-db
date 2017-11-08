@@ -1,0 +1,21 @@
+query, 5jf3
+ph, 7.5
+ligand, SF5
+inchi, InChI=1S/C18H23N3O5/c1-3-4-5-14(11-16(22)20-24)17-19-15(21-26-17)10-12-6-8-13(9-7-12)18(23)25-2/h6-9,14,24H,3-5,10-11H2,1-2H3,(H,20,22)/t14-/m1/s1
+size, 27
+rotatable_bond, 9
+LMCSS, 5jf1, BB2, chain: A, (size: 30, mcss_size: 17, resolution:  2.0) 
+SMCSS, 5jf3, OCS, chain: A, (size: 11, mcss_size: 5, resolution:  1.6) 
+SMCSS, 5jf0, OCS, chain: A, (size: 11, mcss_size: 5, resolution:  1.6) 
+hiResHolo, 5jf3, OCS, chain: A, (resolution:  1.6)
+hiResHolo, 5jf0, SME, chain: A, (resolution:  1.6)
+hiTanimoto, 5jf3, OCS, chain: A, (tanimoto_similarity: 0.48, resolution:  1.6)
+hiTanimoto, 5jf0, OCS, chain: A, (tanimoto_similarity: 0.48, resolution:  1.6)
+hiTanimoto, 5jf6, OCS, chain: A, (tanimoto_similarity: 0.48, resolution:  1.7)
+hiTanimoto, 5jez, OCS, chain: A, (tanimoto_similarity: 0.48, resolution:  1.7)
+hiTanimoto, 5jf8, OCS, chain: A, (tanimoto_similarity: 0.48, resolution:  1.8)
+hiTanimoto, 5jf5, OCS, chain: A, (tanimoto_similarity: 0.48, resolution:  1.8)
+hiTanimoto, 5jf2, OCS, chain: A, (tanimoto_similarity: 0.48, resolution:  2.0)
+hiTanimoto, 5jf1, OCS, chain: A, (tanimoto_similarity: 0.48, resolution:  2.0)
+hiTanimoto, 5jex, OCS, chain: A, (tanimoto_similarity: 0.48, resolution:  2.0)
+hiTanimoto, 5jf7, OCS, chain: A, (tanimoto_similarity: 0.48, resolution:  2.1)

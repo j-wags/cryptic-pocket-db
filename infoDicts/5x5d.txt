@@ -1,0 +1,29 @@
+query, 5x5d
+ph, 6.5
+ligand, UMP
+inchi, InChI=1S/C9H13N2O8P/c12-5-3-8(11-2-1-7(13)10-9(11)14)19-6(5)4-18-20(15,16)17/h1-2,5-6,8,12H,3-4H2,(H,10,13,14)(H2,15,16,17)/t5-,6+,8+/m0/s1
+size, 23
+rotatable_bond, 4
+LMCSS, 1hvy, UMP, chain: A, (size: 23, mcss_size: 23, resolution:  1.9) 
+LMCSS, 5x5d, UMP, chain: A, (size: 23, mcss_size: 23, resolution:  2.0) 
+LMCSS, 5x67, UMP, chain: A, (size: 23, mcss_size: 23, resolution: 2.13) 
+LMCSS, 1i00, UMP, chain: A, (size: 23, mcss_size: 23, resolution:  2.5) 
+LMCSS, 3h9k, UFP, chain: A, (size: 24, mcss_size: 23, resolution: 2.65) 
+LMCSS, 5x69, UMP, chain: A, (size: 23, mcss_size: 23, resolution: 2.69) 
+LMCSS, 3hb8, UMP, chain: A, (size: 23, mcss_size: 23, resolution: 2.74) 
+LMCSS, 1ju6, UMP, chain: A, (size: 23, mcss_size: 23, resolution: 2.89) 
+LMCSS, 1juj, UMP, chain: A, (size: 23, mcss_size: 23, resolution:  3.0) 
+LMCSS, 5hs3, UMP, chain: A, (size: 23, mcss_size: 23, resolution:  3.1) 
+SMCSS, 4g6w, PBX, chain: X, (size: 10, mcss_size: 4, resolution:  2.3) 
+hiResHolo, 1ypv, SCH, chain: A, (resolution:  1.8)
+hiResApo, 3gh0
+hiResApo, 3ed7
+hiTanimoto, 1hvy, UMP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)
+hiTanimoto, 5x5d, UMP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5x67, UMP, chain: A, (tanimoto_similarity:  1.0, resolution: 2.13)
+hiTanimoto, 1i00, UMP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)
+hiTanimoto, 5x69, UMP, chain: A, (tanimoto_similarity:  1.0, resolution: 2.69)
+hiTanimoto, 3hb8, UMP, chain: A, (tanimoto_similarity:  1.0, resolution: 2.74)
+hiTanimoto, 1ju6, UMP, chain: A, (tanimoto_similarity:  1.0, resolution: 2.89)
+hiTanimoto, 1juj, UMP, chain: A, (tanimoto_similarity:  1.0, resolution:  3.0)
+hiTanimoto, 5hs3, UMP, chain: A, (tanimoto_similarity:  1.0, resolution:  3.1)

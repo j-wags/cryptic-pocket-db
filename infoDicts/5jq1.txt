@@ -1,0 +1,10 @@
+query, 5jq1
+ph, 7
+ligand, ZPF
+inchi, InChI=1S/C9H15NO6/c1-4(12)10-5-6(13)7(14)9(2-11)3-15-8(5)16-9/h5-8,11,13-14H,2-3H2,1H3,(H,10,12)/t5-,6-,7-,8+,9+/m1/s1
+size, 20
+rotatable_bond, 2
+LMCSS, 5jpv, LBT, chain: A, (size: 33, mcss_size: 16, resolution:  1.9) 
+SMCSS, 5jpv, LBT, chain: A, (size: 33, mcss_size: 16, resolution:  1.9) 
+hiResHolo, 5jpv, LBT, chain: A, (resolution:  1.9)
+hiTanimoto, 5jpv, LBT, chain: A, (tanimoto_similarity: 0.47, resolution:  1.9)

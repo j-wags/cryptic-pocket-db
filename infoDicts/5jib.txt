@@ -1,0 +1,11 @@
+query, 5jib
+ph, 6.5
+ligand, OIA
+inchi, InChI=1S/C10H9NO3/c12-9(13)5-7-6-3-1-2-4-8(6)11-10(7)14/h1-4,7H,5H2,(H,11,14)(H,12,13)/t7-/m0/s1
+size, 15
+rotatable_bond, 2
+LMCSS, 3m82, SEB, chain: A, (size: 18, mcss_size: 7, resolution:  2.4) 
+SMCSS, 3m83, SDP, chain: A, (size: 16, mcss_size: 5, resolution: 2.12) 
+hiResHolo, 3m83, SDP, chain: A, (resolution: 2.12)
+hiResApo, 5fdf
+hiTanimoto, 3m82, SEB, chain: A, (tanimoto_similarity: 0.30, resolution:  2.4)

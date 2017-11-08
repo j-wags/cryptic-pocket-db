@@ -1,0 +1,11 @@
+query, 5n35
+ph, 7.5
+ligand, GD
+inchi, InChI=1S/Gd
+size, 1
+rotatable_bond, 0
+LMCSS, 5n35, GD, chain: A, (size: 1, mcss_size: 0, resolution: 2.24) 
+SMCSS, 5n35, GD, chain: A, (size: 1, mcss_size: 0, resolution: 2.24) 
+hiResHolo, 5n35, GD, chain: A, (resolution: 2.24)
+hiResApo, 5n41
+hiTanimoto, 5n35, GD, chain: A, (tanimoto_similarity:  1.0, resolution: 2.24)

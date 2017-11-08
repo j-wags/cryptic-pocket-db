@@ -1,0 +1,27 @@
+query, 5mik
+ph, 7.7
+ligand, PT
+inchi, InChI=1S/Pt/q+2
+size, 1
+rotatable_bond, 0
+LMCSS, 5mij, PT, chain: A, (size: 1, mcss_size: 0, resolution: 1.49) 
+LMCSS, 3af7, PD, chain: X, (size: 1, mcss_size: 0, resolution: 1.58) 
+LMCSS, 2zg8, PD, chain: X, (size: 1, mcss_size: 0, resolution:  1.6) 
+LMCSS, 2z5p, PD, chain: A, (size: 1, mcss_size: 0, resolution: 1.65) 
+LMCSS, 3fi6, PD, chain: A, (size: 1, mcss_size: 0, resolution:  1.8) 
+LMCSS, 5hqo, PD, chain: A, (size: 1, mcss_size: 0, resolution: 1.81) 
+LMCSS, 5mik, PT, chain: A, (size: 1, mcss_size: 0, resolution: 1.96) 
+LMCSS, 2z5q, PD, chain: A, (size: 1, mcss_size: 0, resolution:  2.1) 
+LMCSS, 2z5r, PD, chain: A, (size: 1, mcss_size: 0, resolution:  2.5) 
+SMCSS, 5mij, PT, chain: A, (size: 1, mcss_size: 0, resolution: 1.49) 
+hiResHolo, 5mij, PT, chain: A, (resolution: 1.49)
+hiResApo, 2v2p
+hiTanimoto, 5mij, PT, chain: A, (tanimoto_similarity:  1.0, resolution: 1.49)
+hiTanimoto, 3af7, PD, chain: X, (tanimoto_similarity:  1.0, resolution: 1.58)
+hiTanimoto, 2zg8, PD, chain: X, (tanimoto_similarity:  1.0, resolution:  1.6)
+hiTanimoto, 2z5p, PD, chain: A, (tanimoto_similarity:  1.0, resolution: 1.65)
+hiTanimoto, 3fi6, PD, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 5hqo, PD, chain: A, (tanimoto_similarity:  1.0, resolution: 1.81)
+hiTanimoto, 5mik, PT, chain: A, (tanimoto_similarity:  1.0, resolution: 1.96)
+hiTanimoto, 2z5q, PD, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)
+hiTanimoto, 2z5r, PD, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

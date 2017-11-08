@@ -1,0 +1,12 @@
+query, 5ufo
+ph, N/A
+ligand, 87J
+inchi, InChI=1S/C28H22ClF3N4O4S/c1-36-15-33-14-23(36)27(37,18-7-11-22(34-13-18)28(30,31)32)17-6-10-21-20(12-17)25(29)24(26(35-21)40-2)16-4-8-19(9-5-16)41(3,38)39/h4-15,37H,1-3H3/t27-/m0/s1
+size, 41
+rotatable_bond, 5
+LMCSS, 4qm0, 39K, chain: A, (size: 31, mcss_size: 15, resolution: 2.19) 
+LMCSS, 4xt9, 43V, chain: A, (size: 34, mcss_size: 15, resolution: 2.25) 
+SMCSS, 4wlb, TLA, chain: A, (size: 12, mcss_size: 5, resolution:  1.7) 
+hiResHolo, 5aph, VYI, chain: A, (resolution: 1.54)
+hiResApo, 5vb3
+hiTanimoto, 5c4u, 4Y7, chain: A, (tanimoto_similarity: 0.64, resolution: 2.08)

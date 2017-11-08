@@ -1,0 +1,10 @@
+query, 5wif
+ph, 8
+ligand, BO3
+inchi, InChI=1S/BH3O3/c2-1(3)4/h2-4H
+size, 4
+rotatable_bond, 0
+LMCSS, 5wif, BO3, chain: C, (size: 4, mcss_size: 4, resolution:  2.5) 
+SMCSS, 5wif, BO3, chain: C, (size: 4, mcss_size: 4, resolution:  2.5) 
+hiResHolo, 5wif, BO3, chain: C, (resolution:  2.5)
+hiTanimoto, 5wif, BO3, chain: C, (tanimoto_similarity:  1.0, resolution:  2.5)

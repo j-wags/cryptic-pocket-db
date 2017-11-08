@@ -1,0 +1,11 @@
+query, 5lb1
+ph, 6.5
+ligand, MNB
+inchi, InChI=1S/C7H5NO4S/c9-7(10)5-3-4(13)1-2-6(5)8(11)12/h1-3,13H,(H,9,10)
+size, 13
+rotatable_bond, 2
+LMCSS, 5lb1, MNB, chain: A, (size: 13, mcss_size: 13, resolution: 1.55) 
+SMCSS, 5dvp, POA, chain: A, (size: 7, mcss_size: 3, resolution: 2.18) 
+hiResHolo, 3vyp, MXR, chain: A, (resolution:  1.4)
+hiResApo, 5du7
+hiTanimoto, 5lb1, MNB, chain: A, (tanimoto_similarity:  1.0, resolution: 1.55)

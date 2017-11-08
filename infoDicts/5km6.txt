@@ -1,0 +1,19 @@
+query, 5km6
+ph, 6.5
+ligand, 6US
+inchi, InChI=1S/C20H24N7O6P/c21-18-15-19(24-9-23-18)27(10-25-15)20-17(29)16(28)14(33-20)8-32-34(30,31)26-6-5-11-7-22-13-4-2-1-3-12(11)13/h1-4,7,9-10,14,16-17,20,22,28-29H,5-6,8H2,(H2,21,23,24)(H2,26,30,31)/t14-,16-,17+,20-/m1/s1
+size, 38
+rotatable_bond, 8
+LMCSS, 5o8i, ADP, chain: B, (size: 31, mcss_size: 26, resolution: 1.27) 
+LMCSS, 5ed3, AMP, chain: B, (size: 27, mcss_size: 26, resolution: 1.31) 
+LMCSS, 3tw2, AMP, chain: A, (size: 27, mcss_size: 26, resolution: 1.38) 
+LMCSS, 5klz, AMP, chain: B, (size: 27, mcss_size: 26, resolution:  1.5) 
+LMCSS, 1kpf, AMP, chain: A, (size: 27, mcss_size: 26, resolution:  1.5) 
+LMCSS, 5ed6, AMP, chain: B, (size: 27, mcss_size: 26, resolution: 1.52) 
+LMCSS, 5km1, 5GP, chain: A, (size: 28, mcss_size: 26, resolution: 1.65) 
+LMCSS, 1av5, AP2, chain: B, (size: 31, mcss_size: 26, resolution:  2.0) 
+LMCSS, 4zkl, AMP, chain: B, (size: 27, mcss_size: 26, resolution: 2.34) 
+SMCSS, 5o8g, MLI, chain: B, (size: 7, mcss_size: 5, resolution:  1.5) 
+hiResHolo, 3qgz, ADN, chain: A, (resolution:  1.1)
+hiResApo, 5emt
+hiTanimoto, 4eqh, WSA, chain: B, (tanimoto_similarity: 0.82, resolution: 1.67)

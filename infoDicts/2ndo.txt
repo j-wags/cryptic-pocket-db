@@ -1,0 +1,11 @@
+query, 2ndo
+ph, N/A
+ligand, SFQ
+inchi, InChI=1S/C13H10INO4S/c14-9-5-7-10(8-6-9)20(18,19)15-12-4-2-1-3-11(12)13(16)17/h1-8,15H,(H,16,17)
+size, 20
+rotatable_bond, 4
+LMCSS, 4zij, SFQ, chain: A, (size: 20, mcss_size: 20, resolution: 1.78) 
+SMCSS, 1ti1, D12, chain: A, (size: 12, mcss_size: 3, resolution:  2.6) 
+hiResHolo, 4wf5, WF4, chain: A, (resolution: 1.45)
+hiResApo, 1fvk
+hiTanimoto, 4zij, SFQ, chain: A, (tanimoto_similarity:  1.0, resolution: 1.78)

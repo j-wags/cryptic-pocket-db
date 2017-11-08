@@ -1,0 +1,18 @@
+query, 5i02
+ph, 5.5
+ligand, PK2
+inchi, InChI=1S/C19H27N7O/c1-21-19-23-14-9-13-15(24-18(20)26-17(13)27)12(16(14)25-19)7-8-22-10-11-5-3-2-4-6-11/h9,11,22H,2-8,10H2,1H3,(H2,21,23,25)(H3,20,24,26,27)
+size, 27
+rotatable_bond, 5
+LMCSS, 5i02, PK2, chain: A, (size: 27, mcss_size: 27, resolution: 1.25) 
+LMCSS, 4fps, 0UX, chain: A, (size: 34, mcss_size: 27, resolution: 1.45) 
+LMCSS, 4fr6, 0V3, chain: A, (size: 37, mcss_size: 27, resolution: 1.59) 
+LMCSS, 4fsa, 0V3, chain: A, (size: 37, mcss_size: 27, resolution: 1.62) 
+LMCSS, 4fr1, 0V2, chain: A, (size: 43, mcss_size: 27, resolution: 1.74) 
+LMCSS, 4giy, 0WY, chain: A, (size: 34, mcss_size: 27, resolution: 1.75) 
+LMCSS, 3eos, PK2, chain: A, (size: 27, mcss_size: 27, resolution: 1.78) 
+SMCSS, 2z1w, BDI, chain: A, (size: 15, mcss_size: 8, resolution: 1.63) 
+hiResHolo, 4q8w, 2YY, chain: A, (resolution: 1.14)
+hiResApo, 4q8m
+hiTanimoto, 5i02, PK2, chain: A, (tanimoto_similarity:  1.0, resolution: 1.25)
+hiTanimoto, 3eos, PK2, chain: A, (tanimoto_similarity:  1.0, resolution: 1.78)

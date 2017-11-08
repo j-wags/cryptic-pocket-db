@@ -1,0 +1,22 @@
+query, 5j3o
+ph, N/A
+ligand, FUC
+inchi, InChI=1S/C6H12O5/c1-2-3(7)4(8)5(9)6(10)11-2/h2-10H,1H3/t2-,3+,4+,5-,6+/m0/s1
+size, 16
+rotatable_bond, 0
+LMCSS, 5j3o, FUC, chain: A, (size: 16, mcss_size: 16, resolution: 1.47) 
+LMCSS, 5j35, FUC, chain: A, (size: 16, mcss_size: 16, resolution: 1.47) 
+LMCSS, 4x0c, FUC, chain: A, (size: 16, mcss_size: 16, resolution: 1.72) 
+LMCSS, 4wzt, FUC, chain: A, (size: 16, mcss_size: 16, resolution: 1.91) 
+LMCSS, 4op7, FUC, chain: A, (size: 16, mcss_size: 16, resolution: 1.92) 
+LMCSS, 5lfe, FUC, chain: A, (size: 16, mcss_size: 16, resolution:  2.3) 
+SMCSS, 4x0c, NDG, chain: A, (size: 20, mcss_size: 15, resolution: 1.72) 
+hiResHolo, 5j3o, FUC, chain: A, (resolution: 1.47)
+hiResHolo, 5j35, FUC, chain: A, (resolution: 1.47)
+hiResApo, 5kon
+hiTanimoto, 5j3o, FUC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.47)
+hiTanimoto, 5j35, FUC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.47)
+hiTanimoto, 4x0c, FUC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.72)
+hiTanimoto, 4wzt, FUC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.91)
+hiTanimoto, 4op7, FUC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.92)
+hiTanimoto, 5lfe, FUC, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)

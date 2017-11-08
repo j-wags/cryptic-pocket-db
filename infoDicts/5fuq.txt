@@ -1,0 +1,14 @@
+query, 5fuq
+ph, 9
+ligand, DTC
+inchi, InChI=1S/C19H12O6/c20-16-10-5-1-3-7-14(10)24-18(22)12(16)9-13-17(21)11-6-2-4-8-15(11)25-19(13)23/h1-8,12-13H,9H2/t12-,13+
+size, 27
+rotatable_bond, 2
+LMCSS, 5fuq, DTC, chain: A, (size: 27, mcss_size: 27, resolution: 2.04) 
+LMCSS, 4cet, DTC, chain: A, (size: 27, mcss_size: 27, resolution:  2.2) 
+LMCSS, 2f1o, DTC, chain: A, (size: 27, mcss_size: 27, resolution: 2.75) 
+SMCSS, 1h66, RH1, chain: A, (size: 17, mcss_size: 8, resolution:  2.0) 
+hiResHolo, 1kbq, 936, chain: A, (resolution:  1.8)
+hiTanimoto, 5fuq, DTC, chain: A, (tanimoto_similarity:  1.0, resolution: 2.04)
+hiTanimoto, 4cet, DTC, chain: A, (tanimoto_similarity:  1.0, resolution:  2.2)
+hiTanimoto, 2f1o, DTC, chain: A, (tanimoto_similarity:  1.0, resolution: 2.75)

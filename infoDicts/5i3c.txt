@@ -1,0 +1,11 @@
+query, 5i3c
+ph, N/A
+ligand, AC2
+inchi, InChI=1S/C8H11N5O3/c9-8-11-6-5(7(15)12-8)10-3-13(6)4-16-2-1-14/h3,14H,1-2,4H2,(H3,9,11,12,15)
+size, 16
+rotatable_bond, 4
+LMCSS, 5i3c, AC2, chain: A, (size: 16, mcss_size: 16, resolution: 2.32) 
+SMCSS, 4ts9, FMC, chain: A, (size: 23, mcss_size: 8, resolution: 1.77) 
+hiResHolo, 4ts9, FMC, chain: A, (resolution: 1.77)
+hiResApo, 4rj2
+hiTanimoto, 5i3c, AC2, chain: A, (tanimoto_similarity:  1.0, resolution: 2.32)

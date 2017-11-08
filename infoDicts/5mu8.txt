@@ -1,0 +1,11 @@
+query, 5mu8
+ph, N/A
+ligand, JNI
+inchi, InChI=1S/C31H30N8/c32-30-34-14-13-29(37-30)39(22-23-7-2-1-3-8-23)28-12-5-4-11-27(28)25-10-6-9-24(19-25)26-20-35-31(36-21-26)38-17-15-33-16-18-38/h1-14,19-21,33H,15-18,22H2,(H2,32,34,37)
+size, 39
+rotatable_bond, 5
+LMCSS, 2az5, 307, chain: A, (size: 40, mcss_size: 16, resolution:  2.1) 
+SMCSS, 5uui, MTN, chain: A, (size: 16, mcss_size: 7, resolution:  1.4) 
+hiResHolo, 5uui, MTN, chain: A, (resolution:  1.4)
+hiResApo, 4tsv
+hiTanimoto, 2az5, 307, chain: A, (tanimoto_similarity: 0.53, resolution:  2.1)

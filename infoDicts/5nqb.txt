@@ -1,0 +1,10 @@
+query, 5nqb
+ph, N/A
+ligand, MLI
+inchi, InChI=1S/C3H4O4/c4-2(5)1-3(6)7/h1H2,(H,4,5)(H,6,7)/p-2
+size, 7
+rotatable_bond, 2
+LMCSS, 5nqb, MLI, chain: A, (size: 7, mcss_size: 7, resolution: 1.58) 
+SMCSS, 5kkc, 6V0, chain: A, (size: 52, mcss_size: 5, resolution: 1.86) 
+hiResHolo, 5nqb, MLI, chain: A, (resolution: 1.58)
+hiTanimoto, 5nqb, MLI, chain: A, (tanimoto_similarity:  1.0, resolution: 1.58)

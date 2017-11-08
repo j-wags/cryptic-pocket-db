@@ -1,0 +1,12 @@
+query, 5nov
+ph, 8
+ligand, 93B
+inchi, InChI=1S/C4H8N2S/c7-4-5-2-1-3-6-4/h1-3H2,(H2,5,6,7)
+size, 7
+rotatable_bond, 0
+LMCSS, 4cyh, HIS, chain: A, (size: 12, mcss_size: 6, resolution:  2.1) 
+LMCSS, 3rdd, EA4, chain: A, (size: 18, mcss_size: 6, resolution: 2.14) 
+SMCSS, 4n1r, WM3, chain: A, (size: 11, mcss_size: 2, resolution:  1.8) 
+hiResHolo, 4n1m, PRO, chain: A, (resolution: 1.15)
+hiResApo, 5f66
+hiTanimoto, 1w8l, 1P3, chain: A, (tanimoto_similarity: 0.52, resolution:  1.8)

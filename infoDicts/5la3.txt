@@ -1,0 +1,12 @@
+query, 5la3
+ph, 6
+ligand, 402
+inchi, InChI=1S/C2H5NS2.2CN.3CO.2Fe/c4-1-3-2-5;5*1-2;;/h3H,1-2H2;;;;;;;/q;;;;2*+1;;
+size, 17
+rotatable_bond, 2
+LMCSS, 4xdc, 402, chain: A, (size: 17, mcss_size: 5, resolution: 1.63) 
+LMCSS, 5la3, 402, chain: A, (size: 17, mcss_size: 5, resolution: 2.29) 
+SMCSS, 5byq, 4WV, chain: A, (size: 17, mcss_size: 2, resolution: 1.73) 
+hiResHolo, 4xdc, 402, chain: A, (resolution: 1.63)
+hiTanimoto, 4xdc, 402, chain: A, (tanimoto_similarity:  1.0, resolution: 1.63)
+hiTanimoto, 5la3, 402, chain: A, (tanimoto_similarity:  1.0, resolution: 2.29)

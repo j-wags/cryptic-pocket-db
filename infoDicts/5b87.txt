@@ -1,0 +1,13 @@
+query, 5b87
+ph, 8.5
+ligand, ALA
+inchi, InChI=1S/C3H7NO2/c1-2(4)3(5)6/h2H,4H2,1H3,(H,5,6)/t2-/m0/s1
+size, 7
+rotatable_bond, 1
+LMCSS, 5b89, CSS, chain: A, (size: 9, mcss_size: 7, resolution:  1.5) 
+LMCSS, 5b7u, CSS, chain: A, (size: 9, mcss_size: 7, resolution:  1.9) 
+LMCSS, 5b87, CSS, chain: A, (size: 9, mcss_size: 7, resolution: 2.28) 
+SMCSS, 5b89, CSS, chain: A, (size: 9, mcss_size: 7, resolution:  1.5) 
+hiResHolo, 5b89, CSS, chain: A, (resolution:  1.5)
+hiTanimoto, 5b89, ALA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.5)
+hiTanimoto, 5b87, ALA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.28)

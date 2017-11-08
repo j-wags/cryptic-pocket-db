@@ -1,0 +1,11 @@
+query, 5lrr
+ph, 5.5
+ligand, PI
+inchi, InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)/p-2
+size, 5
+rotatable_bond, 0
+LMCSS, 5lrr, PI, chain: A, (size: 5, mcss_size: 5, resolution: 2.17) 
+SMCSS, 5f1r, 42O, chain: A, (size: 28, mcss_size: 0, resolution: 2.25) 
+hiResHolo, 5lrr, PI, chain: A, (resolution: 2.17)
+hiResApo, 1omi
+hiTanimoto, 5lrr, PI, chain: A, (tanimoto_similarity:  1.0, resolution: 2.17)

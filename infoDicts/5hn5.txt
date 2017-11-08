@@ -1,0 +1,10 @@
+query, 5hn5
+ph, 7.5
+ligand, ICT
+inchi, InChI=1S/C6H8O7/c7-3(8)1-2(5(10)11)4(9)6(12)13/h2,4,9H,1H2,(H,7,8)(H,10,11)(H,12,13)/t2-,4+/m0/s1
+size, 15
+rotatable_bond, 5
+LMCSS, 5hn5, ICT, chain: A, (size: 15, mcss_size: 15, resolution: 2.55) 
+SMCSS, 5hn6, IPM, chain: A, (size: 14, mcss_size: 13, resolution:  2.5) 
+hiResHolo, 5hn6, IPM, chain: A, (resolution:  2.5)
+hiTanimoto, 5hn5, ICT, chain: A, (tanimoto_similarity:  1.0, resolution: 2.55)

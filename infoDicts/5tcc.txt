@@ -1,0 +1,11 @@
+query, 5tcc
+ph, 6.5
+ligand, J56
+inchi, InChI=1S/C18H16BrN5O2S/c19-14-6-3-7-15(21-14)22-17(26)18-23(8-9-27-18)16(25)11-24-13-5-2-1-4-12(13)10-20-24/h1-7,10,18H,8-9,11H2,(H,21,22,26)/t18-/m0/s1
+size, 28
+rotatable_bond, 4
+LMCSS, 1bio, SOA, chain: A, (size: 9, mcss_size: 8, resolution:  1.5) 
+SMCSS, 1dfp, DFP, chain: A, (size: 10, mcss_size: 3, resolution:  2.4) 
+hiResHolo, 1bio, SOA, chain: A, (resolution:  1.5)
+hiResApo, 2xw9
+hiTanimoto, 1dfp, DFP, chain: A, (tanimoto_similarity: 0.34, resolution:  2.4)

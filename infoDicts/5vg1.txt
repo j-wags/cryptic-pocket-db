@@ -1,0 +1,11 @@
+query, 5vg1
+ph, N/A
+ligand, PER
+inchi, InChI=1S/O2/c1-2/q-2
+size, 2
+rotatable_bond, 0
+LMCSS, 5vg0, PER, chain: A, (size: 2, mcss_size: 2, resolution:  1.1) 
+SMCSS, 5vg0, PER, chain: A, (size: 2, mcss_size: 2, resolution:  1.1) 
+hiResHolo, 5vg0, PER, chain: A, (resolution:  1.1)
+hiResApo, 5aa7
+hiTanimoto, 5vg0, PER, chain: A, (tanimoto_similarity:  1.0, resolution:  1.1)

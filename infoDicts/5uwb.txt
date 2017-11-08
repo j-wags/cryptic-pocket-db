@@ -1,0 +1,11 @@
+query, 5uwb
+ph, N/A
+ligand, PEF
+inchi, InChI=1S/C37H74NO8P/c1-3-5-7-9-11-13-15-17-19-21-23-25-27-29-36(39)43-33-35(34-45-47(41,42)44-32-31-38)46-37(40)30-28-26-24-22-20-18-16-14-12-10-8-6-4-2/h35H,3-34,38H2,1-2H3,(H,41,42)/t35-/m1/s1
+size, 48
+rotatable_bond, 37
+LMCSS, 5uwb, PEF, chain: A, (size: 48, mcss_size: 48, resolution:  2.6) 
+SMCSS, 5uwb, PEF, chain: A, (size: 48, mcss_size: 48, resolution:  2.6) 
+hiResHolo, 5uwb, PEF, chain: A, (resolution:  2.6)
+hiResApo, 4fcz
+hiTanimoto, 5uwb, PEF, chain: A, (tanimoto_similarity:  1.0, resolution:  2.6)

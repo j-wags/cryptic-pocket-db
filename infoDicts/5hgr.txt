@@ -1,0 +1,10 @@
+query, 5hgr
+ph, N/A
+ligand, 45D
+inchi, InChI=1S/C40H52O2/c1-29(17-13-19-31(3)21-23-35-33(5)37(41)25-27-39(35,7)8)15-11-12-16-30(2)18-14-20-32(4)22-24-36-34(6)38(42)26-28-40(36,9)10/h11-24H,25-28H2,1-10H3/b12-11+,17-13+,18-14+,23-21+,24-22+,29-15+,30-16+,31-19+,32-20+
+size, 56
+rotatable_bond, 10
+LMCSS, 5hgr, 45D, chain: A, (size: 56, mcss_size: 56, resolution: 1.68) 
+SMCSS, 5hgr, 45D, chain: A, (size: 56, mcss_size: 56, resolution: 1.68) 
+hiResHolo, 5hgr, 45D, chain: A, (resolution: 1.68)
+hiTanimoto, 5hgr, 45D, chain: A, (tanimoto_similarity:  1.0, resolution: 1.68)

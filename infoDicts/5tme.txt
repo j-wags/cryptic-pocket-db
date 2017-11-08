@@ -1,0 +1,13 @@
+query, 5tme
+ph, 7.6
+ligand, UDP
+inchi, InChI=1S/C9H14N2O12P2/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(22-8)3-21-25(19,20)23-24(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,19,20)(H,10,12,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+size, 29
+rotatable_bond, 6
+LMCSS, 5tme, UDP, chain: A, (size: 29, mcss_size: 29, resolution: 1.78) 
+LMCSS, 5tmd, U2F, chain: A, (size: 45, mcss_size: 29, resolution: 2.19) 
+LMCSS, 5tmb, UDP, chain: A, (size: 29, mcss_size: 29, resolution: 2.34) 
+SMCSS, 5tme, UDP, chain: A, (size: 29, mcss_size: 29, resolution: 1.78) 
+hiResHolo, 5tme, UDP, chain: A, (resolution: 1.78)
+hiTanimoto, 5tme, UDP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.78)
+hiTanimoto, 5tmb, UDP, chain: A, (tanimoto_similarity:  1.0, resolution: 2.34)

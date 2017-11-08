@@ -1,0 +1,11 @@
+query, 5ijr
+ph, 7.9
+ligand, HRG
+inchi, InChI=1S/C7H16N4O2/c8-5(6(12)13)3-1-2-4-11-7(9)10/h5H,1-4,8H2,(H,12,13)(H4,9,10,11)/t5-/m0/s1
+size, 14
+rotatable_bond, 6
+LMCSS, 5ijr, HRG, chain: A, (size: 14, mcss_size: 14, resolution: 1.52) 
+SMCSS, 5c7g, BCN, chain: A, (size: 11, mcss_size: 5, resolution: 1.45) 
+hiResHolo, 5jgi, AAG, chain: B, (resolution: 1.38)
+hiResApo, 4rn5
+hiTanimoto, 5ijr, HRG, chain: A, (tanimoto_similarity:  1.0, resolution: 1.52)

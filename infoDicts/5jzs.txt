@@ -1,0 +1,12 @@
+query, 5jzs
+ph, 9.5
+ligand, FGZ
+inchi, InChI=1S/C7H4Cl2O3/c8-4-1-3(7(11)12)2-5(9)6(4)10/h1-2,10H,(H,11,12)
+size, 12
+rotatable_bond, 1
+LMCSS, 2wug, HPK, chain: A, (size: 18, mcss_size: 8, resolution:  1.8) 
+SMCSS, 2wue, KEK, chain: B, (size: 23, mcss_size: 7, resolution:  1.8) 
+hiResHolo, 2wug, HPK, chain: A, (resolution:  1.8)
+hiResHolo, 2wue, KEK, chain: B, (resolution:  1.8)
+hiResApo, 2wud
+hiTanimoto, 2wug, HPK, chain: A, (tanimoto_similarity: 0.46, resolution:  1.8)

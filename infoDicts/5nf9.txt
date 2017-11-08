@@ -1,0 +1,18 @@
+query, 5nf9
+ph, 7.5
+ligand, 8VW
+inchi, InChI=1S/C22H32N2O12/c1-9(27)23-21-14(24-20(32)10-4-3-5-11(6-10)33-2)16(29)19(13(8-26)34-21)36-22-18(31)17(30)15(28)12(7-25)35-22/h3-6,12-19,21-22,25-26,28-31H,7-8H2,1-2H3,(H,23,27)(H,24,32)/t12-,13-,14-,15+,16-,17+,18-,19-,21-,22+/m1/s1
+size, 46
+rotatable_bond, 8
+LMCSS, 3zsj, LAT, chain: A, (size: 33, mcss_size: 31, resolution: 0.86) 
+LMCSS, 4r9c, LAT, chain: A, (size: 33, mcss_size: 31, resolution: 1.19) 
+LMCSS, 4r9b, LAT, chain: A, (size: 33, mcss_size: 31, resolution:  1.2) 
+LMCSS, 4r9a, LAT, chain: A, (size: 33, mcss_size: 31, resolution:  1.2) 
+LMCSS, 4r9d, LAT, chain: A, (size: 33, mcss_size: 31, resolution: 1.24) 
+LMCSS, 2nn8, LAT, chain: A, (size: 33, mcss_size: 31, resolution: 1.35) 
+LMCSS, 4rl7, LAT, chain: A, (size: 33, mcss_size: 31, resolution:  2.0) 
+LMCSS, 3aye, LAT, chain: A, (size: 33, mcss_size: 31, resolution:  2.0) 
+SMCSS, 2xg3, UNU, chain: A, (size: 9, mcss_size: 9, resolution:  1.2) 
+hiResHolo, 3zsj, LAT, chain: A, (resolution: 0.86)
+hiResApo, 3zsk
+hiTanimoto, 4blj, 70B, chain: A, (tanimoto_similarity: 0.60, resolution:  1.2)

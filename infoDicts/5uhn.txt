@@ -1,0 +1,30 @@
+query, 5uhn
+ph, N/A
+ligand, ACP
+inchi, InChI=1S/C11H18N5O12P3/c12-9-6-10(14-2-13-9)16(3-15-6)11-8(18)7(17)5(27-11)1-26-31(24,25)28-30(22,23)4-29(19,20)21/h2-3,5,7-8,11,17-18H,1,4H2,(H,22,23)(H,24,25)(H2,12,13,14)(H2,19,20,21)/t5-,7-,8-,11-/m1/s1
+size, 35
+rotatable_bond, 8
+LMCSS, 2pvf, ACP, chain: A, (size: 35, mcss_size: 35, resolution:  1.8) 
+LMCSS, 4j99, ACP, chain: A, (size: 35, mcss_size: 35, resolution: 1.85) 
+LMCSS, 3cly, ACP, chain: A, (size: 35, mcss_size: 35, resolution:  2.0) 
+LMCSS, 5ui0, ACP, chain: B, (size: 35, mcss_size: 35, resolution: 2.05) 
+LMCSS, 2pvy, ACP, chain: A, (size: 35, mcss_size: 35, resolution:  2.2) 
+LMCSS, 2py3, ACP, chain: A, (size: 35, mcss_size: 35, resolution:  2.3) 
+LMCSS, 4j96, ACP, chain: B, (size: 35, mcss_size: 35, resolution:  2.3) 
+LMCSS, 4j98, ACP, chain: B, (size: 35, mcss_size: 35, resolution: 2.31) 
+LMCSS, 5ugx, ACP, chain: A, (size: 35, mcss_size: 35, resolution: 2.35) 
+LMCSS, 4j95, ACP, chain: A, (size: 35, mcss_size: 35, resolution: 2.38) 
+SMCSS, 2pvf, PTR, chain: A, (size: 18, mcss_size: 7, resolution:  1.8) 
+hiResHolo, 2pvf, ACP, chain: A, (resolution:  1.8)
+hiResHolo, 3b2t, M33, chain: A, (resolution:  1.8)
+hiResApo, 1gjo
+hiTanimoto, 2pvf, ACP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 4j99, ACP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.85)
+hiTanimoto, 3cly, ACP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5ui0, ACP, chain: B, (tanimoto_similarity:  1.0, resolution: 2.05)
+hiTanimoto, 2pvy, ACP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.2)
+hiTanimoto, 2py3, ACP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)
+hiTanimoto, 4j96, ACP, chain: B, (tanimoto_similarity:  1.0, resolution:  2.3)
+hiTanimoto, 4j98, ACP, chain: B, (tanimoto_similarity:  1.0, resolution: 2.31)
+hiTanimoto, 5ugx, ACP, chain: A, (tanimoto_similarity:  1.0, resolution: 2.35)
+hiTanimoto, 4j95, ACP, chain: A, (tanimoto_similarity:  1.0, resolution: 2.38)

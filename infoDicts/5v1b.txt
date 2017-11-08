@@ -1,0 +1,6 @@
+query, 5v1b
+ph, N/A
+ligand, 8UY
+inchi, InChI=1S/C13H8N4/c14-8-10-4-6-11(7-5-10)12-2-1-3-13-15-9-16-17(12)13/h1-7,9H
+size, 17
+rotatable_bond, 1

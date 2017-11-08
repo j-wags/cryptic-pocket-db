@@ -1,0 +1,10 @@
+query, 5us8
+ph, 7.5
+ligand, ADN
+inchi, InChI=1S/C10H13N5O4/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(18)6(17)4(1-16)19-10/h2-4,6-7,10,16-18H,1H2,(H2,11,12,13)/t4-,6-,7-,10-/m1/s1
+size, 23
+rotatable_bond, 2
+LMCSS, 5us8, ADN, chain: B, (size: 23, mcss_size: 23, resolution: 2.15) 
+SMCSS, 5us8, ADN, chain: B, (size: 23, mcss_size: 23, resolution: 2.15) 
+hiResHolo, 5us8, ADN, chain: B, (resolution: 2.15)
+hiTanimoto, 5us8, ADN, chain: B, (tanimoto_similarity:  1.0, resolution: 2.15)

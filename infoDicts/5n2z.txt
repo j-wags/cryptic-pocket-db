@@ -1,0 +1,20 @@
+query, 5n2z
+ph, 7.5
+ligand, 8JH
+inchi, InChI=1S/C19H33N4O5P/c1-15(2)12-17(18(24)21-11-7-6-10-20)23-29(26,27)14-22-19(25)28-13-16-8-4-3-5-9-16/h3-5,8-9,15,17H,6-7,10-14,20H2,1-2H3,(H,21,24)(H,22,25)(H2,23,26,27)/t17-/m0/s1
+size, 30
+rotatable_bond, 13
+LMCSS, 5jvi, 6QC, chain: E, (size: 32, mcss_size: 29, resolution: 1.12) 
+LMCSS, 4n4e, 2G6, chain: E, (size: 31, mcss_size: 29, resolution: 1.13) 
+LMCSS, 5js3, 6MG, chain: E, (size: 33, mcss_size: 29, resolution: 1.16) 
+LMCSS, 4mzn, 2G9, chain: E, (size: 31, mcss_size: 29, resolution: 1.17) 
+LMCSS, 5jss, 6NG, chain: E, (size: 33, mcss_size: 29, resolution: 1.19) 
+LMCSS, 5lwd, 79E, chain: E, (size: 34, mcss_size: 29, resolution: 1.23) 
+LMCSS, 5l3u, 6NG, chain: E, (size: 33, mcss_size: 29, resolution: 1.23) 
+LMCSS, 4mwp, 2GC, chain: E, (size: 33, mcss_size: 29, resolution: 1.23) 
+LMCSS, 5l41, 6QC, chain: E, (size: 32, mcss_size: 29, resolution: 1.25) 
+LMCSS, 4n5p, 2H0, chain: E, (size: 30, mcss_size: 29, resolution: 1.25) 
+SMCSS, 5fsj, OXY, chain: A, (size: 2, mcss_size: 0, resolution:  1.2) 
+hiResHolo, 5jvi, 6QC, chain: E, (resolution: 1.12)
+hiResApo, 3fxs
+hiTanimoto, 4n5p, 2H0, chain: E, (tanimoto_similarity: 0.98, resolution: 1.25)

@@ -1,0 +1,12 @@
+query, 5t9c
+ph, 8.5
+ligand, G3P
+inchi, InChI=1S/C3H9O6P/c4-1-3(5)2-9-10(6,7)8/h3-5H,1-2H2,(H2,6,7,8)/t3-/m1/s1
+size, 11
+rotatable_bond, 4
+LMCSS, 5t9c, G3P, chain: E, (size: 11, mcss_size: 11, resolution: 1.48) 
+LMCSS, 5t9b, G3P, chain: G, (size: 11, mcss_size: 11, resolution: 1.62) 
+SMCSS, 5t91, BCN, chain: A, (size: 11, mcss_size: 3, resolution: 1.53) 
+hiResHolo, 5t9c, G3P, chain: E, (resolution: 1.48)
+hiTanimoto, 5t9c, G3P, chain: E, (tanimoto_similarity:  1.0, resolution: 1.48)
+hiTanimoto, 5t9b, G3P, chain: G, (tanimoto_similarity:  1.0, resolution: 1.62)

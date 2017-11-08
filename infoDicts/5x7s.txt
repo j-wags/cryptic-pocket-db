@@ -1,0 +1,11 @@
+query, 5x7s
+ph, 6.6
+ligand, TB
+inchi, InChI=1S/Tb/q+3
+size, 1
+rotatable_bond, 0
+LMCSS, 5x7s, TB, chain: A, (size: 1, mcss_size: 0, resolution:  2.4) 
+SMCSS, 5x7s, TB, chain: A, (size: 1, mcss_size: 0, resolution:  2.4) 
+hiResHolo, 5x7s, TB, chain: A, (resolution:  2.4)
+hiResApo, 5x7o
+hiTanimoto, 5x7s, TB, chain: A, (tanimoto_similarity:  1.0, resolution:  2.4)

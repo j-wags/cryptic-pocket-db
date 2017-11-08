@@ -1,0 +1,17 @@
+query, 5nai
+ph, N/A
+ligand, 93W
+inchi, InChI=1S/C21H16ClN3O4/c22-19-14-7-2-1-6-13(14)18(26)17(25-19)20(27)24-16(21(28)29)9-11-10-23-15-8-4-3-5-12(11)15/h1-8,10,16,23,26H,9H2,(H,24,27)(H,28,29)/t16-/m1/s1
+size, 30
+rotatable_bond, 5
+LMCSS, 4uwr, OCS, chain: B, (size: 11, mcss_size: 7, resolution: 1.55) 
+LMCSS, 4uwo, OCS, chain: B, (size: 11, mcss_size: 7, resolution: 1.56) 
+LMCSS, 4uws, OCS, chain: B, (size: 11, mcss_size: 7, resolution: 1.66) 
+LMCSS, 5n55, 00C, chain: A, (size: 11, mcss_size: 7, resolution: 1.99) 
+SMCSS, 4uwr, OCS, chain: B, (size: 11, mcss_size: 7, resolution: 1.55) 
+hiResHolo, 4uwr, OCS, chain: B, (resolution: 1.55)
+hiResApo, 5a87
+hiTanimoto, 4uwr, OCS, chain: B, (tanimoto_similarity: 0.48, resolution: 1.55)
+hiTanimoto, 4uwo, OCS, chain: B, (tanimoto_similarity: 0.48, resolution: 1.56)
+hiTanimoto, 4uws, OCS, chain: B, (tanimoto_similarity: 0.48, resolution: 1.66)
+hiTanimoto, 5n55, 00C, chain: A, (tanimoto_similarity: 0.48, resolution: 1.99)

@@ -1,0 +1,18 @@
+query, 5k55
+ph, 7.4
+ligand, F6P
+inchi, InChI=1S/C6H13O9P/c7-2-6(10)5(9)4(8)3(15-6)1-14-16(11,12)13/h3-5,7-10H,1-2H2,(H2,11,12,13)/t3-,4-,5+,6-/m1/s1
+size, 19
+rotatable_bond, 4
+LMCSS, 5et8, F6P, chain: A, (size: 19, mcss_size: 19, resolution: 1.92) 
+LMCSS, 3ifc, P6P, chain: A, (size: 19, mcss_size: 19, resolution: 1.97) 
+LMCSS, 5k55, F6P, chain: A, (size: 19, mcss_size: 19, resolution: 1.98) 
+LMCSS, 5k56, FBP, chain: A, (size: 23, mcss_size: 19, resolution:  2.2) 
+LMCSS, 4he1, F6P, chain: A, (size: 19, mcss_size: 19, resolution: 2.23) 
+SMCSS, 4he2, PO3, chain: A, (size: 4, mcss_size: 4, resolution:  1.6) 
+hiResHolo, 4he2, AMP, chain: A, (resolution:  1.6)
+hiResApo, 5et5
+hiTanimoto, 5et8, F6P, chain: A, (tanimoto_similarity:  1.0, resolution: 1.92)
+hiTanimoto, 3ifc, P6P, chain: A, (tanimoto_similarity:  1.0, resolution: 1.97)
+hiTanimoto, 5k55, F6P, chain: A, (tanimoto_similarity:  1.0, resolution: 1.98)
+hiTanimoto, 4he1, F6P, chain: A, (tanimoto_similarity:  1.0, resolution: 2.23)

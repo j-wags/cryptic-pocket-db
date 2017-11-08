@@ -1,0 +1,11 @@
+query, 5kju
+ph, 7.24
+ligand, 6TO
+inchi, InChI=1S/C16H16O7/c17-11-4-1-9(2-5-11)3-6-14(19)23-13-8-10(16(21)22)7-12(18)15(13)20/h1-6,8,12-13,15,17-18,20H,7H2,(H,21,22)/b6-3+/t12-,13-,15+/m1/s1
+size, 28
+rotatable_bond, 4
+LMCSS, 5kjt, WCA, chain: A, (size: 66, mcss_size: 13, resolution:  2.5) 
+SMCSS, 5kjt, WCA, chain: A, (size: 66, mcss_size: 13, resolution:  2.5) 
+hiResHolo, 5kjt, WCA, chain: A, (resolution:  2.5)
+hiResApo, 5kjs
+hiTanimoto, 5kjt, WCA, chain: A, (tanimoto_similarity: 0.34, resolution:  2.5)

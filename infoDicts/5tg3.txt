@@ -1,0 +1,23 @@
+query, 5tg3
+ph, 8
+ligand, XMM
+inchi, InChI=1S/C14H15BrClNO6/c15-5-1-2-6-9(10(5)16)7(3-17-6)22-14-13(21)12(20)11(19)8(4-18)23-14/h1-3,8,11-14,17-21H,4H2/t8-,11-,12+,13+,14+/m1/s1
+size, 28
+rotatable_bond, 3
+LMCSS, 5tg3, XMM, chain: A, (size: 28, mcss_size: 28, resolution: 1.77) 
+LMCSS, 4z8b, XMM, chain: A, (size: 28, mcss_size: 28, resolution: 1.95) 
+LMCSS, 2jec, XMM, chain: A, (size: 28, mcss_size: 28, resolution:  2.0) 
+LMCSS, 2je9, XMM, chain: A, (size: 28, mcss_size: 28, resolution:  2.1) 
+LMCSS, 3sh3, XMM, chain: A, (size: 28, mcss_size: 28, resolution:  2.3) 
+LMCSS, 4not, XMM, chain: A, (size: 28, mcss_size: 28, resolution: 2.35) 
+LMCSS, 3ax4, XMM, chain: A, (size: 28, mcss_size: 28, resolution: 2.61) 
+SMCSS, 3sh3, A3B, chain: A, (size: 8, mcss_size: 5, resolution:  2.3) 
+hiResHolo, 5tg3, XMM, chain: A, (resolution: 1.77)
+hiResApo, 2gdf
+hiTanimoto, 5tg3, XMM, chain: A, (tanimoto_similarity:  1.0, resolution: 1.77)
+hiTanimoto, 4z8b, XMM, chain: A, (tanimoto_similarity:  1.0, resolution: 1.95)
+hiTanimoto, 2jec, XMM, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 2je9, XMM, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)
+hiTanimoto, 3sh3, XMM, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)
+hiTanimoto, 4not, XMM, chain: A, (tanimoto_similarity:  1.0, resolution: 2.35)
+hiTanimoto, 3ax4, XMM, chain: A, (tanimoto_similarity:  1.0, resolution: 2.61)

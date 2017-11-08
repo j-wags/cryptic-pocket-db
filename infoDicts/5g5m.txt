@@ -1,0 +1,7 @@
+query, 5g5m
+ph, N/A
+ligand, QRL
+inchi, InChI=1S/C7H14OS/c1-3-4-5-6-7(8)9-2/h3-6H2,1-2H3
+size, 9
+rotatable_bond, 4
+hiResApo, 5g5c

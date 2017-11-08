@@ -1,0 +1,13 @@
+query, 5i03
+ph, 5.5
+ligand, NEZ
+inchi, InChI=1S/C18H17N5O/c1-10-2-4-11(5-3-10)6-7-12-15-13(17(24)23-18(19)22-15)8-14-16(12)21-9-20-14/h2-5,8-9H,6-7H2,1H3,(H,20,21)(H3,19,22,23,24)
+size, 24
+rotatable_bond, 3
+LMCSS, 1y5w, NEZ, chain: A, (size: 24, mcss_size: 24, resolution: 1.58) 
+LMCSS, 5i03, NEZ, chain: A, (size: 24, mcss_size: 24, resolution: 1.73) 
+SMCSS, 2z1w, BDI, chain: A, (size: 15, mcss_size: 7, resolution: 1.63) 
+hiResHolo, 4q8w, 2YY, chain: A, (resolution: 1.14)
+hiResApo, 4q8m
+hiTanimoto, 1y5w, NEZ, chain: A, (tanimoto_similarity:  1.0, resolution: 1.58)
+hiTanimoto, 5i03, NEZ, chain: A, (tanimoto_similarity:  1.0, resolution: 1.73)

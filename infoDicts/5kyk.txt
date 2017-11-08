@@ -1,0 +1,28 @@
+query, 5kyk
+ph, N/A
+ligand, 6ZD
+inchi, InChI=1S/C15H23ClN7O10PS/c16-3-8(24)18-1-2-20-35(30,31)6-34(28,29)32-4-7-10(25)11(26)14(33-7)23-5-19-9-12(23)21-15(17)22-13(9)27/h5,7,10-11,14,20,25-26H,1-4,6H2,(H,18,24)(H,28,29)(H3,17,21,22,27)/t7-,10-,11-,14-/m1/s1
+size, 39
+rotatable_bond, 11
+LMCSS, 4ql3, GDP, chain: A, (size: 32, mcss_size: 27, resolution: 1.04) 
+LMCSS, 4tqa, GDP, chain: A, (size: 32, mcss_size: 27, resolution: 1.13) 
+LMCSS, 4ldj, GDP, chain: A, (size: 32, mcss_size: 27, resolution: 1.15) 
+LMCSS, 4q03, GDP, chain: A, (size: 32, mcss_size: 27, resolution:  1.2) 
+LMCSS, 4obe, GDP, chain: A, (size: 32, mcss_size: 27, resolution: 1.24) 
+LMCSS, 5xco, GDP, chain: A, (size: 32, mcss_size: 27, resolution: 1.25) 
+LMCSS, 4luc, GDP, chain: A, (size: 32, mcss_size: 27, resolution: 1.29) 
+LMCSS, 4q01, GDP, chain: A, (size: 32, mcss_size: 27, resolution: 1.29) 
+LMCSS, 4epv, GDP, chain: A, (size: 32, mcss_size: 27, resolution: 1.35) 
+LMCSS, 4lyh, GDP, chain: A, (size: 32, mcss_size: 27, resolution: 1.37) 
+SMCSS, 4q03, 2XE, chain: A, (size: 8, mcss_size: 3, resolution:  1.2) 
+hiResHolo, 4ql3, GDP, chain: A, (resolution: 1.04)
+hiTanimoto, 4ql3, GDP, chain: A, (tanimoto_similarity: 0.87, resolution: 1.04)
+hiTanimoto, 4tqa, GDP, chain: A, (tanimoto_similarity: 0.87, resolution: 1.13)
+hiTanimoto, 4ldj, GDP, chain: A, (tanimoto_similarity: 0.87, resolution: 1.15)
+hiTanimoto, 4q03, GDP, chain: A, (tanimoto_similarity: 0.87, resolution:  1.2)
+hiTanimoto, 4obe, GDP, chain: A, (tanimoto_similarity: 0.87, resolution: 1.24)
+hiTanimoto, 5xco, GDP, chain: A, (tanimoto_similarity: 0.87, resolution: 1.25)
+hiTanimoto, 4luc, GDP, chain: A, (tanimoto_similarity: 0.87, resolution: 1.29)
+hiTanimoto, 4q01, GDP, chain: A, (tanimoto_similarity: 0.87, resolution: 1.29)
+hiTanimoto, 4epv, GDP, chain: A, (tanimoto_similarity: 0.87, resolution: 1.35)
+hiTanimoto, 4lyh, GDP, chain: A, (tanimoto_similarity: 0.87, resolution: 1.37)

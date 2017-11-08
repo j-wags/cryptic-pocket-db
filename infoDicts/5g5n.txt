@@ -1,0 +1,11 @@
+query, 5g5n
+ph, 7
+ligand, MMC
+inchi, InChI=1S/CH3.Hg/h1H3;/q;+1
+size, 2
+rotatable_bond, 0
+LMCSS, 5g5n, MMC, chain: A, (size: 2, mcss_size: 0, resolution:  2.3) 
+SMCSS, 5g5n, MMC, chain: A, (size: 2, mcss_size: 0, resolution:  2.3) 
+hiResHolo, 5g5n, MMC, chain: A, (resolution:  2.3)
+hiResApo, 5g5o
+hiTanimoto, 5g5n, MMC, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)

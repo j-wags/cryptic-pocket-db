@@ -1,0 +1,14 @@
+query, 5djm
+ph, N/A
+ligand, PT
+inchi, InChI=1S/Pt/q+2
+size, 1
+rotatable_bond, 0
+LMCSS, 5djl, PT, chain: A, (size: 1, mcss_size: 0, resolution:  1.8) 
+LMCSS, 5djm, PT, chain: A, (size: 1, mcss_size: 0, resolution:  1.9) 
+SMCSS, 5djl, PT, chain: A, (size: 1, mcss_size: 0, resolution:  1.8) 
+hiResHolo, 5djl, PT, chain: A, (resolution:  1.8)
+hiResApo, 3hkr
+hiResApo, 3kmn
+hiTanimoto, 5djl, PT, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 5djm, PT, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)

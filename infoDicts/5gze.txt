@@ -1,0 +1,29 @@
+query, 5gze
+ph, N/A
+ligand, LAT
+inchi, InChI=1S/C12H22O11/c13-1-3-5(15)6(16)9(19)12(22-3)23-10-4(2-14)21-11(20)8(18)7(10)17/h3-20H,1-2H2/t3-,4-,5+,6+,7-,8-,9-,10-,11-,12+/m1/s1
+size, 33
+rotatable_bond, 4
+LMCSS, 5gzd, LAT, chain: A, (size: 33, mcss_size: 33, resolution: 1.19) 
+LMCSS, 5gze, LAT, chain: A, (size: 33, mcss_size: 33, resolution: 1.32) 
+LMCSS, 4bmb, LAT, chain: A, (size: 33, mcss_size: 33, resolution: 1.35) 
+LMCSS, 3ap7, LAT, chain: A, (size: 33, mcss_size: 33, resolution: 1.53) 
+LMCSS, 3ap6, LAT, chain: A, (size: 33, mcss_size: 33, resolution: 1.58) 
+LMCSS, 5t7s, LBT, chain: A, (size: 33, mcss_size: 33, resolution:  1.9) 
+LMCSS, 5gzg, LAT, chain: A, (size: 33, mcss_size: 33, resolution:  2.0) 
+LMCSS, 5gzf, LAT, chain: A, (size: 33, mcss_size: 33, resolution:  2.0) 
+LMCSS, 4bme, LBT, chain: A, (size: 33, mcss_size: 33, resolution:  2.0) 
+LMCSS, 5t7i, LAT, chain: A, (size: 33, mcss_size: 33, resolution:  2.0) 
+SMCSS, 3ap9, NAG, chain: A, (size: 20, mcss_size: 16, resolution: 1.33) 
+hiResHolo, 5gzd, LAT, chain: A, (resolution: 1.19)
+hiResApo, 5gzc
+hiTanimoto, 5gzd, LAT, chain: A, (tanimoto_similarity:  1.0, resolution: 1.19)
+hiTanimoto, 5gze, LAT, chain: A, (tanimoto_similarity:  1.0, resolution: 1.32)
+hiTanimoto, 4bmb, LAT, chain: A, (tanimoto_similarity:  1.0, resolution: 1.35)
+hiTanimoto, 3ap7, LAT, chain: A, (tanimoto_similarity:  1.0, resolution: 1.53)
+hiTanimoto, 3ap6, LAT, chain: A, (tanimoto_similarity:  1.0, resolution: 1.58)
+hiTanimoto, 5t7s, LBT, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)
+hiTanimoto, 5gzg, LAT, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5gzf, LAT, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 4bme, LBT, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5t7i, LAT, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)

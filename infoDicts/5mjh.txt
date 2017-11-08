@@ -1,0 +1,14 @@
+query, 5mjh
+ph, 5.5
+ligand, OXY
+inchi, InChI=1S/O2/c1-2
+size, 2
+rotatable_bond, 0
+LMCSS, 5mjh, OXY, chain: A, (size: 2, mcss_size: 2, resolution: 1.45) 
+LMCSS, 5map, OXY, chain: A, (size: 2, mcss_size: 2, resolution: 1.49) 
+LMCSS, 4gt2, OXY, chain: A, (size: 2, mcss_size: 2, resolution:  1.8) 
+SMCSS, 5mjh, OXY, chain: A, (size: 2, mcss_size: 2, resolution: 1.45) 
+hiResHolo, 5mjh, OXY, chain: A, (resolution: 1.45)
+hiTanimoto, 5mjh, OXY, chain: A, (tanimoto_similarity:  1.0, resolution: 1.45)
+hiTanimoto, 5map, OXY, chain: A, (tanimoto_similarity:  1.0, resolution: 1.49)
+hiTanimoto, 4gt2, OXY, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)

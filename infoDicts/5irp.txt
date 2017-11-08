@@ -1,0 +1,6 @@
+query, 5irp
+ph, 8.5
+ligand, UAH
+inchi, InChI=1S/C7H10NO5P/c1-5-7(9)2-6(3-8-5)4-13-14(10,11)12/h2-3,9H,4H2,1H3,(H2,10,11,12)
+size, 14
+rotatable_bond, 3

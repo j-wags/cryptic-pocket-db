@@ -1,0 +1,10 @@
+query, 5lnv
+ph, 7.8
+ligand, KIK
+inchi, InChI=1S/C5H9NO2/c1-2-5(8)4(6)3-7/h2,4,7H,1,3,6H2/t4-/m0/s1
+size, 9
+rotatable_bond, 3
+LMCSS, 5lns, 5RP, chain: A, (size: 16, mcss_size: 7, resolution: 1.91) 
+SMCSS, 5k2z, 6R3, chain: A, (size: 7, mcss_size: 6, resolution:  1.8) 
+hiResHolo, 5k2z, 6R3, chain: A, (resolution:  1.8)
+hiTanimoto, 5k2z, 6R3, chain: A, (tanimoto_similarity: 0.45, resolution:  1.8)

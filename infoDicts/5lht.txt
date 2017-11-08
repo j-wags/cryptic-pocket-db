@@ -1,0 +1,11 @@
+query, 5lht
+ph, N/A
+ligand, TIH
+inchi, InChI=1S/C7H9NO2S/c8-6(7(9)10)4-5-2-1-3-11-5/h1-3,6H,4,8H2,(H,9,10)/t6-/m0/s1
+size, 12
+rotatable_bond, 3
+LMCSS, 5lht, TIH, chain: A, (size: 12, mcss_size: 12, resolution: 2.06) 
+SMCSS, 1nh8, AMP, chain: A, (size: 27, mcss_size: 6, resolution:  1.8) 
+hiResHolo, 1nh8, HIS, chain: A, (resolution:  1.8)
+hiResApo, 1nh7
+hiTanimoto, 5lht, TIH, chain: A, (tanimoto_similarity:  1.0, resolution: 2.06)

@@ -1,0 +1,25 @@
+query, 5m18
+ph, N/A
+ligand, MUR
+inchi, InChI=1S/C9H17NO7/c1-3(8(13)14)16-7-5(10)9(15)17-4(2-11)6(7)12/h3-7,9,11-12,15H,2,10H2,1H3,(H,13,14)/t3-,4-,5-,6-,7-,9-/m1/s1
+size, 23
+rotatable_bond, 4
+LMCSS, 4cjn, MUR, chain: A, (size: 23, mcss_size: 23, resolution: 1.95) 
+LMCSS, 5m18, MUR, chain: A, (size: 23, mcss_size: 23, resolution: 1.98) 
+LMCSS, 5m1a, MUR, chain: A, (size: 23, mcss_size: 23, resolution:  2.0) 
+LMCSS, 5m19, MUR, chain: A, (size: 23, mcss_size: 23, resolution:  2.0) 
+LMCSS, 3zfz, MUR, chain: A, (size: 23, mcss_size: 23, resolution: 2.25) 
+LMCSS, 4cpk, MUR, chain: A, (size: 23, mcss_size: 23, resolution: 2.35) 
+LMCSS, 3zg0, MUR, chain: A, (size: 23, mcss_size: 23, resolution:  2.6) 
+LMCSS, 4bl3, MUR, chain: A, (size: 23, mcss_size: 23, resolution:  3.0) 
+SMCSS, 4dki, BCT, chain: A, (size: 4, mcss_size: 3, resolution:  2.9) 
+hiResHolo, 4cjn, MUR, chain: A, (resolution: 1.95)
+hiResApo, 1vqq
+hiTanimoto, 4cjn, MUR, chain: A, (tanimoto_similarity:  1.0, resolution: 1.95)
+hiTanimoto, 5m18, MUR, chain: A, (tanimoto_similarity:  1.0, resolution: 1.98)
+hiTanimoto, 5m1a, MUR, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5m19, MUR, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 3zfz, MUR, chain: A, (tanimoto_similarity:  1.0, resolution: 2.25)
+hiTanimoto, 4cpk, MUR, chain: A, (tanimoto_similarity:  1.0, resolution: 2.35)
+hiTanimoto, 3zg0, MUR, chain: A, (tanimoto_similarity:  1.0, resolution:  2.6)
+hiTanimoto, 4bl3, MUR, chain: A, (tanimoto_similarity:  1.0, resolution:  3.0)

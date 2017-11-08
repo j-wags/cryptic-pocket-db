@@ -1,0 +1,25 @@
+query, 5jud
+ph, 7.5
+ligand, UDP
+inchi, InChI=1S/C9H14N2O12P2/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(22-8)3-21-25(19,20)23-24(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,19,20)(H,10,12,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+size, 29
+rotatable_bond, 6
+LMCSS, 4dec, UDP, chain: A, (size: 29, mcss_size: 29, resolution: 1.98) 
+LMCSS, 4y6u, UPG, chain: A, (size: 45, mcss_size: 29, resolution: 2.27) 
+LMCSS, 4y6n, UPG, chain: A, (size: 45, mcss_size: 29, resolution: 2.35) 
+LMCSS, 5jud, UDP, chain: A, (size: 29, mcss_size: 29, resolution: 2.59) 
+LMCSS, 4y7g, UPG, chain: A, (size: 45, mcss_size: 29, resolution: 2.59) 
+LMCSS, 4y9x, UPG, chain: A, (size: 45, mcss_size: 29, resolution: 2.64) 
+LMCSS, 3e25, UDP, chain: A, (size: 29, mcss_size: 29, resolution:  2.7) 
+LMCSS, 5juc, UDP, chain: A, (size: 29, mcss_size: 29, resolution:  2.8) 
+LMCSS, 5jt0, UDP, chain: A, (size: 29, mcss_size: 29, resolution:  2.8) 
+LMCSS, 5jsx, UPG, chain: A, (size: 45, mcss_size: 29, resolution: 2.81) 
+SMCSS, 4y7f, 48X, chain: A, (size: 10, mcss_size: 9, resolution: 3.23) 
+hiResHolo, 4dec, UDP, chain: A, (resolution: 1.98)
+hiResApo, 3e26
+hiTanimoto, 4dec, UDP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.98)
+hiTanimoto, 5jud, UDP, chain: A, (tanimoto_similarity:  1.0, resolution: 2.59)
+hiTanimoto, 3e25, UDP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.7)
+hiTanimoto, 5juc, UDP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.8)
+hiTanimoto, 5jt0, UDP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.8)
+hiTanimoto, 4de7, UDP, chain: A, (tanimoto_similarity:  1.0, resolution:  3.0)

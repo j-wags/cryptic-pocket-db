@@ -1,0 +1,11 @@
+query, 5mqm
+ph, N/A
+ligand, RPQ
+inchi, InChI=1S/C6H10N4O3/c1-2-3(11)4(12)5(13)6-7-8-9-10(2)6/h2-5,11-13H,1H3/t2-,3-,4+,5+/m0/s1
+size, 17
+rotatable_bond, 0
+LMCSS, 5mwk, RAM, chain: A, (size: 16, mcss_size: 13, resolution:  2.0) 
+SMCSS, 5mwk, ARA, chain: A, (size: 14, mcss_size: 12, resolution:  2.0) 
+hiResHolo, 5mwk, RAM, chain: A, (resolution:  2.0)
+hiResApo, 5mqn
+hiTanimoto, 5mwk, GAL, chain: A, (tanimoto_similarity: 0.43, resolution:  2.0)

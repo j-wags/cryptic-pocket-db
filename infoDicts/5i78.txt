@@ -1,0 +1,14 @@
+query, 5i78
+ph, 6.5
+ligand, NAG
+inchi, InChI=1S/C8H15NO6/c1-3(11)9-5-7(13)6(12)4(2-10)15-8(5)14/h4-8,10,12-14H,2H2,1H3,(H,9,11)/t4-,5-,6-,7-,8-/m1/s1
+size, 20
+rotatable_bond, 2
+LMCSS, 5i78, NAG, chain: A, (size: 20, mcss_size: 20, resolution: 1.58) 
+LMCSS, 5i77, NAG, chain: A, (size: 20, mcss_size: 20, resolution:  1.8) 
+LMCSS, 5i79, NAG, chain: A, (size: 20, mcss_size: 20, resolution: 2.35) 
+SMCSS, 5i79, CTT, chain: A, (size: 65, mcss_size: 16, resolution: 2.35) 
+hiResHolo, 5i78, NAG, chain: A, (resolution: 1.58)
+hiTanimoto, 5i78, NAG, chain: A, (tanimoto_similarity:  1.0, resolution: 1.58)
+hiTanimoto, 5i77, NAG, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 5i79, NAG, chain: A, (tanimoto_similarity:  1.0, resolution: 2.35)

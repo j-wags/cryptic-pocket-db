@@ -1,0 +1,6 @@
+query, 5fgl
+ph, N/A
+ligand, 6HY
+inchi, InChI=1S/C9H9NO4/c11-7(2-4-9(13)14)6-1-3-8(12)10-5-6/h1,3,5H,2,4H2,(H,10,12)(H,13,14)
+size, 14
+rotatable_bond, 4

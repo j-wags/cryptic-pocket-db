@@ -1,0 +1,25 @@
+query, 5upo
+ph, 5.5
+ligand, BGC
+inchi, InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5-,6-/m1/s1
+size, 17
+rotatable_bond, 1
+LMCSS, 5upi, BGC, chain: A, (size: 17, mcss_size: 17, resolution: 1.65) 
+LMCSS, 5upo, BGC, chain: A, (size: 17, mcss_size: 17, resolution:  1.7) 
+LMCSS, 5upm, BGC, chain: A, (size: 17, mcss_size: 17, resolution:  1.7) 
+LMCSS, 5upn, BGC, chain: A, (size: 17, mcss_size: 17, resolution:  1.8) 
+LMCSS, 5t4c, BGC, chain: A, (size: 17, mcss_size: 17, resolution:  1.8) 
+LMCSS, 5t4g, GLC, chain: A, (size: 17, mcss_size: 17, resolution:  1.8) 
+LMCSS, 5t4a, GLC, chain: A, (size: 17, mcss_size: 17, resolution:  2.1) 
+LMCSS, 5v1w, BGC, chain: A, (size: 17, mcss_size: 17, resolution: 2.15) 
+SMCSS, 5upi, BGC, chain: A, (size: 17, mcss_size: 17, resolution: 1.65) 
+hiResHolo, 5upi, BGC, chain: A, (resolution: 1.65)
+hiResApo, 5t49
+hiTanimoto, 5upi, BGC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.65)
+hiTanimoto, 5upo, BGC, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)
+hiTanimoto, 5upm, BGC, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)
+hiTanimoto, 5upn, BGC, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 5t4c, BGC, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 5t4g, GLC, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 5t4a, GLC, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)
+hiTanimoto, 5v1w, BGC, chain: A, (tanimoto_similarity:  1.0, resolution: 2.15)

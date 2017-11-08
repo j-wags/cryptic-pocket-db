@@ -1,0 +1,11 @@
+query, 5hki
+ph, N/A
+ligand, 6ZJ
+inchi, InChI=1S/2C6H8O7.Fe/c2*7-3(8)1-6(13,5(11)12)2-4(9)10;/h2*13H,1-2H2,(H,7,8)(H,9,10)(H,11,12);/q;;+6/p-6
+size, 27
+rotatable_bond, 10
+LMCSS, 5hkf, PRP, chain: A, (size: 26, mcss_size: 8, resolution: 2.25) 
+SMCSS, 5hkf, PRP, chain: A, (size: 26, mcss_size: 8, resolution: 2.25) 
+hiResHolo, 5hkf, PRP, chain: A, (resolution: 2.25)
+hiResApo, 5hkl
+hiTanimoto, 5hkf, PRP, chain: A, (tanimoto_similarity: 0.35, resolution: 2.25)

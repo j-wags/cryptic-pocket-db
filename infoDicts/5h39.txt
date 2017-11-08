@@ -1,0 +1,13 @@
+query, 5h39
+ph, 8
+ligand, UMP
+inchi, InChI=1S/C9H13N2O8P/c12-5-3-8(11-2-1-7(13)10-9(11)14)19-6(5)4-18-20(15,16)17/h1-2,5-6,8,12H,3-4H2,(H,10,13,14)(H2,15,16,17)/t5-,6+,8+/m0/s1
+size, 23
+rotatable_bond, 4
+LMCSS, 5h39, UMP, chain: A, (size: 23, mcss_size: 23, resolution:  2.0) 
+LMCSS, 5h3a, UMP, chain: A, (size: 23, mcss_size: 23, resolution:  2.4) 
+SMCSS, 5h3a, D16, chain: A, (size: 33, mcss_size: 9, resolution:  2.4) 
+hiResHolo, 5h39, UMP, chain: A, (resolution:  2.0)
+hiResApo, 5h38
+hiTanimoto, 5h39, UMP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5h3a, UMP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.4)

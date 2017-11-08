@@ -1,0 +1,11 @@
+query, 5x4p
+ph, 6.5
+ligand, 7ZO
+inchi, InChI=1S/C12H9ClN4O/c13-9-5-14-6-15-12(9)16-8-1-2-10-7(3-8)4-11(18)17-10/h1-3,5-6H,4H2,(H,17,18)(H,14,15,16)
+size, 18
+rotatable_bond, 1
+LMCSS, 5x4o, YAM, chain: A, (size: 35, mcss_size: 14, resolution: 2.05) 
+SMCSS, 5x4o, YAM, chain: A, (size: 35, mcss_size: 14, resolution: 2.05) 
+hiResHolo, 5x4o, YAM, chain: A, (resolution: 2.05)
+hiResApo, 5h7g
+hiTanimoto, 5x4o, YAM, chain: A, (tanimoto_similarity: 0.51, resolution: 2.05)

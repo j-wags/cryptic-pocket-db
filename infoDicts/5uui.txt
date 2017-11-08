@@ -1,0 +1,11 @@
+query, 5uui
+ph, 8.5
+ligand, MTN
+inchi, InChI=1S/C10H19NO3S2/c1-9(2)6-8(7-15-16(5,13)14)10(3,4)11(9)12/h6,12H,7H2,1-5H3
+size, 16
+rotatable_bond, 3
+LMCSS, 5uui, MTN, chain: A, (size: 16, mcss_size: 16, resolution:  1.4) 
+SMCSS, 2az5, 307, chain: A, (size: 40, mcss_size: 7, resolution:  2.1) 
+hiResHolo, 5uui, MTN, chain: A, (resolution:  1.4)
+hiResApo, 4tsv
+hiTanimoto, 5uui, MTN, chain: A, (tanimoto_similarity:  1.0, resolution:  1.4)

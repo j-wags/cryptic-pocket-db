@@ -1,0 +1,32 @@
+query, 5fp7
+ph, 7.4
+ligand, YC8
+inchi, InChI=1S/C16H16N2O3/c19-15(8-4-7-12-5-2-1-3-6-12)18-14-11-17-10-9-13(14)16(20)21/h1-3,5-6,9-11H,4,7-8H2,(H,18,19)(H,20,21)
+size, 21
+rotatable_bond, 6
+LMCSS, 5fp7, YC8, chain: A, (size: 21, mcss_size: 21, resolution:  2.0) 
+LMCSS, 5fp4, YC8, chain: A, (size: 21, mcss_size: 21, resolution:  2.0) 
+SMCSS, 5pnu, OGA, chain: A, (size: 10, mcss_size: 4, resolution: 1.14) 
+SMCSS, 5pnr, OGA, chain: A, (size: 10, mcss_size: 4, resolution: 1.14) 
+SMCSS, 5pnh, OGA, chain: A, (size: 10, mcss_size: 4, resolution: 1.14) 
+SMCSS, 5pn0, OGA, chain: A, (size: 10, mcss_size: 4, resolution: 1.14) 
+SMCSS, 5pmx, OGA, chain: A, (size: 10, mcss_size: 4, resolution: 1.14) 
+SMCSS, 5plv, OGA, chain: A, (size: 10, mcss_size: 4, resolution: 1.14) 
+SMCSS, 5plo, OGA, chain: A, (size: 10, mcss_size: 4, resolution: 1.14) 
+SMCSS, 5pln, OGA, chain: A, (size: 10, mcss_size: 4, resolution: 1.14) 
+SMCSS, 5plm, OGA, chain: A, (size: 10, mcss_size: 4, resolution: 1.14) 
+SMCSS, 5plk, OGA, chain: A, (size: 10, mcss_size: 4, resolution: 1.14) 
+SMCSS, 5phl, OGA, chain: A, (size: 10, mcss_size: 4, resolution: 1.14) 
+hiResHolo, 5pnu, OGA, chain: A, (resolution: 1.14)
+hiResHolo, 5pnr, OGA, chain: A, (resolution: 1.14)
+hiResHolo, 5pnh, OGA, chain: A, (resolution: 1.14)
+hiResHolo, 5pn0, OGA, chain: A, (resolution: 1.14)
+hiResHolo, 5pmx, OGA, chain: A, (resolution: 1.14)
+hiResHolo, 5plv, OGA, chain: A, (resolution: 1.14)
+hiResHolo, 5plo, OGA, chain: A, (resolution: 1.14)
+hiResHolo, 5pln, OGA, chain: A, (resolution: 1.14)
+hiResHolo, 5plm, OGA, chain: A, (resolution: 1.14)
+hiResHolo, 5plk, OGA, chain: A, (resolution: 1.14)
+hiResApo, 3dxt
+hiTanimoto, 5fp7, YC8, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5fp4, YC8, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)

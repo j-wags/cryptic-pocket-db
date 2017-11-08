@@ -1,0 +1,22 @@
+query, 5esl
+ph, 9.4
+ligand, 1YN
+inchi, InChI=1S/C35H38Cl2N8O4/c1-3-25(2)45-34(46)44(24-40-45)29-7-5-27(6-8-29)41-14-16-42(17-15-41)28-9-11-30(12-10-28)47-19-31-20-48-35(49-31,21-43-23-38-22-39-43)32-13-4-26(36)18-33(32)37/h4-13,18,22-25,31H,3,14-17,19-21H2,1-2H3/t25-,31+,35+/m1/s1
+size, 51
+rotatable_bond, 11
+LMCSS, 5esg, 1YN, chain: A, (size: 51, mcss_size: 51, resolution: 1.98) 
+LMCSS, 4zdy, 1YN, chain: A, (size: 51, mcss_size: 51, resolution: 2.02) 
+LMCSS, 5esh, 1YN, chain: A, (size: 51, mcss_size: 51, resolution: 2.15) 
+LMCSS, 5eqb, 1YN, chain: A, (size: 51, mcss_size: 51, resolution: 2.19) 
+LMCSS, 5esk, 1YN, chain: A, (size: 51, mcss_size: 51, resolution: 2.24) 
+LMCSS, 4ze2, 1YN, chain: A, (size: 51, mcss_size: 51, resolution:  2.3) 
+LMCSS, 5esl, 1YN, chain: A, (size: 51, mcss_size: 51, resolution: 2.35) 
+SMCSS, 4lxj, OXY, chain: A, (size: 2, mcss_size: 0, resolution:  1.9) 
+hiResHolo, 4lxj, LAN, chain: A, (resolution:  1.9)
+hiTanimoto, 5esg, 1YN, chain: A, (tanimoto_similarity:  1.0, resolution: 1.98)
+hiTanimoto, 4zdy, 1YN, chain: A, (tanimoto_similarity:  1.0, resolution: 2.02)
+hiTanimoto, 5esh, 1YN, chain: A, (tanimoto_similarity:  1.0, resolution: 2.15)
+hiTanimoto, 5eqb, 1YN, chain: A, (tanimoto_similarity:  1.0, resolution: 2.19)
+hiTanimoto, 5esk, 1YN, chain: A, (tanimoto_similarity:  1.0, resolution: 2.24)
+hiTanimoto, 4ze2, 1YN, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)
+hiTanimoto, 5esl, 1YN, chain: A, (tanimoto_similarity:  1.0, resolution: 2.35)

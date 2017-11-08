@@ -1,0 +1,11 @@
+query, 5uj4
+ph, N/A
+ligand, SFR
+inchi, InChI=1S/C12H17NO6S/c1-5(14)7(11(15)16)10-13-8(12(17)18)9(20-10)6-3-2-4-19-6/h5-7,10,13-14H,2-4H2,1H3,(H,15,16)(H,17,18)/t5-,6-,7-,10-/m1/s1
+size, 24
+rotatable_bond, 5
+LMCSS, 5uj4, SFR, chain: A, (size: 24, mcss_size: 24, resolution:  1.4) 
+SMCSS, 3rxx, NPB, chain: A, (size: 12, mcss_size: 5, resolution: 1.62) 
+hiResHolo, 3rxw, SR3, chain: A, (resolution: 1.26)
+hiResApo, 5ul8
+hiTanimoto, 5uj4, SFR, chain: A, (tanimoto_similarity:  1.0, resolution:  1.4)

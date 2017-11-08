@@ -1,0 +1,11 @@
+query, 5lzr
+ph, N/A
+ligand, WO4
+inchi, InChI=1S/4O.W/q;;2*-1;
+size, 5
+rotatable_bond, 0
+LMCSS, 5lzr, WO4, chain: A, (size: 5, mcss_size: 0, resolution:  4.0) 
+SMCSS, 5lzr, WO4, chain: A, (size: 5, mcss_size: 0, resolution:  4.0) 
+hiResHolo, 5lzr, WO4, chain: A, (resolution:  4.0)
+hiResApo, 4av3
+hiTanimoto, 5lzr, WO4, chain: A, (tanimoto_similarity:  1.0, resolution:  4.0)

@@ -1,0 +1,6 @@
+query, 5mkp
+ph, 9
+ligand, Q46
+inchi, InChI=1S/4Fe.H2S.4S/h;;;;1H2;;;;/q;;;+1;;4*+1/p-1
+size, 9
+rotatable_bond, 0

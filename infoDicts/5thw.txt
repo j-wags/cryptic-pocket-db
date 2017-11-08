@@ -1,0 +1,10 @@
+query, 5thw
+ph, 7.5
+ligand, URP
+inchi, InChI=1S/C4H8N2O3/c5-4(9)6-2-1-3(7)8/h1-2H2,(H,7,8)(H3,5,6,9)
+size, 9
+rotatable_bond, 3
+LMCSS, 5thw, URP, chain: A, (size: 9, mcss_size: 9, resolution:  2.5) 
+SMCSS, 5thw, URP, chain: A, (size: 9, mcss_size: 9, resolution:  2.5) 
+hiResHolo, 5thw, URP, chain: A, (resolution:  2.5)
+hiTanimoto, 5thw, URP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

@@ -1,0 +1,16 @@
+query, 5tjh
+ph, N/A
+ligand, UPG
+inchi, InChI=1S/C15H24N2O17P2/c18-3-5-8(20)10(22)12(24)14(32-5)33-36(28,29)34-35(26,27)30-4-6-9(21)11(23)13(31-6)17-2-1-7(19)16-15(17)25/h1-2,5-6,8-14,18,20-24H,3-4H2,(H,26,27)(H,28,29)(H,16,19,25)/t5-,6-,8-,9-,10+,11-,12-,13-,14-/m1/s1
+size, 45
+rotatable_bond, 9
+LMCSS, 5tjh, UPG, chain: C, (size: 45, mcss_size: 45, resolution: 2.05) 
+LMCSS, 4edf, UPG, chain: A, (size: 45, mcss_size: 45, resolution: 2.08) 
+LMCSS, 2qg4, UGA, chain: A, (size: 46, mcss_size: 45, resolution:  2.1) 
+LMCSS, 3khu, UPG, chain: A, (size: 45, mcss_size: 45, resolution:  2.3) 
+SMCSS, 5vr8, ADP, chain: C, (size: 31, mcss_size: 24, resolution:  2.0) 
+hiResHolo, 5vr8, UDX, chain: A, (resolution:  2.0)
+hiResApo, 3tf5
+hiTanimoto, 5tjh, UPG, chain: C, (tanimoto_similarity:  1.0, resolution: 2.05)
+hiTanimoto, 4edf, UPG, chain: A, (tanimoto_similarity:  1.0, resolution: 2.08)
+hiTanimoto, 3khu, UPG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)

@@ -1,0 +1,10 @@
+query, 5tls
+ph, 8.5
+ligand, ZD2
+inchi, InChI=1S/C9H11N5O3/c10-7-6-8(12-3-11-7)14(4-13-6)2-1-5(15)9(16)17/h3-5,15H,1-2H2,(H,16,17)(H2,10,11,12)/t5-/m0/s1
+size, 18
+rotatable_bond, 4
+LMCSS, 5jpi, DEA, chain: A, (size: 20, mcss_size: 18, resolution: 2.15) 
+SMCSS, 5t8k, ADE, chain: A, (size: 10, mcss_size: 10, resolution: 1.95) 
+hiResHolo, 5t8k, ADE, chain: A, (resolution: 1.95)
+hiTanimoto, 5jpi, DEA, chain: A, (tanimoto_similarity: 0.88, resolution: 2.15)

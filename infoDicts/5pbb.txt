@@ -1,0 +1,11 @@
+query, 5pbb
+ph, 7
+ligand, ES1
+inchi, InChI=1S/C9H7NO/c11-9-5-6-10-8-4-2-1-3-7(8)9/h1-6H,(H,10,11)
+size, 11
+rotatable_bond, 0
+LMCSS, 5pbb, ES1, chain: A, (size: 11, mcss_size: 11, resolution: 1.78) 
+SMCSS, 5pbc, ES3, chain: A, (size: 6, mcss_size: 4, resolution: 1.77) 
+hiResHolo, 5pb8, AC6, chain: A, (resolution: 1.65)
+hiResApo, 5pg1
+hiTanimoto, 5pbb, ES1, chain: A, (tanimoto_similarity:  1.0, resolution: 1.78)

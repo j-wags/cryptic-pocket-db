@@ -1,0 +1,11 @@
+query, 5j3l
+ph, 6.5
+ligand, 6FR
+inchi, InChI=1S/C11H21NO2S/c13-15(14,12-8-3-4-9-12)10-7-11-5-1-2-6-11/h11H,1-10H2
+size, 15
+rotatable_bond, 4
+LMCSS, 4m3f, 2D1, chain: A, (size: 21, mcss_size: 10, resolution:  2.0) 
+SMCSS, 1t56, DIO, chain: A, (size: 6, mcss_size: 2, resolution:  1.7) 
+hiResHolo, 5eyr, 5T0, chain: A, (resolution: 1.57)
+hiResApo, 3tp3
+hiTanimoto, 5f1j, 5TO, chain: A, (tanimoto_similarity: 0.44, resolution: 1.63)

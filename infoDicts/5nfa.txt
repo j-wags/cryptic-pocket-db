@@ -1,0 +1,27 @@
+query, 5nfa
+ph, 7.5
+ligand, 8VQ
+inchi, InChI=1S/C24H36N2O12/c1-11(29)25-17-19(32)21(16(9-28)36-23(17)26-12(2)30)38-24-20(33)22(18(31)15(8-27)37-24)35-10-13-5-4-6-14(7-13)34-3/h4-7,15-24,27-28,31-33H,8-10H2,1-3H3,(H,25,29)(H,26,30)/t15-,16-,17-,18+,19-,20-,21-,22+,23-,24+/m1/s1
+size, 48
+rotatable_bond, 10
+LMCSS, 3zsj, LAT, chain: A, (size: 33, mcss_size: 31, resolution: 0.86) 
+LMCSS, 4r9c, LAT, chain: A, (size: 33, mcss_size: 31, resolution: 1.19) 
+LMCSS, 4r9b, LAT, chain: A, (size: 33, mcss_size: 31, resolution:  1.2) 
+LMCSS, 4r9a, LAT, chain: A, (size: 33, mcss_size: 31, resolution:  1.2) 
+LMCSS, 4r9d, LAT, chain: A, (size: 33, mcss_size: 31, resolution: 1.24) 
+LMCSS, 2nn8, LAT, chain: A, (size: 33, mcss_size: 31, resolution: 1.35) 
+LMCSS, 4rl7, LAT, chain: A, (size: 33, mcss_size: 31, resolution:  2.0) 
+LMCSS, 3aye, LAT, chain: A, (size: 33, mcss_size: 31, resolution:  2.0) 
+SMCSS, 2xg3, UNU, chain: A, (size: 9, mcss_size: 8, resolution:  1.2) 
+hiResHolo, 3zsj, LAT, chain: A, (resolution: 0.86)
+hiResApo, 3zsk
+hiTanimoto, 2xg3, NAG, chain: A, (tanimoto_similarity: 0.60, resolution:  1.2)
+hiTanimoto, 1kjl, NAG, chain: A, (tanimoto_similarity: 0.60, resolution:  1.4)
+hiTanimoto, 1kjr, NAG, chain: A, (tanimoto_similarity: 0.60, resolution: 1.55)
+hiTanimoto, 4lbm, NAG, chain: A, (tanimoto_similarity: 0.60, resolution: 1.55)
+hiTanimoto, 4lbk, NAG, chain: A, (tanimoto_similarity: 0.60, resolution:  1.6)
+hiTanimoto, 4lbn, NAG, chain: A, (tanimoto_similarity: 0.60, resolution:  1.7)
+hiTanimoto, 4lbj, NAG, chain: A, (tanimoto_similarity: 0.60, resolution:  1.8)
+hiTanimoto, 3ayc, NGA, chain: B, (tanimoto_similarity: 0.60, resolution:  1.8)
+hiTanimoto, 3ayd, A2G, chain: A, (tanimoto_similarity: 0.60, resolution:  1.9)
+hiTanimoto, 3aya, A2G, chain: A, (tanimoto_similarity: 0.60, resolution:  2.0)

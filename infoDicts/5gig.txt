@@ -1,0 +1,14 @@
+query, 5gig
+ph, N/A
+ligand, 7DP
+inchi, InChI=1S/C10H13NO3/c1-7(12)11-5-4-8-2-3-9(13)10(14)6-8/h2-3,6,13-14H,4-5H2,1H3,(H,11,12)
+size, 14
+rotatable_bond, 3
+LMCSS, 5gi7, 54W, chain: A, (size: 12, mcss_size: 12, resolution:  1.2) 
+LMCSS, 5gii, 54W, chain: A, (size: 12, mcss_size: 12, resolution: 1.29) 
+LMCSS, 5gih, 54W, chain: A, (size: 12, mcss_size: 12, resolution: 1.39) 
+SMCSS, 5gi6, PEA, chain: A, (size: 9, mcss_size: 9, resolution: 1.65) 
+hiResHolo, 5gi7, 54W, chain: A, (resolution:  1.2)
+hiTanimoto, 5gi7, 54W, chain: A, (tanimoto_similarity: 0.67, resolution:  1.2)
+hiTanimoto, 5gii, 54W, chain: A, (tanimoto_similarity: 0.67, resolution: 1.29)
+hiTanimoto, 5gih, 54W, chain: A, (tanimoto_similarity: 0.67, resolution: 1.39)

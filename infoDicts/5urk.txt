@@ -1,0 +1,13 @@
+query, 5urk
+ph, N/A
+ligand, 8LP
+inchi, InChI=1S/C27H23N3O3/c31-26-15-25-22(17-29(26)16-20-8-3-1-4-9-20)18-30(27(32)28-25)23-12-7-13-24(14-23)33-19-21-10-5-2-6-11-21/h1-15,17H,16,18-19H2,(H,28,32)
+size, 33
+rotatable_bond, 6
+LMCSS, 4f93, ADP, chain: B, (size: 31, mcss_size: 11, resolution: 2.92) 
+LMCSS, 4kit, ADP, chain: B, (size: 31, mcss_size: 11, resolution:  3.6) 
+SMCSS, 4f92, SAN, chain: B, (size: 11, mcss_size: 7, resolution: 2.66) 
+hiResHolo, 4f92, SAN, chain: B, (resolution: 2.66)
+hiResApo, 4f91
+hiTanimoto, 4f92, SAN, chain: B, (tanimoto_similarity: 0.50, resolution: 2.66)
+hiTanimoto, 4f93, SAN, chain: B, (tanimoto_similarity: 0.50, resolution: 2.92)

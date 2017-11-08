@@ -1,0 +1,10 @@
+query, 5nyw
+ph, 6.9
+ligand, UNK
+inchi, InChI=1S/C4H9NO2/c1-2-3(5)4(6)7/h3H,2,5H2,1H3,(H,6,7)/t3-/m0/s1
+size, 8
+rotatable_bond, 2
+LMCSS, 5nyw, UNK, chain: I, (size: 8, mcss_size: 8, resolution:  2.5) 
+SMCSS, 5nyw, UNK, chain: I, (size: 8, mcss_size: 8, resolution:  2.5) 
+hiResHolo, 5nyw, UNK, chain: I, (resolution:  2.5)
+hiTanimoto, 5nyw, UNK, chain: I, (tanimoto_similarity:  1.0, resolution:  2.5)

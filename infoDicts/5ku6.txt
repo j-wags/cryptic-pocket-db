@@ -1,0 +1,11 @@
+query, 5ku6
+ph, 4.6
+ligand, MZM
+inchi, InChI=1S/C5H8N4O3S2/c1-3(10)7-4-9(2)8-5(13-4)14(6,11)12/h1-2H3,(H2,6,11,12)/b7-4-
+size, 14
+rotatable_bond, 0
+LMCSS, 5ku6, MZM, chain: A, (size: 14, mcss_size: 14, resolution:  1.8) 
+SMCSS, 3fw3, GLC, chain: A, (size: 17, mcss_size: 2, resolution: 1.72) 
+hiResHolo, 3fw3, ETS, chain: A, (resolution: 1.72)
+hiResApo, 1znc
+hiTanimoto, 5ku6, MZM, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)

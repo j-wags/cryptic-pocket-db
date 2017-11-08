@@ -1,0 +1,18 @@
+query, 5i0d
+ph, N/A
+ligand, GLC
+inchi, InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5-,6+/m1/s1
+size, 17
+rotatable_bond, 1
+LMCSS, 5f7u, GLC, chain: A, (size: 17, mcss_size: 17, resolution:  1.7) 
+LMCSS, 5i0d, GLC, chain: A, (size: 17, mcss_size: 17, resolution: 1.77) 
+LMCSS, 5hpo, CEX, chain: A, (size: 81, mcss_size: 17, resolution:  1.8) 
+LMCSS, 5hxm, GLC, chain: A, (size: 17, mcss_size: 17, resolution:  1.9) 
+LMCSS, 4kwu, BGC, chain: A, (size: 17, mcss_size: 17, resolution:  1.9) 
+SMCSS, 5f7u, GLC, chain: A, (size: 17, mcss_size: 17, resolution:  1.7) 
+hiResHolo, 5f7u, GLC, chain: A, (resolution:  1.7)
+hiResApo, 4kmq
+hiTanimoto, 5f7u, GLC, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)
+hiTanimoto, 5i0d, GLC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.77)
+hiTanimoto, 5hxm, GLC, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)
+hiTanimoto, 4kwu, BGC, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)

@@ -1,0 +1,10 @@
+query, 5upg
+ph, N/A
+ligand, 8GJ
+inchi, InChI=1S/C18H21FN2O6S/c1-18(17(23)20-24,28(3,25)26)7-9-21-8-6-12(10-16(21)22)14-5-4-13(27-2)11-15(14)19/h4-6,8,10-11,24H,7,9H2,1-3H3,(H,20,23)/t18-/m1/s1
+size, 28
+rotatable_bond, 7
+LMCSS, 3uhm, RFN, chain: A, (size: 25, mcss_size: 25, resolution: 1.26) 
+SMCSS, 2ves, GVR, chain: A, (size: 31, mcss_size: 11, resolution:  1.9) 
+hiResHolo, 3uhm, RFN, chain: A, (resolution: 1.26)
+hiTanimoto, 3uhm, RFN, chain: A, (tanimoto_similarity: 0.80, resolution: 1.26)

@@ -1,0 +1,11 @@
+query, 5tr6
+ph, 6.1
+ligand, 7KG
+inchi, InChI=1S/C17H21FN6O/c1-24-8-9(6-21-24)15-13-10(7-20-17(13)25)14(18)16(23-15)22-12-5-3-2-4-11(12)19/h6,8,11-12H,2-5,7,19H2,1H3,(H,20,25)(H,22,23)/t11-,12+/m0/s1
+size, 27
+rotatable_bond, 3
+LMCSS, 1xbc, STU, chain: A, (size: 38, mcss_size: 18, resolution:  2.0) 
+SMCSS, 4yjr, PTR, chain: A, (size: 18, mcss_size: 8, resolution: 1.32) 
+hiResHolo, 4yjr, 4DJ, chain: A, (resolution: 1.32)
+hiResApo, 1xba
+hiTanimoto, 1xbc, STU, chain: A, (tanimoto_similarity: 0.59, resolution:  2.0)

@@ -1,0 +1,24 @@
+query, 5wxb
+ph, N/A
+ligand, SAH
+inchi, InChI=1S/C14H20N6O5S/c15-6(14(23)24)1-2-26-3-7-9(21)10(22)13(25-7)20-5-19-8-11(16)17-4-18-12(8)20/h4-7,9-10,13,21-22H,1-3,15H2,(H,23,24)(H2,16,17,18)/t6-,7+,9+,10+,13+/m0/s1
+size, 31
+rotatable_bond, 7
+LMCSS, 5kqr, SAM, chain: A, (size: 32, mcss_size: 31, resolution: 1.33) 
+LMCSS, 5kqs, SAM, chain: A, (size: 32, mcss_size: 31, resolution:  1.5) 
+LMCSS, 5wxb, SAH, chain: A, (size: 31, mcss_size: 31, resolution: 1.76) 
+LMCSS, 5m5b, SAM, chain: A, (size: 32, mcss_size: 31, resolution: 2.01) 
+LMCSS, 5goz, SAH, chain: A, (size: 31, mcss_size: 31, resolution: 2.05) 
+LMCSS, 5gp1, SAH, chain: A, (size: 31, mcss_size: 31, resolution: 2.44) 
+LMCSS, 5wz1, SAM, chain: A, (size: 32, mcss_size: 31, resolution: 2.51) 
+LMCSS, 5wz2, SAM, chain: A, (size: 32, mcss_size: 31, resolution:  2.6) 
+LMCSS, 5u0b, SAH, chain: A, (size: 31, mcss_size: 31, resolution:  3.0) 
+LMCSS, 5tfr, SAH, chain: A, (size: 31, mcss_size: 31, resolution: 3.05) 
+SMCSS, 5kqs, M7G, chain: A, (size: 33, mcss_size: 15, resolution:  1.5) 
+hiResHolo, 5kqr, SAM, chain: A, (resolution: 1.33)
+hiTanimoto, 5wxb, SAH, chain: A, (tanimoto_similarity:  1.0, resolution: 1.76)
+hiTanimoto, 5goz, SAH, chain: A, (tanimoto_similarity:  1.0, resolution: 2.05)
+hiTanimoto, 5gp1, SAH, chain: A, (tanimoto_similarity:  1.0, resolution: 2.44)
+hiTanimoto, 5u0b, SAH, chain: A, (tanimoto_similarity:  1.0, resolution:  3.0)
+hiTanimoto, 5tfr, SAH, chain: A, (tanimoto_similarity:  1.0, resolution: 3.05)
+hiTanimoto, 5tmh, SAH, chain: A, (tanimoto_similarity:  1.0, resolution: 3.28)

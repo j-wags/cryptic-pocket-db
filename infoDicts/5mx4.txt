@@ -1,0 +1,14 @@
+query, 5mx4
+ph, 7
+ligand, HPA
+inchi, InChI=1S/C5H4N4O/c10-5-3-4(7-1-6-3)8-2-9-5/h1-2H,(H2,6,7,8,9,10)
+size, 10
+rotatable_bond, 0
+LMCSS, 5mx4, HPA, chain: C, (size: 10, mcss_size: 10, resolution: 2.31) 
+LMCSS, 5mx8, HPA, chain: A, (size: 10, mcss_size: 10, resolution:  2.4) 
+LMCSS, 5mx6, HPA, chain: A, (size: 10, mcss_size: 10, resolution: 2.41) 
+SMCSS, 5mx4, HPA, chain: C, (size: 10, mcss_size: 10, resolution: 2.31) 
+hiResHolo, 5mx4, HPA, chain: C, (resolution: 2.31)
+hiTanimoto, 5mx4, HPA, chain: C, (tanimoto_similarity:  1.0, resolution: 2.31)
+hiTanimoto, 5mx8, HPA, chain: A, (tanimoto_similarity:  1.0, resolution:  2.4)
+hiTanimoto, 5mx6, HPA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.41)

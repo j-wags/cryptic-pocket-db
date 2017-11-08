@@ -1,0 +1,10 @@
+query, 5n6g
+ph, N/A
+ligand, 8OZ
+inchi, InChI=1S/C9H8O2/c1-7(9(10)11)8-5-3-2-4-6-8/h2-6H,1H2,(H,10,11)
+size, 11
+rotatable_bond, 2
+LMCSS, 4jiq, 1L5, chain: A, (size: 13, mcss_size: 9, resolution: 2.49) 
+SMCSS, 4jip, HBA, chain: A, (size: 9, mcss_size: 8, resolution: 2.29) 
+hiResHolo, 4jip, HBA, chain: A, (resolution: 2.29)
+hiTanimoto, 4jip, HBA, chain: A, (tanimoto_similarity: 0.55, resolution: 2.29)

@@ -1,0 +1,12 @@
+query, 5hgp
+ph, 8.5
+ligand, BHC
+inchi, InChI=1S/C12H6O12/c13-7(14)1-2(8(15)16)4(10(19)20)6(12(23)24)5(11(21)22)3(1)9(17)18/h(H,13,14)(H,15,16)(H,17,18)(H,19,20)(H,21,22)(H,23,24)
+size, 24
+rotatable_bond, 6
+LMCSS, 5hgp, BHC, chain: A, (size: 24, mcss_size: 24, resolution: 1.95) 
+SMCSS, 5hgm, DTP, chain: A, (size: 33, mcss_size: 5, resolution: 2.04) 
+hiResHolo, 5hgp, BHC, chain: A, (resolution: 1.95)
+hiResHolo, 4xrq, 1B0, chain: A, (resolution: 1.95)
+hiResApo, 5jpa
+hiTanimoto, 5hgp, BHC, chain: A, (tanimoto_similarity:  1.0, resolution: 1.95)

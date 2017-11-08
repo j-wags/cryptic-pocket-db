@@ -1,0 +1,11 @@
+query, 5o0h
+ph, N/A
+ligand, 9FN
+inchi, InChI=1S/C14H8ClNO5/c15-11-6-5-8(7-12(11)16(20)21)13(17)9-3-1-2-4-10(9)14(18)19/h1-7H,(H,18,19)
+size, 21
+rotatable_bond, 4
+LMCSS, 5o0f, IOP, chain: B, (size: 14, mcss_size: 12, resolution:  1.7) 
+SMCSS, 5o08, COD, chain: A, (size: 49, mcss_size: 6, resolution: 1.55) 
+hiResHolo, 5o08, COD, chain: A, (resolution: 1.55)
+hiResApo, 5o06
+hiTanimoto, 5o0f, IOP, chain: B, (tanimoto_similarity: 0.48, resolution:  1.7)

@@ -1,0 +1,16 @@
+query, 5u9i
+ph, N/A
+ligand, FAR
+inchi, InChI=1S/C15H26/c1-6-14(4)10-8-12-15(5)11-7-9-13(2)3/h6,9,12H,7-8,10-11H2,1-5H3/b14-6+,15-12+
+size, 17
+rotatable_bond, 6
+LMCSS, 5u9j, GER, chain: A, (size: 23, mcss_size: 17, resolution:  2.1) 
+LMCSS, 5u9i, FAR, chain: A, (size: 17, mcss_size: 17, resolution:  2.3) 
+LMCSS, 5v35, FAR, chain: A, (size: 17, mcss_size: 17, resolution:  2.5) 
+SMCSS, 5u9j, GER, chain: A, (size: 23, mcss_size: 17, resolution:  2.1) 
+hiResHolo, 5u9j, GER, chain: A, (resolution:  2.1)
+hiResApo, 5u9a
+hiResApo, 5u9k
+hiTanimoto, 5u9j, GER, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)
+hiTanimoto, 5u9i, FAR, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)
+hiTanimoto, 5v35, FAR, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

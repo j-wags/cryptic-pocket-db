@@ -1,0 +1,20 @@
+query, 5km7
+ph, 6.7
+ligand, D5M
+inchi, InChI=1S/C10H14N5O6P/c11-9-8-10(13-3-12-9)15(4-14-8)7-1-5(16)6(21-7)2-20-22(17,18)19/h3-7,16H,1-2H2,(H2,11,12,13)(H2,17,18,19)/t5-,6+,7+/m0/s1
+size, 25
+rotatable_bond, 4
+LMCSS, 5km7, D5M, chain: A, (size: 25, mcss_size: 25, resolution: 1.25) 
+LMCSS, 5o8i, ADP, chain: B, (size: 31, mcss_size: 25, resolution: 1.27) 
+LMCSS, 5ed3, AMP, chain: B, (size: 27, mcss_size: 25, resolution: 1.31) 
+LMCSS, 3tw2, AMP, chain: A, (size: 27, mcss_size: 25, resolution: 1.38) 
+LMCSS, 5klz, AMP, chain: B, (size: 27, mcss_size: 25, resolution:  1.5) 
+LMCSS, 1kpf, AMP, chain: A, (size: 27, mcss_size: 25, resolution:  1.5) 
+LMCSS, 5ed6, AMP, chain: B, (size: 27, mcss_size: 25, resolution: 1.52) 
+LMCSS, 5km1, 5GP, chain: A, (size: 28, mcss_size: 25, resolution: 1.65) 
+LMCSS, 4zkl, AMP, chain: B, (size: 27, mcss_size: 25, resolution: 2.34) 
+SMCSS, 5o8g, MLI, chain: B, (size: 7, mcss_size: 5, resolution:  1.5) 
+hiResHolo, 3o1x, ADN, chain: A, (resolution: 1.08)
+hiResHolo, 3o1c, ADN, chain: A, (resolution: 1.08)
+hiResApo, 5emt
+hiTanimoto, 5km7, D5M, chain: A, (tanimoto_similarity:  1.0, resolution: 1.25)

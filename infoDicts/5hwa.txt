@@ -1,0 +1,13 @@
+query, 5hwa
+ph, 6.5
+ligand, GCS
+inchi, InChI=1S/C6H13NO5/c7-3-5(10)4(9)2(1-8)12-6(3)11/h2-6,8-11H,1,7H2/t2-,3-,4-,5-,6-/m1/s1
+size, 17
+rotatable_bond, 1
+LMCSS, 5hwa, GCS, chain: A, (size: 17, mcss_size: 17, resolution: 1.35) 
+LMCSS, 1qgi, GCS, chain: A, (size: 17, mcss_size: 17, resolution:  1.6) 
+SMCSS, 5hwa, GCS, chain: A, (size: 17, mcss_size: 17, resolution: 1.35) 
+hiResHolo, 5hwa, GCS, chain: A, (resolution: 1.35)
+hiResApo, 2d05
+hiTanimoto, 5hwa, GCS, chain: A, (tanimoto_similarity:  1.0, resolution: 1.35)
+hiTanimoto, 1qgi, GCS, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)

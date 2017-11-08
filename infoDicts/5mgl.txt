@@ -1,0 +1,7 @@
+query, 5mgl
+ph, 7.5
+ligand, 7MU
+inchi, InChI=1S/C7H7ClN2O/c1-9-7(11)6-4-5(8)2-3-10-6/h2-4H,1H3,(H,9,11)
+size, 11
+rotatable_bond, 1
+hiResApo, 4qbm

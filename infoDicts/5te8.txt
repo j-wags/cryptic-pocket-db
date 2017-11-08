@@ -1,0 +1,10 @@
+query, 5te8
+ph, N/A
+ligand, 08J
+inchi, InChI=1S/C18H13ClFN3/c1-11-21-9-13-10-22-18(14-4-2-3-5-16(14)20)15-8-12(19)6-7-17(15)23(11)13/h2-9H,10H2,1H3
+size, 23
+rotatable_bond, 1
+LMCSS, 5te8, 08J, chain: A, (size: 23, mcss_size: 23, resolution:  2.7) 
+SMCSS, 2j0d, ERY, chain: A, (size: 66, mcss_size: 5, resolution: 2.75) 
+hiResHolo, 4d6z, PK9, chain: A, (resolution: 1.93)
+hiTanimoto, 5te8, 08J, chain: A, (tanimoto_similarity:  1.0, resolution:  2.7)

@@ -1,0 +1,12 @@
+query, 5f1f
+ph, 6.5
+ligand, AMP
+inchi, InChI=1S/C10H14N5O7P/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(22-10)1-21-23(18,19)20/h2-4,6-7,10,16-17H,1H2,(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1
+size, 27
+rotatable_bond, 4
+LMCSS, 5f1f, AMP, chain: A, (size: 27, mcss_size: 27, resolution: 1.55) 
+LMCSS, 5k1d, 5GP, chain: A, (size: 28, mcss_size: 27, resolution: 1.94) 
+SMCSS, 5k1f, IMP, chain: A, (size: 27, mcss_size: 26, resolution: 1.94) 
+hiResHolo, 5f1f, AMP, chain: A, (resolution: 1.55)
+hiResApo, 1zkj
+hiTanimoto, 5f1f, AMP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.55)

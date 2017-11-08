@@ -1,0 +1,10 @@
+query, 5v7n
+ph, 5.9
+ligand, 8YV
+inchi, InChI=1S/C6H10O7/c7-1-2(8)3(9)4(10)5(11)6(12)13/h2-4,7-10H,1H2,(H,12,13)/t2-,3-,4+/m1/s1
+size, 16
+rotatable_bond, 5
+LMCSS, 5j23, A2R, chain: A, (size: 48, mcss_size: 12, resolution:  2.3) 
+SMCSS, 5v7g, OXL, chain: A, (size: 6, mcss_size: 5, resolution: 1.75) 
+hiResHolo, 5v7g, OXL, chain: A, (resolution: 1.75)
+hiTanimoto, 5j23, A2R, chain: A, (tanimoto_similarity: 0.38, resolution:  2.3)

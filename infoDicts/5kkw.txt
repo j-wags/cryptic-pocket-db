@@ -1,0 +1,11 @@
+query, 5kkw
+ph, 6.5
+ligand, KH2
+inchi, InChI=1S/C9H19NO3S/c1-10(6-3-2-4-7-10)8-5-9-14(11,12)13/h2-9H2,1H3
+size, 14
+rotatable_bond, 4
+LMCSS, 5kkw, KH2, chain: A, (size: 14, mcss_size: 14, resolution: 1.88) 
+SMCSS, 5kkw, KH2, chain: A, (size: 14, mcss_size: 14, resolution: 1.88) 
+hiResHolo, 5kkw, KH2, chain: A, (resolution: 1.88)
+hiResApo, 5wjp
+hiTanimoto, 5kkw, KH2, chain: A, (tanimoto_similarity:  1.0, resolution: 1.88)

@@ -1,0 +1,10 @@
+query, 5faj
+ph, N/A
+ligand, DCS
+inchi, InChI=1S/C11H16N3O7P/c1-6-10(15)8(3-13-9-5-20-14-11(9)16)7(2-12-6)4-21-22(17,18)19/h2,9,13,15H,3-5H2,1H3,(H,14,16)(H2,17,18,19)/t9-/m1/s1
+size, 23
+rotatable_bond, 6
+LMCSS, 5faj, DCS, chain: A, (size: 23, mcss_size: 23, resolution: 1.64) 
+SMCSS, 5fag, PPI, chain: A, (size: 5, mcss_size: 4, resolution: 1.51) 
+hiResHolo, 5fag, KCX, chain: A, (resolution: 1.51)
+hiTanimoto, 5faj, DCS, chain: A, (tanimoto_similarity:  1.0, resolution: 1.64)

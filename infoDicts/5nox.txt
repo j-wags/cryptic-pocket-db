@@ -1,0 +1,11 @@
+query, 5nox
+ph, 8
+ligand, L97
+inchi, InChI=1S/C5H5ClN2/c6-5-4(7)2-1-3-8-5/h1-3H,7H2
+size, 8
+rotatable_bond, 0
+LMCSS, 5lud, 76X, chain: A, (size: 8, mcss_size: 7, resolution: 1.25) 
+SMCSS, 4n1m, GLY, chain: A, (size: 5, mcss_size: 3, resolution: 1.15) 
+hiResHolo, 4n1m, GLY, chain: A, (resolution: 1.15)
+hiResApo, 5f66
+hiTanimoto, 5lud, 76X, chain: A, (tanimoto_similarity: 0.54, resolution: 1.25)

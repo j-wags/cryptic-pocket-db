@@ -1,0 +1,11 @@
+query, 5hpb
+ph, 6.9
+ligand, 63W
+inchi, InChI=1S/C14H11F3N4S2/c1-6-9-10(18)20-13(19)21-11(9)23-12(6)22-8-4-2-7(3-5-8)14(15,16)17/h2-5H,1H3,(H4,18,19,20,21)
+size, 23
+rotatable_bond, 2
+LMCSS, 3ghc, GHC, chain: A, (size: 33, mcss_size: 12, resolution:  1.3) 
+LMCSS, 3ghv, GHC, chain: A, (size: 33, mcss_size: 12, resolution:  1.3) 
+SMCSS, 1s3w, TQT, chain: A, (size: 29, mcss_size: 5, resolution:  1.9) 
+hiResHolo, 1kmv, LII, chain: A, (resolution: 1.05)
+hiTanimoto, 2c2s, 34B, chain: A, (tanimoto_similarity: 0.51, resolution:  1.4)

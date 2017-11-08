@@ -1,0 +1,10 @@
+query, 5gud
+ph, 8
+ligand, 2IT
+inchi, InChI=1S/C5H7NO4/c6-3(5(9)10)1-2-4(7)8/h6H,1-2H2,(H,7,8)(H,9,10)/b6-3-
+size, 11
+rotatable_bond, 4
+LMCSS, 5ijz, AKG, chain: A, (size: 10, mcss_size: 9, resolution: 2.29) 
+SMCSS, 5ijz, AKG, chain: A, (size: 10, mcss_size: 9, resolution: 2.29) 
+hiResHolo, 5ijz, AKG, chain: A, (resolution: 2.29)
+hiTanimoto, 5ijz, AKG, chain: A, (tanimoto_similarity: 0.46, resolution: 2.29)

@@ -1,0 +1,10 @@
+query, 5lgz
+ph, N/A
+ligand, FNR
+inchi, InChI=1S/C17H23N4O9P/c1-7-3-9-10(4-8(7)2)21(15-13(18-9)16(25)20-17(26)19-15)5-11(22)14(24)12(23)6-30-31(27,28)29/h3-4,11-12,14,18,22-24H,5-6H2,1-2H3,(H2,27,28,29)(H2,19,20,25,26)/t11-,12+,14-/m0/s1
+size, 34
+rotatable_bond, 7
+LMCSS, 5lgz, FNR, chain: A, (size: 34, mcss_size: 34, resolution:  1.5) 
+SMCSS, 1gvq, A2Q, chain: A, (size: 7, mcss_size: 5, resolution:  2.0) 
+hiResHolo, 1vyr, TNF, chain: A, (resolution:  0.9)
+hiTanimoto, 5lgz, FNR, chain: A, (tanimoto_similarity:  1.0, resolution:  1.5)

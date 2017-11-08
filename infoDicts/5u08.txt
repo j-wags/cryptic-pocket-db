@@ -1,0 +1,11 @@
+query, 5u08
+ph, 7
+ligand, SIS
+inchi, InChI=1S/C19H37N5O7/c1-19(27)7-28-18(13(26)16(19)24-2)31-15-11(23)5-10(22)14(12(15)25)30-17-9(21)4-3-8(6-20)29-17/h3,9-18,24-27H,4-7,20-23H2,1-2H3/t9-,10+,11-,12+,13-,14-,15+,16-,17-,18-,19+/m1/s1
+size, 41
+rotatable_bond, 6
+LMCSS, 5u08, SIS, chain: A, (size: 41, mcss_size: 41, resolution: 1.52) 
+SMCSS, 5f49, MLC, chain: B, (size: 59, mcss_size: 13, resolution: 2.15) 
+hiResHolo, 5f47, TRE, chain: A, (resolution:  1.5)
+hiResApo, 5f46
+hiTanimoto, 5u08, SIS, chain: A, (tanimoto_similarity:  1.0, resolution: 1.52)

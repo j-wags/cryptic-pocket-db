@@ -1,0 +1,13 @@
+query, 5m7y
+ph, 7
+ligand, MAN
+inchi, InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5+,6+/m1/s1
+size, 17
+rotatable_bond, 1
+LMCSS, 5m7y, MAN, chain: A, (size: 17, mcss_size: 17, resolution: 1.55) 
+LMCSS, 5m7i, MAN, chain: A, (size: 17, mcss_size: 17, resolution:  2.1) 
+SMCSS, 3qt9, YDR, chain: A, (size: 33, mcss_size: 16, resolution: 2.05) 
+hiResHolo, 5m7y, MAN, chain: A, (resolution: 1.55)
+hiResApo, 2nvp
+hiTanimoto, 5m7y, MAN, chain: A, (tanimoto_similarity:  1.0, resolution: 1.55)
+hiTanimoto, 5m7i, MAN, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)

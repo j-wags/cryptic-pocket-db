@@ -1,0 +1,14 @@
+query, 5k3x
+ph, N/A
+ligand, MSS
+inchi, InChI=1S/C10H14N5O6PS2.Mo.O/c11-10-14-7-4(8(16)15-10)12-3-6(24)5(23)2(21-9(3)13-7)1-20-22(17,18)19;;/h2-3,9,12,23-24H,1H2,(H2,17,18,19)(H4,11,13,14,15,16);;/q;+2;/p-2/t2-,3+,9-;;/m1../s1
+size, 29
+rotatable_bond, 3
+LMCSS, 5k3x, MSS, chain: A, (size: 29, mcss_size: 27, resolution:  1.6) 
+LMCSS, 4pw3, MSS, chain: A, (size: 29, mcss_size: 27, resolution: 2.35) 
+LMCSS, 4pw9, MSS, chain: A, (size: 29, mcss_size: 27, resolution: 2.49) 
+SMCSS, 5k3x, MSS, chain: A, (size: 29, mcss_size: 27, resolution:  1.6) 
+hiResHolo, 5k3x, MSS, chain: A, (resolution:  1.6)
+hiTanimoto, 5k3x, MSS, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)
+hiTanimoto, 4pw3, MSS, chain: A, (tanimoto_similarity:  1.0, resolution: 2.35)
+hiTanimoto, 4pw9, MSS, chain: A, (tanimoto_similarity:  1.0, resolution: 2.49)

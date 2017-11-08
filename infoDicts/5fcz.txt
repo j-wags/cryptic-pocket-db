@@ -1,0 +1,11 @@
+query, 5fcz
+ph, 6
+ligand, TNX
+inchi, InChI=1S/C8H13NO4S/c1-4(14)9-5-3-13-6(2-10)8(12)7(5)11/h3,6-8,10-12H,2H2,1H3,(H,9,14)/t6-,7-,8-/m1/s1
+size, 17
+rotatable_bond, 2
+LMCSS, 1hp5, NGT, chain: A, (size: 19, mcss_size: 17, resolution:  2.1) 
+SMCSS, 1jak, IFG, chain: A, (size: 18, mcss_size: 14, resolution: 1.75) 
+hiResHolo, 1jak, IFG, chain: A, (resolution: 1.75)
+hiResApo, 1hp4
+hiTanimoto, 1hp5, NGT, chain: A, (tanimoto_similarity: 0.49, resolution:  2.1)

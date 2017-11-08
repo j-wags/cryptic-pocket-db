@@ -1,0 +1,10 @@
+query, 5t7h
+ph, 7.4
+ligand, ZE7
+inchi, InChI=1S/C12H24O/c13-11-7-2-1-4-8-12-9-5-3-6-10-12/h12-13H,1-11H2
+size, 13
+rotatable_bond, 6
+LMCSS, 5kke, CM5, chain: A, (size: 44, mcss_size: 12, resolution:  1.7) 
+SMCSS, 4mu8, TBU, chain: A, (size: 5, mcss_size: 4, resolution: 1.45) 
+hiResHolo, 4n0k, T3Y, chain: A, (resolution: 1.05)
+hiTanimoto, 5kke, CM5, chain: A, (tanimoto_similarity: 0.33, resolution:  1.7)

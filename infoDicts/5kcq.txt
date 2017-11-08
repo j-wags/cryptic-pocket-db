@@ -1,0 +1,14 @@
+query, 5kcq
+ph, 6
+ligand, GST
+inchi, InChI=1S/C10H20O6P2S/c1-9(2)5-4-6-10(3)7-8-19-18(14,15)16-17(11,12)13/h5,7H,4,6,8H2,1-3H3,(H,14,15)(H2,11,12,13)/b10-7+
+size, 20
+rotatable_bond, 8
+LMCSS, 5kcq, GST, chain: A, (size: 20, mcss_size: 20, resolution:  2.0) 
+LMCSS, 5kd0, GST, chain: A, (size: 20, mcss_size: 20, resolution: 2.82) 
+SMCSS, 5kda, GEN, chain: A, (size: 20, mcss_size: 9, resolution:  2.0) 
+hiResHolo, 5kda, 6C7, chain: A, (resolution:  2.0)
+hiResHolo, 5kcq, GST, chain: A, (resolution:  2.0)
+hiResApo, 5kcg
+hiTanimoto, 5kcq, GST, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5kd0, GST, chain: A, (tanimoto_similarity:  1.0, resolution: 2.82)

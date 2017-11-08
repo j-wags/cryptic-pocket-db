@@ -1,0 +1,11 @@
+query, 5x5g
+ph, N/A
+ligand, OP0
+inchi, InChI=1S/C9H18N4O7S/c10-3-4-19-12-9(15)8-2-1-7(5-13(8)6-14)11-20-21(16,17)18/h6-8,11H,1-5,10H2,(H,12,15)(H,16,17,18)/t7-,8+/m1/s1
+size, 23
+rotatable_bond, 8
+LMCSS, 5x5g, OP0, chain: A, (size: 23, mcss_size: 23, resolution:  2.0) 
+SMCSS, 5gwa, NXL, chain: A, (size: 19, mcss_size: 19, resolution: 1.59) 
+hiResHolo, 5gwa, NXL, chain: A, (resolution: 1.59)
+hiResApo, 5gs8
+hiTanimoto, 5x5g, OP0, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)

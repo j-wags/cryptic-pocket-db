@@ -1,0 +1,12 @@
+query, 5x2w
+ph, N/A
+ligand, 3LM
+inchi, InChI=1S/C13H19N2O7PS/c1-8-12(16)10(6-15-11(13(17)18)3-4-24-2)9(5-14-8)7-22-23(19,20)21/h3,5,15-16H,4,6-7H2,1-2H3,(H,17,18)(H2,19,20,21)/b11-3+
+size, 25
+rotatable_bond, 9
+LMCSS, 5x2z, 3LM, chain: A, (size: 25, mcss_size: 25, resolution:  1.8) 
+LMCSS, 5x2w, 3LM, chain: A, (size: 25, mcss_size: 25, resolution:  2.7) 
+SMCSS, 3vk3, MET, chain: A, (size: 10, mcss_size: 5, resolution:  2.1) 
+hiResHolo, 5x2z, 3LM, chain: A, (resolution:  1.8)
+hiTanimoto, 5x2z, 3LM, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 5x2w, 3LM, chain: A, (tanimoto_similarity:  1.0, resolution:  2.7)

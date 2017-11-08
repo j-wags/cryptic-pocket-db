@@ -1,0 +1,10 @@
+query, 5tsq
+ph, 7.5
+ligand, BDR
+inchi, InChI=1S/C5H10O5/c6-1-2-3(7)4(8)5(9)10-2/h2-9H,1H2/t2-,3-,4-,5-/m1/s1
+size, 14
+rotatable_bond, 1
+LMCSS, 5tsq, BDR, chain: A, (size: 14, mcss_size: 14, resolution: 1.53) 
+SMCSS, 5tsq, BDR, chain: A, (size: 14, mcss_size: 14, resolution: 1.53) 
+hiResHolo, 5tsq, BDR, chain: A, (resolution: 1.53)
+hiTanimoto, 5tsq, BDR, chain: A, (tanimoto_similarity:  1.0, resolution: 1.53)

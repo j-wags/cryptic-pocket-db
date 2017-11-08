@@ -1,0 +1,30 @@
+query, 5f5q
+ph, 8.5
+ligand, MMA
+inchi, InChI=1S/C7H14O6/c1-12-7-6(11)5(10)4(9)3(2-8)13-7/h3-11H,2H2,1H3/t3-,4-,5+,6+,7+/m1/s1
+size, 18
+rotatable_bond, 2
+LMCSS, 2ovu, MMA, chain: A, (size: 18, mcss_size: 18, resolution:  1.5) 
+LMCSS, 2ow4, MMA, chain: A, (size: 18, mcss_size: 18, resolution:  1.6) 
+LMCSS, 4k21, XMM, chain: A, (size: 28, mcss_size: 18, resolution:  1.6) 
+LMCSS, 4p9y, 2KO, chain: A, (size: 67, mcss_size: 18, resolution: 1.89) 
+LMCSS, 2cy6, TRE, chain: A, (size: 33, mcss_size: 18, resolution:  2.0) 
+LMCSS, 5cna, MMA, chain: A, (size: 18, mcss_size: 18, resolution:  2.0) 
+LMCSS, 1qdc, MMA, chain: A, (size: 18, mcss_size: 18, resolution:  2.0) 
+LMCSS, 1gic, GYP, chain: A, (size: 18, mcss_size: 18, resolution:  2.0) 
+LMCSS, 4p9x, R3G, chain: A, (size: 64, mcss_size: 18, resolution: 2.06) 
+LMCSS, 2ef6, MDM, chain: A, (size: 34, mcss_size: 18, resolution:  2.1) 
+SMCSS, 4i30, ADE, chain: A, (size: 10, mcss_size: 2, resolution: 1.89) 
+hiResHolo, 1i3h, MAN, chain: A, (resolution:  1.2)
+hiResApo, 2uu8
+hiResApo, 1nls
+hiTanimoto, 2ovu, MMA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.5)
+hiTanimoto, 2ow4, MMA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.6)
+hiTanimoto, 5cna, MMA, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 1qdc, MMA, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 1gic, GYP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 4k1z, MMA, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)
+hiTanimoto, 2d7f, MMA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.31)
+hiTanimoto, 1ona, MMA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.35)
+hiTanimoto, 5f5q, MMA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.52)
+hiTanimoto, 1bxh, AMG, chain: A, (tanimoto_similarity:  1.0, resolution: 2.75)

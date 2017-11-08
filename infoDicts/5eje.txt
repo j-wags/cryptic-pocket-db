@@ -1,0 +1,27 @@
+query, 5eje
+ph, 5.8
+ligand, AP5
+inchi, InChI=1S/C20H29N10O22P5/c21-15-9-17(25-3-23-15)29(5-27-9)19-13(33)11(31)7(47-19)1-45-53(35,36)49-55(39,40)51-57(43,44)52-56(41,42)50-54(37,38)46-2-8-12(32)14(34)20(48-8)30-6-28-10-16(22)24-4-26-18(10)30/h3-8,11-14,19-20,31-34H,1-2H2,(H,35,36)(H,37,38)(H,39,40)(H,41,42)(H,43,44)(H2,21,23,25)(H2,22,24,26)/t7-,8-,11-,12-,13-,14-,19-,20-/m1/s1
+size, 65
+rotatable_bond, 16
+LMCSS, 4x8l, AP5, chain: A, (size: 65, mcss_size: 65, resolution:  1.7) 
+LMCSS, 1e4v, AP5, chain: A, (size: 65, mcss_size: 65, resolution: 1.85) 
+LMCSS, 1e4y, AP5, chain: A, (size: 65, mcss_size: 65, resolution: 1.85) 
+LMCSS, 5eje, AP5, chain: A, (size: 65, mcss_size: 65, resolution:  1.9) 
+LMCSS, 3hpq, AP5, chain: A, (size: 65, mcss_size: 65, resolution:  2.0) 
+LMCSS, 1ake, AP5, chain: A, (size: 65, mcss_size: 65, resolution:  2.0) 
+LMCSS, 3hpr, AP5, chain: A, (size: 65, mcss_size: 65, resolution:  2.0) 
+LMCSS, 4x8o, AP5, chain: A, (size: 65, mcss_size: 65, resolution:  2.1) 
+LMCSS, 3x2s, AP5, chain: A, (size: 65, mcss_size: 65, resolution:  2.8) 
+SMCSS, 3x2s, JPY, chain: A, (size: 21, mcss_size: 5, resolution:  2.8) 
+hiResHolo, 4jzk, ADP, chain: A, (resolution: 1.63)
+hiResApo, 4ake
+hiTanimoto, 4x8l, AP5, chain: A, (tanimoto_similarity:  1.0, resolution:  1.7)
+hiTanimoto, 1e4v, AP5, chain: A, (tanimoto_similarity:  1.0, resolution: 1.85)
+hiTanimoto, 1e4y, AP5, chain: A, (tanimoto_similarity:  1.0, resolution: 1.85)
+hiTanimoto, 5eje, AP5, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)
+hiTanimoto, 3hpq, AP5, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 1ake, AP5, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 3hpr, AP5, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 4x8o, AP5, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)
+hiTanimoto, 3x2s, AP5, chain: A, (tanimoto_similarity:  1.0, resolution:  2.8)

@@ -1,0 +1,11 @@
+query, 5hs2
+ph, 7.5
+ligand, CTP
+inchi, InChI=1S/C9H16N3O14P3/c10-5-1-2-12(9(15)11-5)8-7(14)6(13)4(24-8)3-23-28(19,20)26-29(21,22)25-27(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,19,20)(H,21,22)(H2,10,11,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+size, 33
+rotatable_bond, 8
+LMCSS, 5hs2, CTP, chain: A, (size: 33, mcss_size: 33, resolution:  1.9) 
+SMCSS, 5hs2, CTP, chain: A, (size: 33, mcss_size: 33, resolution:  1.9) 
+hiResHolo, 5hs2, CTP, chain: A, (resolution:  1.9)
+hiResApo, 5ddt
+hiTanimoto, 5hs2, CTP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)

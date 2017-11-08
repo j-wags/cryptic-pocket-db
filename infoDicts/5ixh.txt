@@ -1,0 +1,10 @@
+query, 5ixh
+ph, 8
+ligand, OTP
+inchi, InChI=1S/C40H68O7P2/c1-33(2)17-10-18-34(3)19-11-20-35(4)21-12-22-36(5)23-13-24-37(6)25-14-26-38(7)27-15-28-39(8)29-16-30-40(9)31-32-46-49(44,45)47-48(41,42)43/h17,19,21,23,25,27,29,31H,10-16,18,20,22,24,26,28,30,32H2,1-9H3,(H,44,45)(H2,41,42,43)/b34-19+,35-21+,36-23+,37-25+,38-27+,39-29+,40-31+
+size, 56
+rotatable_bond, 26
+LMCSS, 5ixh, OTP, chain: A, (size: 56, mcss_size: 56, resolution:  1.4) 
+SMCSS, 5ixh, OTP, chain: A, (size: 56, mcss_size: 56, resolution:  1.4) 
+hiResHolo, 5ixh, OTP, chain: A, (resolution:  1.4)
+hiTanimoto, 5ixh, OTP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.4)

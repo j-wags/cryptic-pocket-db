@@ -1,0 +1,12 @@
+query, 5suw
+ph, N/A
+ligand, 70G
+inchi, InChI=1S/C14H18O2/c1-10-4-2-5-11-6-3-7-12(14(10)11)8-9-13(15)16/h2,4-5,12H,3,6-9H2,1H3,(H,15,16)/t12-/m1/s1
+size, 17
+rotatable_bond, 3
+LMCSS, 4mlo, PAM, chain: A, (size: 20, mcss_size: 13, resolution: 1.65) 
+LMCSS, 3gbg, PAM, chain: A, (size: 20, mcss_size: 13, resolution:  1.9) 
+SMCSS, 4mlo, PAM, chain: A, (size: 20, mcss_size: 13, resolution: 1.65) 
+hiResHolo, 4mlo, PAM, chain: A, (resolution: 1.65)
+hiTanimoto, 4mlo, PAM, chain: A, (tanimoto_similarity: 0.49, resolution: 1.65)
+hiTanimoto, 3gbg, PAM, chain: A, (tanimoto_similarity: 0.49, resolution:  1.9)

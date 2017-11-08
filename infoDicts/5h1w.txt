@@ -1,0 +1,10 @@
+query, 5h1w
+ph, 6
+ligand, LER
+inchi, InChI=1S/C4H8O4/c5-1-3(7)4(8)2-6/h3,5-7H,1-2H2/t3-/m0/s1
+size, 9
+rotatable_bond, 3
+LMCSS, 5h1w, LER, chain: A, (size: 9, mcss_size: 9, resolution: 1.63) 
+SMCSS, 5h1w, LER, chain: A, (size: 9, mcss_size: 9, resolution: 1.63) 
+hiResHolo, 5h1w, LER, chain: A, (resolution: 1.63)
+hiTanimoto, 5h1w, LER, chain: A, (tanimoto_similarity:  1.0, resolution: 1.63)

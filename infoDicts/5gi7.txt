@@ -1,0 +1,14 @@
+query, 5gi7
+ph, N/A
+ligand, 54W
+inchi, InChI=1S/C10H13NO/c1-9(12)11-8-7-10-5-3-2-4-6-10/h2-6H,7-8H2,1H3,(H,11,12)
+size, 12
+rotatable_bond, 3
+LMCSS, 5gi7, 54W, chain: A, (size: 12, mcss_size: 12, resolution:  1.2) 
+LMCSS, 5gii, 54W, chain: A, (size: 12, mcss_size: 12, resolution: 1.29) 
+LMCSS, 5gih, 54W, chain: A, (size: 12, mcss_size: 12, resolution: 1.39) 
+SMCSS, 5gi6, PEA, chain: A, (size: 9, mcss_size: 9, resolution: 1.65) 
+hiResHolo, 5gi7, 54W, chain: A, (resolution:  1.2)
+hiTanimoto, 5gi7, 54W, chain: A, (tanimoto_similarity:  1.0, resolution:  1.2)
+hiTanimoto, 5gii, 54W, chain: A, (tanimoto_similarity:  1.0, resolution: 1.29)
+hiTanimoto, 5gih, 54W, chain: A, (tanimoto_similarity:  1.0, resolution: 1.39)

@@ -1,0 +1,24 @@
+query, 5ka7
+ph, 7.6
+ligand, OTA
+inchi, InChI=1S/C10H10N2O5S/c13-7(10(16)17)12-8-6(9(14)15)4-1-2-11-3-5(4)18-8/h11H,1-3H2,(H,12,13)(H,14,15)(H,16,17)
+size, 18
+rotatable_bond, 2
+LMCSS, 1c88, OTA, chain: A, (size: 18, mcss_size: 18, resolution:  1.8) 
+LMCSS, 5ka1, OTA, chain: A, (size: 18, mcss_size: 18, resolution: 1.84) 
+LMCSS, 5kad, OTA, chain: A, (size: 18, mcss_size: 18, resolution:  1.9) 
+LMCSS, 5kab, OTA, chain: A, (size: 18, mcss_size: 18, resolution: 1.97) 
+LMCSS, 5k9w, OTA, chain: A, (size: 18, mcss_size: 18, resolution: 2.01) 
+LMCSS, 5ka7, OTA, chain: A, (size: 18, mcss_size: 18, resolution: 2.06) 
+LMCSS, 5ka9, OTA, chain: A, (size: 18, mcss_size: 18, resolution: 2.07) 
+LMCSS, 5ka3, OTA, chain: A, (size: 18, mcss_size: 18, resolution: 2.14) 
+SMCSS, 1oeo, OCS, chain: X, (size: 11, mcss_size: 5, resolution: 2.15) 
+hiResHolo, 2f71, UN7, chain: A, (resolution: 1.55)
+hiTanimoto, 1c88, OTA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 5ka1, OTA, chain: A, (tanimoto_similarity:  1.0, resolution: 1.84)
+hiTanimoto, 5kad, OTA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)
+hiTanimoto, 5kab, OTA, chain: A, (tanimoto_similarity:  1.0, resolution: 1.97)
+hiTanimoto, 5k9w, OTA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.01)
+hiTanimoto, 5ka7, OTA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.06)
+hiTanimoto, 5ka9, OTA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.07)
+hiTanimoto, 5ka3, OTA, chain: A, (tanimoto_similarity:  1.0, resolution: 2.14)

@@ -1,0 +1,10 @@
+query, 5td7
+ph, N/A
+ligand, FKS
+inchi, InChI=1S/C10H21F3N2O2/c11-10(12,13)9(16,17)5-2-1-3-7-15-8-4-6-14/h15-17H,1-8,14H2
+size, 17
+rotatable_bond, 9
+LMCSS, 5td7, FKS, chain: A, (size: 17, mcss_size: 17, resolution: 2.85) 
+SMCSS, 5td7, FKS, chain: A, (size: 17, mcss_size: 17, resolution: 2.85) 
+hiResHolo, 5td7, FKS, chain: A, (resolution: 2.85)
+hiTanimoto, 5td7, FKS, chain: A, (tanimoto_similarity:  1.0, resolution: 2.85)

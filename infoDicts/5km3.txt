@@ -1,0 +1,13 @@
+query, 5km3
+ph, 6.1
+ligand, U5P
+inchi, InChI=1S/C9H13N2O9P/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(20-8)3-19-21(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,10,12,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+size, 25
+rotatable_bond, 4
+LMCSS, 5km3, U5P, chain: A, (size: 25, mcss_size: 25, resolution:  1.2) 
+LMCSS, 5km4, IU, chain: A, (size: 26, mcss_size: 25, resolution:  1.4) 
+SMCSS, 5o8g, MLI, chain: B, (size: 7, mcss_size: 5, resolution:  1.5) 
+hiResHolo, 3o1x, ADN, chain: A, (resolution: 1.08)
+hiResHolo, 3o1c, ADN, chain: A, (resolution: 1.08)
+hiResApo, 5emt
+hiTanimoto, 5km3, U5P, chain: A, (tanimoto_similarity:  1.0, resolution:  1.2)

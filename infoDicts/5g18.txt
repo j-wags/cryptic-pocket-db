@@ -1,0 +1,13 @@
+query, 5g18
+ph, 6.1
+ligand, AZR
+inchi, InChI=1S/C13H19N5O8S2/c1-6(18-28(23,24)25)7(4-19)15-10(20)9(8-5-27-12(14)16-8)17-26-13(2,3)11(21)22/h4-7,18H,1-3H3,(H2,14,16)(H,15,20)(H,21,22)(H,23,24,25)/b17-9-/t6-,7+/m0/s1
+size, 30
+rotatable_bond, 10
+LMCSS, 2zqc, AZR, chain: A, (size: 30, mcss_size: 30, resolution: 1.07) 
+LMCSS, 5g18, AZR, chain: A, (size: 30, mcss_size: 30, resolution:  1.1) 
+SMCSS, 2zq9, SPA, chain: A, (size: 9, mcss_size: 5, resolution: 1.07) 
+hiResHolo, 2zqa, PCZ, chain: A, (resolution: 0.95)
+hiResApo, 2zq7
+hiTanimoto, 2zqc, AZR, chain: A, (tanimoto_similarity:  1.0, resolution: 1.07)
+hiTanimoto, 5g18, AZR, chain: A, (tanimoto_similarity:  1.0, resolution:  1.1)

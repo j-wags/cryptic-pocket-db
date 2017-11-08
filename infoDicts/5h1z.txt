@@ -1,0 +1,10 @@
+query, 5h1z
+ph, N/A
+ligand, D12
+inchi, InChI=1S/C12H26/c1-3-5-7-9-11-12-10-8-6-4-2/h3-12H2,1-2H3
+size, 12
+rotatable_bond, 9
+LMCSS, 5h1z, D12, chain: A, (size: 12, mcss_size: 12, resolution:  3.1) 
+SMCSS, 5h1z, D12, chain: A, (size: 12, mcss_size: 12, resolution:  3.1) 
+hiResHolo, 5h1z, D12, chain: A, (resolution:  3.1)
+hiTanimoto, 5h1z, D12, chain: A, (tanimoto_similarity:  1.0, resolution:  3.1)

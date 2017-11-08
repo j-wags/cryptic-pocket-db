@@ -1,0 +1,11 @@
+query, 5goy
+ph, 7.5
+ligand, MET
+inchi, InChI=1S/C5H11NO2S/c1-9-3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)/t4-/m0/s1
+size, 10
+rotatable_bond, 4
+LMCSS, 5goy, MET, chain: A, (size: 10, mcss_size: 10, resolution: 2.28) 
+SMCSS, 5goy, MET, chain: A, (size: 10, mcss_size: 10, resolution: 2.28) 
+hiResHolo, 5goy, MET, chain: A, (resolution: 2.28)
+hiResApo, 5gl7
+hiTanimoto, 5goy, MET, chain: A, (tanimoto_similarity:  1.0, resolution: 2.28)

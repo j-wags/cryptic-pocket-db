@@ -1,0 +1,12 @@
+query, 5fbi
+ph, N/A
+ligand, 5WD
+inchi, InChI=1S/C17H14N2O4/c18-16(20)15-8-12-7-13(4-5-14(12)19-15)23-9-10-2-1-3-11(6-10)17(21)22/h1-8,19H,9H2,(H2,18,20)(H,21,22)
+size, 23
+rotatable_bond, 5
+LMCSS, 1dic, DIC, chain: A, (size: 13, mcss_size: 10, resolution:  1.8) 
+LMCSS, 5tcc, J56, chain: A, (size: 28, mcss_size: 10, resolution: 3.37) 
+SMCSS, 1dfp, DFP, chain: A, (size: 10, mcss_size: 3, resolution:  2.4) 
+hiResHolo, 1bio, SOA, chain: A, (resolution:  1.5)
+hiResApo, 2xw9
+hiTanimoto, 5tcc, J56, chain: A, (tanimoto_similarity: 0.39, resolution: 3.37)

@@ -1,0 +1,22 @@
+query, 5esj
+ph, N/A
+ligand, TPF
+inchi, InChI=1S/C13H12F2N6O/c14-10-1-2-11(12(15)3-10)13(22,4-20-8-16-6-18-20)5-21-9-17-7-19-21/h1-3,6-9,22H,4-5H2
+size, 22
+rotatable_bond, 5
+LMCSS, 5esm, TPF, chain: A, (size: 22, mcss_size: 22, resolution:  2.0) 
+LMCSS, 4wmz, TPF, chain: A, (size: 22, mcss_size: 22, resolution: 2.05) 
+LMCSS, 5esj, TPF, chain: A, (size: 22, mcss_size: 22, resolution: 2.15) 
+LMCSS, 4ze3, TPF, chain: A, (size: 22, mcss_size: 22, resolution:  2.2) 
+LMCSS, 5ese, TPF, chain: A, (size: 22, mcss_size: 22, resolution:  2.2) 
+LMCSS, 5esf, TPF, chain: A, (size: 22, mcss_size: 22, resolution: 2.25) 
+LMCSS, 4zdz, TPF, chain: A, (size: 22, mcss_size: 22, resolution:  2.3) 
+SMCSS, 4lxj, OXY, chain: A, (size: 2, mcss_size: 0, resolution:  1.9) 
+hiResHolo, 4lxj, LAN, chain: A, (resolution:  1.9)
+hiTanimoto, 5esm, TPF, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 4wmz, TPF, chain: A, (tanimoto_similarity:  1.0, resolution: 2.05)
+hiTanimoto, 5esj, TPF, chain: A, (tanimoto_similarity:  1.0, resolution: 2.15)
+hiTanimoto, 4ze3, TPF, chain: A, (tanimoto_similarity:  1.0, resolution:  2.2)
+hiTanimoto, 5ese, TPF, chain: A, (tanimoto_similarity:  1.0, resolution:  2.2)
+hiTanimoto, 5esf, TPF, chain: A, (tanimoto_similarity:  1.0, resolution: 2.25)
+hiTanimoto, 4zdz, TPF, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)

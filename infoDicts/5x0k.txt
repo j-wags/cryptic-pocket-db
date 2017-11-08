@@ -1,0 +1,20 @@
+query, 5x0k
+ph, 9
+ligand, AMP
+inchi, InChI=1S/C10H14N5O7P/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(22-10)1-21-23(18,19)20/h2-4,6-7,10,16-17H,1H2,(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1
+size, 27
+rotatable_bond, 4
+LMCSS, 5x0j, AMP, chain: A, (size: 27, mcss_size: 27, resolution: 1.43) 
+LMCSS, 5x0k, AMP, chain: A, (size: 27, mcss_size: 27, resolution: 1.65) 
+LMCSS, 5x0b, AMP, chain: A, (size: 27, mcss_size: 27, resolution: 1.75) 
+LMCSS, 5x0f, AMP, chain: A, (size: 27, mcss_size: 27, resolution: 1.76) 
+LMCSS, 5x0g, AMP, chain: A, (size: 27, mcss_size: 27, resolution:  1.9) 
+LMCSS, 5x0e, AMP, chain: A, (size: 27, mcss_size: 27, resolution:  2.0) 
+SMCSS, 5x0j, SEP, chain: A, (size: 12, mcss_size: 10, resolution: 1.43) 
+hiResHolo, 5x0j, AMP, chain: A, (resolution: 1.43)
+hiTanimoto, 5x0j, AMP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.43)
+hiTanimoto, 5x0k, AMP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.65)
+hiTanimoto, 5x0b, AMP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.75)
+hiTanimoto, 5x0f, AMP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.76)
+hiTanimoto, 5x0g, AMP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)
+hiTanimoto, 5x0e, AMP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)

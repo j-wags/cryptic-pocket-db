@@ -1,0 +1,20 @@
+query, 5nih
+ph, 4.5
+ligand, 8VE
+inchi, InChI=1S/C8H11N3O4/c1-11-3-2-9-5(7(12)13)4(3)6(10-11)8(14)15/h3-5,9H,2H2,1H3,(H,12,13)(H,14,15)/t3-,4-,5-/m0/s1
+size, 18
+rotatable_bond, 2
+LMCSS, 1p1n, KAI, chain: A, (size: 18, mcss_size: 15, resolution:  1.6) 
+LMCSS, 1ftk, KAI, chain: A, (size: 18, mcss_size: 15, resolution:  1.6) 
+LMCSS, 1xhy, KAI, chain: A, (size: 18, mcss_size: 15, resolution: 1.85) 
+LMCSS, 4u1o, KAI, chain: A, (size: 18, mcss_size: 15, resolution: 1.85) 
+LMCSS, 1fw0, KAI, chain: A, (size: 18, mcss_size: 15, resolution:  1.9) 
+LMCSS, 1gr2, KAI, chain: A, (size: 18, mcss_size: 15, resolution:  1.9) 
+LMCSS, 4u1z, KAI, chain: A, (size: 18, mcss_size: 15, resolution: 1.94) 
+LMCSS, 3t9h, KAI, chain: B, (size: 18, mcss_size: 15, resolution: 2.02) 
+LMCSS, 2anj, KAI, chain: A, (size: 18, mcss_size: 15, resolution:  2.1) 
+LMCSS, 1lbb, KAI, chain: A, (size: 18, mcss_size: 15, resolution:  2.1) 
+SMCSS, 3m3l, P99, chain: A, (size: 26, mcss_size: 4, resolution: 1.85) 
+hiResHolo, 5jei, FWD, chain: A, (resolution: 1.23)
+hiResApo, 4u2r
+hiTanimoto, 4g8m, G8M, chain: A, (tanimoto_similarity: 0.47, resolution: 2.05)

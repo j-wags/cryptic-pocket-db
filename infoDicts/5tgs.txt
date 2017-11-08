@@ -1,0 +1,10 @@
+query, 5tgs
+ph, N/A
+ligand, MET
+inchi, InChI=1S/C5H11NO2S/c1-9-3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)/t4-/m0/s1
+size, 10
+rotatable_bond, 4
+LMCSS, 5tgs, MET, chain: A, (size: 10, mcss_size: 10, resolution: 2.55) 
+SMCSS, 5tgs, MET, chain: A, (size: 10, mcss_size: 10, resolution: 2.55) 
+hiResHolo, 5tgs, MET, chain: A, (resolution: 2.55)
+hiTanimoto, 5tgs, MET, chain: A, (tanimoto_similarity:  1.0, resolution: 2.55)

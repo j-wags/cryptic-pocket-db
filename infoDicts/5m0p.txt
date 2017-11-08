@@ -1,0 +1,12 @@
+query, 5m0p
+ph, N/A
+ligand, DCR
+inchi, InChI=1S/C20H40O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20(21)22/h2-19H2,1H3,(H,21,22)
+size, 22
+rotatable_bond, 18
+LMCSS, 5m0p, DCR, chain: A, (size: 22, mcss_size: 22, resolution: 1.95) 
+LMCSS, 4l40, DCR, chain: A, (size: 22, mcss_size: 22, resolution:  2.5) 
+SMCSS, 5m0o, EPA, chain: A, (size: 32, mcss_size: 7, resolution:  1.8) 
+hiResHolo, 5m0o, EPA, chain: A, (resolution:  1.8)
+hiTanimoto, 5m0p, DCR, chain: A, (tanimoto_similarity:  1.0, resolution: 1.95)
+hiTanimoto, 4l40, DCR, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

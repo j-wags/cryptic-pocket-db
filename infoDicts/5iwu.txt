@@ -1,0 +1,16 @@
+query, 5iwu
+ph, 7.5
+ligand, ERY
+inchi, InChI=1S/C37H67NO13/c1-14-25-37(10,45)30(41)20(4)27(39)18(2)16-35(8,44)32(51-34-28(40)24(38(11)12)15-19(3)47-34)21(5)29(22(6)33(43)49-25)50-26-17-36(9,46-13)31(42)23(7)48-26/h18-26,28-32,34,40-42,44-45H,14-17H2,1-13H3/t18-,19-,20+,21+,22-,23+,24+,25-,26+,28-,29+,30-,31+,32-,34+,35-,36-,37-/m1/s1
+size, 66
+rotatable_bond, 7
+LMCSS, 5iwu, ERY, chain: A, (size: 66, mcss_size: 66, resolution:  1.3) 
+LMCSS, 5igy, ERY, chain: A, (size: 66, mcss_size: 66, resolution: 1.45) 
+LMCSS, 5ih0, ERY, chain: A, (size: 66, mcss_size: 66, resolution: 1.65) 
+LMCSS, 5igw, CTY, chain: A, (size: 67, mcss_size: 66, resolution:  2.1) 
+SMCSS, 5ih1, GDP, chain: A, (size: 32, mcss_size: 12, resolution: 1.31) 
+hiResHolo, 5iwu, ERY, chain: A, (resolution:  1.3)
+hiResApo, 5uxa
+hiTanimoto, 5iwu, ERY, chain: A, (tanimoto_similarity:  1.0, resolution:  1.3)
+hiTanimoto, 5igy, ERY, chain: A, (tanimoto_similarity:  1.0, resolution: 1.45)
+hiTanimoto, 5ih0, ERY, chain: A, (tanimoto_similarity:  1.0, resolution: 1.65)

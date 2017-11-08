@@ -1,0 +1,10 @@
+query, 5thm
+ph, 8.5
+ligand, 7BZ
+inchi, InChI=1S/C2H8BN/c1-4(2)3/h3H2,1-2H3
+size, 4
+rotatable_bond, 0
+LMCSS, 5thm, MLY, chain: A, (size: 13, mcss_size: 3, resolution: 2.15) 
+SMCSS, 5thm, MLY, chain: A, (size: 13, mcss_size: 3, resolution: 2.15) 
+hiResHolo, 5thm, MLY, chain: A, (resolution: 2.15)
+hiTanimoto, 5thm, MLY, chain: A, (tanimoto_similarity: 0.13, resolution: 2.15)

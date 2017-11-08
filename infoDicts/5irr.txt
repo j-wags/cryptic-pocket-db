@@ -1,0 +1,10 @@
+query, 5irr
+ph, 8.5
+ligand, GSP
+inchi, InChI=1S/C10H16N5O13P3S/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(26-9)1-25-29(19,20)27-30(21,22)28-31(23,24)32/h2-3,5-6,9,16-17H,1H2,(H,19,20)(H,21,22)(H2,23,24,32)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1
+size, 36
+rotatable_bond, 8
+LMCSS, 5irr, GSP, chain: A, (size: 36, mcss_size: 36, resolution: 2.04) 
+SMCSS, 5irr, GSP, chain: A, (size: 36, mcss_size: 36, resolution: 2.04) 
+hiResHolo, 5irr, GSP, chain: A, (resolution: 2.04)
+hiTanimoto, 5irr, GSP, chain: A, (tanimoto_similarity:  1.0, resolution: 2.04)

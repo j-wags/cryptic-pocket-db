@@ -1,0 +1,12 @@
+query, 5vrh
+ph, 5.7
+ligand, OLB
+inchi, InChI=1S/C21H40O4/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-21(24)25-19-20(23)18-22/h9-10,20,22-23H,2-8,11-19H2,1H3/b10-9-/t20-/m0/s1
+size, 28
+rotatable_bond, 18
+LMCSS, 5vrh, OLB, chain: A, (size: 28, mcss_size: 28, resolution: 2.14) 
+SMCSS, 5vrg, LNK, chain: A, (size: 5, mcss_size: 5, resolution: 2.52) 
+hiResHolo, 5vrh, OLB, chain: A, (resolution: 2.14)
+hiResApo, 5n6l
+hiResApo, 5n6h
+hiTanimoto, 5vrh, OLB, chain: A, (tanimoto_similarity:  1.0, resolution: 2.14)

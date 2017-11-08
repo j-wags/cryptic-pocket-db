@@ -1,0 +1,18 @@
+query, 5mgu
+ph, N/A
+ligand, PHE
+inchi, InChI=1S/C9H11NO2/c10-8(9(11)12)6-7-4-2-1-3-5-7/h1-5,8H,6,10H2,(H,11,12)/t8-/m0/s1
+size, 13
+rotatable_bond, 3
+LMCSS, 5mgw, PHE, chain: A, (size: 13, mcss_size: 13, resolution: 1.46) 
+LMCSS, 5mgh, PHE, chain: A, (size: 13, mcss_size: 13, resolution: 1.87) 
+LMCSS, 5mgu, PHE, chain: A, (size: 13, mcss_size: 13, resolution: 1.89) 
+LMCSS, 3teg, DAH, chain: A, (size: 15, mcss_size: 13, resolution:  2.2) 
+LMCSS, 3cmq, FA5, chain: A, (size: 39, mcss_size: 13, resolution:  2.2) 
+LMCSS, 3hfv, MTY, chain: A, (size: 14, mcss_size: 13, resolution:  2.6) 
+SMCSS, 5mgw, PHE, chain: A, (size: 13, mcss_size: 13, resolution: 1.46) 
+hiResHolo, 5mgw, PHE, chain: A, (resolution: 1.46)
+hiResApo, 5mgv
+hiTanimoto, 5mgw, PHE, chain: A, (tanimoto_similarity:  1.0, resolution: 1.46)
+hiTanimoto, 5mgh, PHE, chain: A, (tanimoto_similarity:  1.0, resolution: 1.87)
+hiTanimoto, 5mgu, PHE, chain: A, (tanimoto_similarity:  1.0, resolution: 1.89)

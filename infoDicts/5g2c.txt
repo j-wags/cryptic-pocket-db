@@ -1,0 +1,20 @@
+query, 5g2c
+ph, 4.5
+ligand, RET
+inchi, InChI=1S/C20H28O/c1-16(8-6-9-17(2)13-15-21)11-12-19-18(3)10-7-14-20(19,4)5/h6,8-9,11-13,15H,7,10,14H2,1-5H3/b9-6+,12-11+,16-8+,17-13+
+size, 27
+rotatable_bond, 5
+LMCSS, 5g28, RET, chain: A, (size: 27, mcss_size: 27, resolution: 1.57) 
+LMCSS, 5b2n, RET, chain: A, (size: 27, mcss_size: 27, resolution: 1.58) 
+LMCSS, 5g2d, RET, chain: A, (size: 27, mcss_size: 27, resolution:  1.8) 
+LMCSS, 5g54, RET, chain: A, (size: 27, mcss_size: 27, resolution:  2.0) 
+LMCSS, 5g2a, RET, chain: A, (size: 27, mcss_size: 27, resolution: 2.17) 
+LMCSS, 5g2c, RET, chain: A, (size: 27, mcss_size: 27, resolution: 2.31) 
+SMCSS, 5b2n, D12, chain: A, (size: 12, mcss_size: 8, resolution: 1.58) 
+hiResHolo, 5g28, RET, chain: A, (resolution: 1.57)
+hiTanimoto, 5g28, RET, chain: A, (tanimoto_similarity:  1.0, resolution: 1.57)
+hiTanimoto, 5b2n, RET, chain: A, (tanimoto_similarity:  1.0, resolution: 1.58)
+hiTanimoto, 5g2d, RET, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 5g54, RET, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5g2a, RET, chain: A, (tanimoto_similarity:  1.0, resolution: 2.17)
+hiTanimoto, 5g2c, RET, chain: A, (tanimoto_similarity:  1.0, resolution: 2.31)

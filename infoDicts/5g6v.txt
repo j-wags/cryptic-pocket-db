@@ -1,0 +1,10 @@
+query, 5g6v
+ph, 5.5
+ligand, 919
+inchi, InChI=1S/C30H28FN7O3/c1-30(2,3)26-17-27(38(37-26)19-7-9-23-18(14-19)6-5-12-33-23)36-29(40)35-24-10-8-20(15-22(24)31)41-21-11-13-34-25(16-21)28(39)32-4/h5-17H,1-4H3,(H,32,39)(H2,35,36,40)
+size, 41
+rotatable_bond, 6
+LMCSS, 5g6v, 919, chain: A, (size: 41, mcss_size: 41, resolution:  2.2) 
+SMCSS, 3mtl, FEF, chain: A, (size: 28, mcss_size: 11, resolution:  2.4) 
+hiResHolo, 5g6v, 919, chain: A, (resolution:  2.2)
+hiTanimoto, 5g6v, 919, chain: A, (tanimoto_similarity:  1.0, resolution:  2.2)

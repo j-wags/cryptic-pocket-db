@@ -1,0 +1,17 @@
+query, 5ghz
+ph, N/A
+ligand, CED
+inchi, InChI=1S/C14H16N2O4S2/c1-8-7-22-13(16-12(8)14(19)20)10(6-17)15-11(18)5-9-3-2-4-21-9/h2-4,6,10,13,16H,5,7H2,1H3,(H,15,18)(H,19,20)/t10-,13-/m1/s1
+size, 24
+rotatable_bond, 6
+LMCSS, 5ghz, CED, chain: A, (size: 24, mcss_size: 24, resolution: 1.93) 
+LMCSS, 4n9k, CED, chain: A, (size: 24, mcss_size: 24, resolution: 1.93) 
+LMCSS, 3sh8, CED, chain: A, (size: 24, mcss_size: 24, resolution:  2.0) 
+LMCSS, 5ghy, CED, chain: A, (size: 24, mcss_size: 24, resolution:  2.1) 
+SMCSS, 1i2w, OUT, chain: B, (size: 4, mcss_size: 3, resolution:  1.7) 
+hiResHolo, 2wk0, BIY, chain: A, (resolution: 1.65)
+hiResApo, 5ghx
+hiTanimoto, 5ghz, CED, chain: A, (tanimoto_similarity:  1.0, resolution: 1.93)
+hiTanimoto, 4n9k, CED, chain: A, (tanimoto_similarity:  1.0, resolution: 1.93)
+hiTanimoto, 3sh8, CED, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5ghy, CED, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)

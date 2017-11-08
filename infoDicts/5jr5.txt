@@ -1,0 +1,11 @@
+query, 5jr5
+ph, 8
+ligand, PS9
+inchi, InChI=1S/S8/c1-2-4-6-8-7-5-3-1
+size, 8
+rotatable_bond, 0
+LMCSS, 5jr5, PS9, chain: A, (size: 8, mcss_size: 8, resolution:  1.9) 
+SMCSS, 1ybk, BEQ, chain: C, (size: 24, mcss_size: 0, resolution: 1.45) 
+hiResHolo, 1ybk, BEQ, chain: C, (resolution: 1.45)
+hiResApo, 1fe6
+hiTanimoto, 5jr5, PS9, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)

@@ -1,0 +1,13 @@
+query, 5hc2
+ph, 8
+ligand, NPO
+inchi, InChI=1S/C6H5NO3/c8-6-3-1-5(2-4-6)7(9)10/h1-4,8H
+size, 10
+rotatable_bond, 1
+LMCSS, 5hc0, NPO, chain: A, (size: 10, mcss_size: 10, resolution:  1.4) 
+LMCSS, 5hc2, NPO, chain: A, (size: 10, mcss_size: 10, resolution: 1.99) 
+SMCSS, 5hc0, NPO, chain: A, (size: 10, mcss_size: 10, resolution:  1.4) 
+hiResHolo, 5hc0, NPO, chain: A, (resolution:  1.4)
+hiResApo, 5hc4
+hiTanimoto, 5hc0, NPO, chain: A, (tanimoto_similarity:  1.0, resolution:  1.4)
+hiTanimoto, 5hc2, NPO, chain: A, (tanimoto_similarity:  1.0, resolution: 1.99)

@@ -1,0 +1,21 @@
+query, 5fnz
+ph, 7.5
+ligand, PPV
+inchi, InChI=1S/H4O7P2/c1-8(2,3)7-9(4,5)6/h(H2,1,2,3)(H2,4,5,6)
+size, 9
+rotatable_bond, 2
+LMCSS, 2x0k, PPV, chain: A, (size: 9, mcss_size: 9, resolution: 1.95) 
+LMCSS, 4uze, PPV, chain: A, (size: 9, mcss_size: 9, resolution: 2.34) 
+LMCSS, 5fo1, PPV, chain: A, (size: 9, mcss_size: 9, resolution: 2.45) 
+LMCSS, 5fo0, PPV, chain: A, (size: 9, mcss_size: 9, resolution: 2.51) 
+LMCSS, 5fnz, PPV, chain: A, (size: 9, mcss_size: 9, resolution: 2.52) 
+LMCSS, 4uzf, PPV, chain: A, (size: 9, mcss_size: 9, resolution: 2.52) 
+SMCSS, 2x0k, PPV, chain: A, (size: 9, mcss_size: 9, resolution: 1.95) 
+hiResHolo, 2x0k, PPV, chain: A, (resolution: 1.95)
+hiResApo, 3zug
+hiTanimoto, 2x0k, PPV, chain: A, (tanimoto_similarity:  1.0, resolution: 1.95)
+hiTanimoto, 4uze, PPV, chain: A, (tanimoto_similarity:  1.0, resolution: 2.34)
+hiTanimoto, 5fo1, PPV, chain: A, (tanimoto_similarity:  1.0, resolution: 2.45)
+hiTanimoto, 5fo0, PPV, chain: A, (tanimoto_similarity:  1.0, resolution: 2.51)
+hiTanimoto, 5fnz, PPV, chain: A, (tanimoto_similarity:  1.0, resolution: 2.52)
+hiTanimoto, 4uzf, PPV, chain: A, (tanimoto_similarity:  1.0, resolution: 2.52)

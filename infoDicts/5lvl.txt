@@ -1,0 +1,10 @@
+query, 5lvl
+ph, 7.5
+ligand, 537
+inchi, InChI=1S/C14H8N2O/c17-14-9-5-2-1-4-8(9)13-12-10(14)6-3-7-11(12)15-16-13/h1-7H,(H,15,16)
+size, 17
+rotatable_bond, 0
+LMCSS, 5lvl, 537, chain: A, (size: 17, mcss_size: 17, resolution:  1.4) 
+SMCSS, 2r7b, PSE, chain: A, (size: 11, mcss_size: 3, resolution:  2.7) 
+hiResHolo, 5lvo, ATP, chain: A, (resolution: 1.09)
+hiTanimoto, 5lvl, 537, chain: A, (tanimoto_similarity:  1.0, resolution:  1.4)

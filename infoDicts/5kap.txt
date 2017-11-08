@@ -1,0 +1,11 @@
+query, 5kap
+ph, N/A
+ligand, 6RH
+inchi, InChI=1S/C9H13N4O4P/c14-9-7-8(10-5-11-9)13(6-12-7)3-1-2-4-18(15,16)17/h5-6H,1-4H2,(H,10,11,14)(H2,15,16,17)
+size, 18
+rotatable_bond, 5
+LMCSS, 5kam, IMP, chain: A, (size: 27, mcss_size: 14, resolution: 2.48) 
+LMCSS, 5jv5, 5GP, chain: A, (size: 28, mcss_size: 14, resolution: 2.73) 
+SMCSS, 5kam, IMP, chain: A, (size: 27, mcss_size: 14, resolution: 2.48) 
+hiResHolo, 5kam, IMP, chain: A, (resolution: 2.48)
+hiTanimoto, 5kam, IMP, chain: A, (tanimoto_similarity: 0.55, resolution: 2.48)

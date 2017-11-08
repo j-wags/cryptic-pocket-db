@@ -1,0 +1,7 @@
+query, 5i5c
+ph, 6.5
+ligand, LI
+inchi, InChI=1S/Li/q+1
+size, 1
+rotatable_bond, 0
+hiResApo, 4lfs

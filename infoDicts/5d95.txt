@@ -1,0 +1,10 @@
+query, 5d95
+ph, N/A
+ligand, PLR
+inchi, InChI=1S/C8H12NO5P/c1-5-7(4-14-15(11,12)13)3-9-6(2)8(5)10/h3,10H,4H2,1-2H3,(H2,11,12,13)
+size, 15
+rotatable_bond, 3
+LMCSS, 5d95, PLR, chain: A, (size: 15, mcss_size: 15, resolution:  1.9) 
+SMCSS, 5d95, PLR, chain: A, (size: 15, mcss_size: 15, resolution:  1.9) 
+hiResHolo, 5d95, PLR, chain: A, (resolution:  1.9)
+hiTanimoto, 5d95, PLR, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)

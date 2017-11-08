@@ -1,0 +1,28 @@
+query, 5j41
+ph, N/A
+ligand, 3LF
+inchi, InChI=1S/C12H16O5/c1-15-9-6-8(4-5-11(13)14)7-10(16-2)12(9)17-3/h6-7H,4-5H2,1-3H3,(H,13,14)
+size, 17
+rotatable_bond, 6
+LMCSS, 3csh, LZ6, chain: A, (size: 40, mcss_size: 11, resolution: 1.55) 
+LMCSS, 3dgq, EAA, chain: A, (size: 19, mcss_size: 11, resolution:  1.6) 
+LMCSS, 3n9j, EAA, chain: A, (size: 19, mcss_size: 11, resolution: 1.85) 
+LMCSS, 3gss, EAA, chain: A, (size: 19, mcss_size: 11, resolution:  1.9) 
+LMCSS, 3csj, CBL, chain: B, (size: 19, mcss_size: 11, resolution:  1.9) 
+LMCSS, 2gss, EAA, chain: A, (size: 19, mcss_size: 11, resolution:  1.9) 
+LMCSS, 3csi, LZ6, chain: A, (size: 40, mcss_size: 11, resolution:  1.9) 
+LMCSS, 3hjo, EAA, chain: A, (size: 19, mcss_size: 11, resolution: 1.95) 
+LMCSS, 3km6, EAA, chain: A, (size: 19, mcss_size: 11, resolution:  2.1) 
+LMCSS, 11gs, EAA, chain: A, (size: 19, mcss_size: 11, resolution:  2.3) 
+SMCSS, 1zgn, NO, chain: A, (size: 2, mcss_size: 0, resolution:  2.1) 
+hiResHolo, 2a2r, GSN, chain: A, (resolution:  1.4)
+hiResApo, 3hkr
+hiResApo, 3kmn
+hiTanimoto, 3dgq, EAA, chain: A, (tanimoto_similarity: 0.44, resolution:  1.6)
+hiTanimoto, 3n9j, EAA, chain: A, (tanimoto_similarity: 0.44, resolution: 1.85)
+hiTanimoto, 3gss, EAA, chain: A, (tanimoto_similarity: 0.44, resolution:  1.9)
+hiTanimoto, 2gss, EAA, chain: A, (tanimoto_similarity: 0.44, resolution:  1.9)
+hiTanimoto, 3hjo, EAA, chain: A, (tanimoto_similarity: 0.44, resolution: 1.95)
+hiTanimoto, 3km6, EAA, chain: A, (tanimoto_similarity: 0.44, resolution:  2.1)
+hiTanimoto, 11gs, EAA, chain: A, (tanimoto_similarity: 0.44, resolution:  2.3)
+hiTanimoto, 3kmo, EAA, chain: A, (tanimoto_similarity: 0.44, resolution:  2.6)

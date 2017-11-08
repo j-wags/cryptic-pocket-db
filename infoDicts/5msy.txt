@@ -1,0 +1,10 @@
+query, 5msy
+ph, N/A
+ligand, NH3
+inchi, InChI=1S/H3N/h1H3
+size, 1
+rotatable_bond, 0
+LMCSS, 5msy, NH3, chain: A, (size: 1, mcss_size: 0, resolution:  2.3) 
+SMCSS, 5msy, NH3, chain: A, (size: 1, mcss_size: 0, resolution:  2.3) 
+hiResHolo, 5msy, NH3, chain: A, (resolution:  2.3)
+hiTanimoto, 5msy, NH3, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)

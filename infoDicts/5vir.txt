@@ -1,0 +1,10 @@
+query, 5vir
+ph, 6.43
+ligand, 9CG
+inchi, InChI=1S/C12H8O2/c13-12-10-6-2-4-8-3-1-5-9(7-14-12)11(8)10/h1-6H,7H2
+size, 14
+rotatable_bond, 0
+LMCSS, 5deo, DND, chain: A, (size: 52, mcss_size: 8, resolution: 2.22) 
+SMCSS, 4ymi, ADE, chain: A, (size: 10, mcss_size: 3, resolution:  1.7) 
+hiResHolo, 4ymi, ADE, chain: A, (resolution:  1.7)
+hiTanimoto, 5deo, DND, chain: A, (tanimoto_similarity: 0.44, resolution: 2.22)

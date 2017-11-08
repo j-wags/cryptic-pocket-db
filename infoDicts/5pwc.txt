@@ -1,0 +1,11 @@
+query, 5pwc
+ph, 7
+ligand, W77
+inchi, InChI=1S/C12H8Cl2N2O/c13-8-3-4-10(11(14)6-8)12(17)16-9-2-1-5-15-7-9/h1-7H,(H,16,17)
+size, 17
+rotatable_bond, 2
+LMCSS, 5pwc, W77, chain: A, (size: 17, mcss_size: 17, resolution: 1.55) 
+SMCSS, 5fb1, MLI, chain: A, (size: 7, mcss_size: 4, resolution:  2.1) 
+hiResHolo, 5pwc, W77, chain: A, (resolution: 1.55)
+hiResApo, 5pxl
+hiTanimoto, 5pwc, W77, chain: A, (tanimoto_similarity:  1.0, resolution: 1.55)

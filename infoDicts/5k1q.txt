@@ -1,0 +1,11 @@
+query, 5k1q
+ph, 6.3
+ligand, PCR
+inchi, InChI=1S/C7H8O/c1-6-2-4-7(8)5-3-6/h2-5,8H,1H3
+size, 8
+rotatable_bond, 0
+LMCSS, 5k1k, HBA, chain: A, (size: 9, mcss_size: 8, resolution:  1.3) 
+LMCSS, 5k1q, PCR, chain: A, (size: 8, mcss_size: 8, resolution: 1.55) 
+SMCSS, 4b5n, 8K6, chain: A, (size: 18, mcss_size: 3, resolution:  1.1) 
+hiResHolo, 4b5n, 8K6, chain: A, (resolution:  1.1)
+hiTanimoto, 5k1q, PCR, chain: A, (tanimoto_similarity:  1.0, resolution: 1.55)

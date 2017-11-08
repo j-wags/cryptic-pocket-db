@@ -1,0 +1,12 @@
+query, 5hzc
+ph, 8
+ligand, 65W
+inchi, InChI=1S/C20H18O3/c1-20(2,19(21)22)23-16-12-10-15(11-13-16)18-9-5-7-14-6-3-4-8-17(14)18/h3-13H,1-2H3,(H,21,22)
+size, 23
+rotatable_bond, 4
+LMCSS, 2q5p, 241, chain: A, (size: 39, mcss_size: 21, resolution:  2.3) 
+SMCSS, 3po9, XPT, chain: A, (size: 11, mcss_size: 3, resolution: 2.35) 
+hiResHolo, 3v9v, 21L, chain: A, (resolution:  1.6)
+hiResHolo, 3b1m, KRC, chain: A, (resolution:  1.6)
+hiTanimoto, 4e4q, RRH, chain: A, (tanimoto_similarity: 0.72, resolution:  2.5)
+hiTanimoto, 4e4k, RRG, chain: A, (tanimoto_similarity: 0.72, resolution:  2.5)

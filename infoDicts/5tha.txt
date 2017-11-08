@@ -1,0 +1,11 @@
+query, 5tha
+ph, N/A
+ligand, GP3
+inchi, InChI=1S/C20H27N10O18P3/c21-19-25-13-7(15(35)27-19)23-3-29(13)17-11(33)9(31)5(45-17)1-43-49(37,38)47-51(41,42)48-50(39,40)44-2-6-10(32)12(34)18(46-6)30-4-24-8-14(30)26-20(22)28-16(8)36/h3-6,9-12,17-18,31-34H,1-2H2,(H,37,38)(H,39,40)(H,41,42)(H3,21,25,27,35)(H3,22,26,28,36)/t5-,6-,9-,10-,11-,12-,17-,18-/m1/s1
+size, 59
+rotatable_bond, 12
+LMCSS, 5tha, GP3, chain: A, (size: 59, mcss_size: 59, resolution:  1.8) 
+LMCSS, 5tef, GTG, chain: A, (size: 60, mcss_size: 59, resolution: 1.95) 
+SMCSS, 5h1m, M7G, chain: A, (size: 33, mcss_size: 32, resolution: 2.49) 
+hiResHolo, 5tha, GP3, chain: A, (resolution:  1.8)
+hiTanimoto, 5tha, GP3, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)

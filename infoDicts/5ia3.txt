@@ -1,0 +1,11 @@
+query, 5ia3
+ph, N/A
+ligand, P17
+inchi, InChI=1S/C21H16Cl2N4OS/c1-27-19-12(9-15(20(27)28)18-16(22)7-4-8-17(18)23)11-24-21(26-19)25-13-5-3-6-14(10-13)29-2/h3-11H,1-2H3,(H,24,25,26)
+size, 29
+rotatable_bond, 3
+LMCSS, 5ia3, P17, chain: A, (size: 29, mcss_size: 29, resolution: 1.79) 
+SMCSS, 5i9x, DB8, chain: A, (size: 36, mcss_size: 9, resolution: 1.43) 
+hiResHolo, 5i9y, 1N1, chain: A, (resolution: 1.23)
+hiResApo, 4p2k
+hiTanimoto, 5ia3, P17, chain: A, (tanimoto_similarity:  1.0, resolution: 1.79)

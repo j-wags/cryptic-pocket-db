@@ -1,0 +1,12 @@
+query, 5t4j
+ph, 8.5
+ligand, ABU
+inchi, InChI=1S/C4H9NO2/c5-3-1-2-4(6)7/h1-3,5H2,(H,6,7)
+size, 7
+rotatable_bond, 3
+LMCSS, 5x03, ABU, chain: A, (size: 7, mcss_size: 7, resolution:  2.0) 
+LMCSS, 5t4j, ABU, chain: B, (size: 7, mcss_size: 7, resolution: 2.23) 
+SMCSS, 5x03, ABU, chain: A, (size: 7, mcss_size: 7, resolution:  2.0) 
+hiResHolo, 5x03, ABU, chain: A, (resolution:  2.0)
+hiTanimoto, 5x03, ABU, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5t4j, ABU, chain: B, (tanimoto_similarity:  1.0, resolution: 2.23)

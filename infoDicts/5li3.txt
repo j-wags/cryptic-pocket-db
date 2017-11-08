@@ -1,0 +1,7 @@
+query, 5li3
+ph, 7.5
+ligand, 9RB
+inchi, InChI=1S/C15H17N5O2/c1-10-15(11(2)20(3)18-10)17-16-13-7-4-12(5-8-13)6-9-14(21)19-22/h4-9,22H,1-3H3,(H,19,21)/b9-6+,17-16+
+size, 24
+rotatable_bond, 4
+hiResApo, 5g0x

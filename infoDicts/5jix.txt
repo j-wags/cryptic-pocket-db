@@ -1,0 +1,10 @@
+query, 5jix
+ph, N/A
+ligand, 6J7
+inchi, InChI=1S/C10H11BrN5O7P/c11-9-13-3-6(14-10(12)15-7(3)18)16(9)8-4(17)5-2(22-8)1-21-24(19,20)23-5/h2,4-5,8,17H,1H2,(H,19,20)(H3,12,14,15,18)/t2-,4-,5-,8-/m1/s1
+size, 28
+rotatable_bond, 1
+LMCSS, 5jix, 6J7, chain: A, (size: 28, mcss_size: 28, resolution: 1.47) 
+SMCSS, 5jiz, 6FW, chain: A, (size: 35, mcss_size: 27, resolution:  1.5) 
+hiResHolo, 5jix, 6J7, chain: A, (resolution: 1.47)
+hiTanimoto, 5jix, 6J7, chain: A, (tanimoto_similarity:  1.0, resolution: 1.47)

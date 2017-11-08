@@ -1,0 +1,14 @@
+query, 5m4q
+ph, N/A
+ligand, PRO
+inchi, InChI=1S/C5H9NO2/c7-5(8)4-2-1-3-6-4/h4,6H,1-3H2,(H,7,8)/t4-/m0/s1
+size, 9
+rotatable_bond, 1
+LMCSS, 5m4l, LEU, chain: A, (size: 10, mcss_size: 9, resolution: 1.49) 
+LMCSS, 5m4j, PRO, chain: A, (size: 9, mcss_size: 9, resolution: 1.55) 
+LMCSS, 5m4q, PRO, chain: A, (size: 9, mcss_size: 9, resolution: 1.73) 
+SMCSS, 2okn, PI, chain: A, (size: 5, mcss_size: 0, resolution: 2.45) 
+hiResHolo, 5m4l, LEU, chain: A, (resolution: 1.49)
+hiTanimoto, 5m4l, PRO, chain: A, (tanimoto_similarity:  1.0, resolution: 1.49)
+hiTanimoto, 5m4j, PRO, chain: A, (tanimoto_similarity:  1.0, resolution: 1.55)
+hiTanimoto, 5m4q, PRO, chain: A, (tanimoto_similarity:  1.0, resolution: 1.73)

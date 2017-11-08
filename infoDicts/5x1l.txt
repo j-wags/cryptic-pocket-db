@@ -1,0 +1,18 @@
+query, 5x1l
+ph, N/A
+ligand, THG
+inchi, InChI=1S/C19H23N7O6/c20-19-25-15-14(17(30)26-19)23-11(8-22-15)7-21-10-3-1-9(2-4-10)16(29)24-12(18(31)32)5-6-13(27)28/h1-4,11-12,21,23H,5-8H2,(H,24,29)(H,27,28)(H,31,32)(H4,20,22,25,26,30)/t11-,12-/m0/s1
+size, 34
+rotatable_bond, 9
+LMCSS, 5x1m, THG, chain: B, (size: 34, mcss_size: 34, resolution:  1.9) 
+LMCSS, 5x1l, THG, chain: B, (size: 34, mcss_size: 34, resolution:  1.9) 
+LMCSS, 5x1n, THG, chain: A, (size: 34, mcss_size: 34, resolution:  2.0) 
+SMCSS, 5x1m, DHB, chain: A, (size: 11, mcss_size: 8, resolution:  1.9) 
+SMCSS, 5x1j, VNL, chain: A, (size: 12, mcss_size: 8, resolution:  1.9) 
+hiResHolo, 5x1m, THG, chain: B, (resolution:  1.9)
+hiResHolo, 5x1l, THG, chain: B, (resolution:  1.9)
+hiResHolo, 5x1j, VNL, chain: A, (resolution:  1.9)
+hiResApo, 5tl4
+hiTanimoto, 5x1m, THG, chain: B, (tanimoto_similarity:  1.0, resolution:  1.9)
+hiTanimoto, 5x1l, THG, chain: B, (tanimoto_similarity:  1.0, resolution:  1.9)
+hiTanimoto, 5x1n, THG, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)

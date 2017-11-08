@@ -1,0 +1,10 @@
+query, 5hz9
+ph, N/A
+ligand, 5M8
+inchi, InChI=1S/C17H12ClNO2/c1-10-15(17(20)21)16(11-5-3-2-4-6-11)13-9-12(18)7-8-14(13)19-10/h2-9H,1H3,(H,20,21)
+size, 21
+rotatable_bond, 2
+LMCSS, 5hz9, 5M8, chain: A, (size: 21, mcss_size: 21, resolution:  2.3) 
+SMCSS, 4tkj, GLP, chain: A, (size: 21, mcss_size: 6, resolution: 0.87) 
+hiResHolo, 4tkb, DAO, chain: A, (resolution: 0.86)
+hiTanimoto, 5hz9, 5M8, chain: A, (tanimoto_similarity:  1.0, resolution:  2.3)

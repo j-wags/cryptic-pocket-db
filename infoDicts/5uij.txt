@@ -1,0 +1,19 @@
+query, 5uij
+ph, 7
+ligand, TYD
+inchi, InChI=1S/C10H16N2O11P2/c1-5-3-12(10(15)11-9(5)14)8-2-6(13)7(22-8)4-21-25(19,20)23-24(16,17)18/h3,6-8,13H,2,4H2,1H3,(H,19,20)(H,11,14,15)(H2,16,17,18)/t6-,7+,8+/m0/s1
+size, 28
+rotatable_bond, 6
+LMCSS, 5uij, TYD, chain: A, (size: 28, mcss_size: 28, resolution:  1.9) 
+LMCSS, 5uim, T3Q, chain: A, (size: 43, mcss_size: 28, resolution:  2.2) 
+LMCSS, 5uil, T3F, chain: A, (size: 43, mcss_size: 28, resolution:  2.2) 
+LMCSS, 5uik, T3F, chain: A, (size: 43, mcss_size: 28, resolution:  2.2) 
+LMCSS, 5uin, TYD, chain: A, (size: 28, mcss_size: 28, resolution:  2.2) 
+SMCSS, 5uim, FON, chain: B, (size: 36, mcss_size: 10, resolution:  2.2) 
+SMCSS, 5uil, 1YJ, chain: A, (size: 34, mcss_size: 10, resolution:  2.2) 
+SMCSS, 5uik, FON, chain: A, (size: 36, mcss_size: 10, resolution:  2.2) 
+SMCSS, 5uin, FON, chain: A, (size: 36, mcss_size: 10, resolution:  2.2) 
+hiResHolo, 5uij, TYD, chain: A, (resolution:  1.9)
+hiTanimoto, 5uij, TYD, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)
+hiTanimoto, 5uim, TYD, chain: B, (tanimoto_similarity:  1.0, resolution:  2.2)
+hiTanimoto, 5uin, TYD, chain: A, (tanimoto_similarity:  1.0, resolution:  2.2)

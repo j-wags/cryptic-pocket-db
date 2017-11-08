@@ -1,0 +1,13 @@
+query, 5mrm
+ph, 7.5
+ligand, Q9T
+inchi, InChI=1S/C10H4Br2F3NO2/c11-4-1-5(9(17)6(12)2-4)7-3-8(16-18-7)10(13,14)15/h1-3,17H
+size, 18
+rotatable_bond, 1
+LMCSS, 4nan, 2JM, chain: A, (size: 16, mcss_size: 12, resolution:  1.8) 
+LMCSS, 4nal, H70, chain: A, (size: 17, mcss_size: 12, resolution:  1.8) 
+LMCSS, 4nak, PBQ, chain: A, (size: 17, mcss_size: 12, resolution:  1.8) 
+SMCSS, 1w77, C5P, chain: A, (size: 25, mcss_size: 4, resolution:  2.0) 
+hiResHolo, 2yc3, MW5, chain: A, (resolution:  1.4)
+hiResApo, 4nai
+hiTanimoto, 4nak, PBQ, chain: A, (tanimoto_similarity: 0.39, resolution:  1.8)

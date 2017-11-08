@@ -1,0 +1,11 @@
+query, 5m3e
+ph, N/A
+ligand, APR
+inchi, InChI=1S/C15H23N5O14P2/c16-12-7-13(18-3-17-12)20(4-19-7)14-10(23)8(21)5(32-14)1-30-35(26,27)34-36(28,29)31-2-6-9(22)11(24)15(25)33-6/h3-6,8-11,14-15,21-25H,1-2H2,(H,26,27)(H,28,29)(H2,16,17,18)/t5-,6-,8-,9-,10-,11-,14-,15-/m1/s1
+size, 44
+rotatable_bond, 9
+LMCSS, 5m3e, APR, chain: A, (size: 44, mcss_size: 44, resolution:  2.5) 
+SMCSS, 5m3e, APR, chain: A, (size: 44, mcss_size: 44, resolution:  2.5) 
+hiResHolo, 5m3e, APR, chain: A, (resolution:  2.5)
+hiResApo, 5m31
+hiTanimoto, 5m3e, APR, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

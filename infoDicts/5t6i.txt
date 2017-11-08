@@ -1,0 +1,11 @@
+query, 5t6i
+ph, 7.5
+ligand, 5GB
+inchi, InChI=1S/C18H14N4S/c1-11-4-2-5-12(10-11)16-17(23-18(19)22-16)15-8-7-13-14(21-15)6-3-9-20-13/h2-10H,1H3,(H2,19,22)
+size, 23
+rotatable_bond, 2
+LMCSS, 5t6i, 5GB, chain: A, (size: 23, mcss_size: 23, resolution: 2.05) 
+SMCSS, 3upz, B5A, chain: A, (size: 17, mcss_size: 6, resolution:  2.2) 
+hiResHolo, 3nyv, DTQ, chain: A, (resolution: 1.88)
+hiResApo, 3i79
+hiTanimoto, 5t6i, 5GB, chain: A, (tanimoto_similarity:  1.0, resolution: 2.05)

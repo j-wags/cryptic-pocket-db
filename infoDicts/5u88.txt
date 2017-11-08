@@ -1,0 +1,6 @@
+query, 5u88
+ph, 5.5
+ligand, ZN9
+inchi, InChI=1S/3CH3.BrH.Pb/h3*1H3;1H;/q;;;;+1/p-1
+size, 5
+rotatable_bond, 0

@@ -1,0 +1,11 @@
+query, 5sw3
+ph, 5.5
+ligand, 46L
+inchi, InChI=1S/C8H10N2O2/c1-10(2)7-4-3-6(5-9-7)8(11)12/h3-5H,1-2H3,(H,11,12)
+size, 12
+rotatable_bond, 1
+LMCSS, 5sw3, 46L, chain: A, (size: 12, mcss_size: 12, resolution: 1.38) 
+SMCSS, 4h7z, GUN, chain: A, (size: 11, mcss_size: 5, resolution: 1.68) 
+hiResHolo, 4q8w, 2YY, chain: A, (resolution: 1.14)
+hiResApo, 4q8m
+hiTanimoto, 5sw3, 46L, chain: A, (tanimoto_similarity:  1.0, resolution: 1.38)

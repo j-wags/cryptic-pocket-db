@@ -1,0 +1,10 @@
+query, 5mac
+ph, 7.8
+ligand, CAP
+inchi, InChI=1S/C6H14O13P2/c7-3(1-18-20(12,13)14)4(8)6(11,5(9)10)2-19-21(15,16)17/h3-4,7-8,11H,1-2H2,(H,9,10)(H2,12,13,14)(H2,15,16,17)/t3-,4-,6-/m1/s1
+size, 23
+rotatable_bond, 9
+LMCSS, 5mac, CAP, chain: A, (size: 23, mcss_size: 23, resolution:  2.6) 
+SMCSS, 5mac, KCX, chain: A, (size: 14, mcss_size: 7, resolution:  2.6) 
+hiResHolo, 5mac, CAP, chain: A, (resolution:  2.6)
+hiTanimoto, 5mac, CAP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.6)

@@ -1,0 +1,13 @@
+query, 5et4
+ph, 5
+ligand, C3P
+inchi, InChI=1S/C9H14N3O8P/c10-5-1-2-12(9(15)11-5)8-6(14)7(4(3-13)19-8)20-21(16,17)18/h1-2,4,6-8,13-14H,3H2,(H2,10,11,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+size, 25
+rotatable_bond, 4
+LMCSS, 5et4, C3P, chain: A, (size: 25, mcss_size: 25, resolution:  2.1) 
+LMCSS, 1rpf, C3P, chain: A, (size: 25, mcss_size: 25, resolution:  2.2) 
+SMCSS, 5jmg, CMO, chain: A, (size: 2, mcss_size: 0, resolution: 1.85) 
+hiResHolo, 1o0o, A2P, chain: A, (resolution:  1.2)
+hiResHolo, 1o0h, ADP, chain: A, (resolution:  1.2)
+hiTanimoto, 5et4, C3P, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)
+hiTanimoto, 1rpf, C3P, chain: A, (tanimoto_similarity:  1.0, resolution:  2.2)

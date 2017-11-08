@@ -1,0 +1,15 @@
+query, 5nab
+ph, 6.5
+ligand, 8RK
+inchi, InChI=1S/C11H10ClNO4/c1-6-4-9-8(5-7(6)12)13(11(16)17-9)3-2-10(14)15/h4-5H,2-3H2,1H3,(H,14,15)
+size, 17
+rotatable_bond, 3
+LMCSS, 5mzi, FYK, chain: A, (size: 20, mcss_size: 16, resolution: 1.71) 
+LMCSS, 5n7t, JHY, chain: A, (size: 17, mcss_size: 16, resolution: 1.81) 
+LMCSS, 5mzk, OK1, chain: A, (size: 22, mcss_size: 16, resolution: 1.82) 
+LMCSS, 5mzc, 8EQ, chain: A, (size: 19, mcss_size: 16, resolution: 1.82) 
+LMCSS, 5fn0, JHY, chain: A, (size: 17, mcss_size: 16, resolution: 3.19) 
+SMCSS, 5nah, OCS, chain: A, (size: 11, mcss_size: 5, resolution: 1.75) 
+hiResHolo, 5nak, KYN, chain: A, (resolution:  1.5)
+hiTanimoto, 5n7t, JHY, chain: A, (tanimoto_similarity: 0.84, resolution: 1.81)
+hiTanimoto, 5fn0, JHY, chain: A, (tanimoto_similarity: 0.84, resolution: 3.19)

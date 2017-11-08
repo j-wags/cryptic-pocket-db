@@ -1,0 +1,7 @@
+query, 5m1i
+ph, N/A
+ligand, 7D8
+inchi, InChI=1S/C8H13FO3/c9-5-1-4-2-8(4,3-10)7(12)6(5)11/h4-7,10-12H,1-3H2/t4-,5-,6+,7+,8-/m0/s1
+size, 16
+rotatable_bond, 1
+hiResApo, 5m0x

@@ -1,0 +1,10 @@
+query, 5j5t
+ph, 5.5
+ligand, 6G2
+inchi, InChI=1S/C19H21N5OS/c20-18-16(25-12-13-1-5-21-6-2-13)9-15(10-23-18)17-11-24-19(26-17)14-3-7-22-8-4-14/h1-2,5-6,9-11,14,22H,3-4,7-8,12H2,(H2,20,23)
+size, 26
+rotatable_bond, 5
+LMCSS, 5j5t, TPO, chain: A, (size: 14, mcss_size: 4, resolution: 2.85) 
+SMCSS, 5j5t, TPO, chain: A, (size: 14, mcss_size: 4, resolution: 2.85) 
+hiResHolo, 5j5t, TPO, chain: A, (resolution: 2.85)
+hiTanimoto, 5j5t, TPO, chain: A, (tanimoto_similarity: 0.39, resolution: 2.85)

@@ -1,0 +1,10 @@
+query, 5x62
+ph, 5.5
+ligand, SAH
+inchi, InChI=1S/C14H20N6O5S/c15-6(14(23)24)1-2-26-3-7-9(21)10(22)13(25-7)20-5-19-8-11(16)17-4-18-12(8)20/h4-7,9-10,13,21-22H,1-3,15H2,(H,23,24)(H2,16,17,18)/t6-,7+,9+,10+,13+/m0/s1
+size, 31
+rotatable_bond, 7
+LMCSS, 5x62, SAH, chain: A, (size: 31, mcss_size: 31, resolution:  2.2) 
+SMCSS, 5x62, SAH, chain: A, (size: 31, mcss_size: 31, resolution:  2.2) 
+hiResHolo, 5x62, SAH, chain: A, (resolution:  2.2)
+hiTanimoto, 5x62, SAH, chain: A, (tanimoto_similarity:  1.0, resolution:  2.2)

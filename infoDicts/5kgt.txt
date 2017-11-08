@@ -1,0 +1,10 @@
+query, 5kgt
+ph, 7.5
+ligand, 6SQ
+inchi, InChI=1S/C20H20ClNO2/c1-14(23)15-5-7-19(8-6-15)22-11-9-16(10-12-22)20(24)17-3-2-4-18(21)13-17/h2-8,13,16H,9-12H2,1H3
+size, 24
+rotatable_bond, 4
+LMCSS, 4xjm, 41E, chain: A, (size: 29, mcss_size: 15, resolution:  1.6) 
+SMCSS, 4wyc, FOR, chain: A, (size: 2, mcss_size: 2, resolution:  1.7) 
+hiResHolo, 4wyd, 3VR, chain: A, (resolution: 1.35)
+hiTanimoto, 4wye, 3VW, chain: A, (tanimoto_similarity: 0.66, resolution: 1.75)

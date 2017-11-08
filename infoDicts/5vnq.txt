@@ -1,0 +1,16 @@
+query, 5vnq
+ph, 6.2
+ligand, DOD
+inchi, InChI=1S/H2O/h1H2/i/hD2
+size, 3
+rotatable_bond, 0
+LMCSS, 1c6i, AR, chain: A, (size: 1, mcss_size: 0, resolution:  1.9) 
+LMCSS, 1c6f, AR, chain: A, (size: 1, mcss_size: 0, resolution:  2.0) 
+LMCSS, 1c6c, AR, chain: A, (size: 1, mcss_size: 0, resolution:  2.0) 
+LMCSS, 1c66, AR, chain: A, (size: 1, mcss_size: 0, resolution:  2.1) 
+SMCSS, 1c6i, AR, chain: A, (size: 1, mcss_size: 0, resolution:  1.9) 
+hiResHolo, 1c6i, AR, chain: A, (resolution:  1.9)
+hiTanimoto, 1c6i, AR, chain: A, (tanimoto_similarity:  1.0, resolution:  1.9)
+hiTanimoto, 1c6f, AR, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 1c6c, AR, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 1c66, AR, chain: A, (tanimoto_similarity:  1.0, resolution:  2.1)

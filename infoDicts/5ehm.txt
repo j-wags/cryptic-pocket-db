@@ -1,0 +1,10 @@
+query, 5ehm
+ph, 4.6
+ligand, OEM
+inchi, InChI=1S/C5H9NO4/c1-6-3(5(9)10)2-4(7)8/h3,6H,2H2,1H3,(H,7,8)(H,9,10)/t3-/m1/s1
+size, 11
+rotatable_bond, 4
+LMCSS, 5ehm, OEM, chain: A, (size: 11, mcss_size: 11, resolution: 1.28) 
+SMCSS, 5ehs, 2JJ, chain: A, (size: 13, mcss_size: 8, resolution: 1.75) 
+hiResHolo, 5ehm, OEM, chain: A, (resolution: 1.28)
+hiTanimoto, 5ehm, OEM, chain: A, (tanimoto_similarity:  1.0, resolution: 1.28)

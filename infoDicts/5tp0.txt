@@ -1,0 +1,11 @@
+query, 5tp0
+ph, 7.5
+ligand, BRN
+inchi, InChI=1S/C14H15N7/c15-13(16)9-1-5-11(6-2-9)19-21-20-12-7-3-10(4-8-12)14(17)18/h1-8H,(H3,15,16)(H3,17,18)(H,19,20)
+size, 21
+rotatable_bond, 5
+LMCSS, 5tp0, BRN, chain: A, (size: 21, mcss_size: 21, resolution: 1.25) 
+SMCSS, 1h4w, BEN, chain: A, (size: 9, mcss_size: 9, resolution:  1.7) 
+hiResHolo, 5tp0, BRN, chain: A, (resolution: 1.25)
+hiResApo, 3p95
+hiTanimoto, 5tp0, BRN, chain: A, (tanimoto_similarity:  1.0, resolution: 1.25)

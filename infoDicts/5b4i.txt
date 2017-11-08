@@ -1,0 +1,29 @@
+query, 5b4i
+ph, 7
+ligand, BLA
+inchi, InChI=1S/C33H34N4O6/c1-7-20-19(6)32(42)37-27(20)14-25-18(5)23(10-12-31(40)41)29(35-25)15-28-22(9-11-30(38)39)17(4)24(34-28)13-26-16(3)21(8-2)33(43)36-26/h7-8,13-15,34H,1-2,9-12H2,3-6H3,(H,36,43)(H,37,42)(H,38,39)(H,40,41)/b26-13-,27-14-,29-15-
+size, 46
+rotatable_bond, 11
+LMCSS, 5b4j, BLA, chain: A, (size: 46, mcss_size: 46, resolution: 1.05) 
+LMCSS, 5b4i, BLA, chain: A, (size: 46, mcss_size: 46, resolution: 1.11) 
+LMCSS, 5b4h, BLA, chain: A, (size: 46, mcss_size: 46, resolution: 1.11) 
+LMCSS, 4eoe, BLA, chain: A, (size: 46, mcss_size: 46, resolution:  1.2) 
+LMCSS, 3f0l, BLA, chain: A, (size: 46, mcss_size: 46, resolution:  1.3) 
+LMCSS, 3nb8, BLA, chain: A, (size: 46, mcss_size: 46, resolution:  1.3) 
+LMCSS, 4eod, BLA, chain: A, (size: 46, mcss_size: 46, resolution:  1.3) 
+LMCSS, 3i95, BLA, chain: A, (size: 46, mcss_size: 46, resolution:  1.4) 
+LMCSS, 4eoc, BLA, chain: A, (size: 46, mcss_size: 46, resolution: 1.49) 
+LMCSS, 3f0m, BLA, chain: A, (size: 46, mcss_size: 46, resolution:  1.5) 
+SMCSS, 3i94, BL3, chain: A, (size: 46, mcss_size: 45, resolution: 1.04) 
+hiResHolo, 3i94, BL3, chain: A, (resolution: 1.04)
+hiResApo, 2dke
+hiTanimoto, 5b4j, BLA, chain: A, (tanimoto_similarity:  1.0, resolution: 1.05)
+hiTanimoto, 5b4i, BLA, chain: A, (tanimoto_similarity:  1.0, resolution: 1.11)
+hiTanimoto, 5b4h, BLA, chain: A, (tanimoto_similarity:  1.0, resolution: 1.11)
+hiTanimoto, 4eoe, BLA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.2)
+hiTanimoto, 3f0l, BLA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.3)
+hiTanimoto, 3nb8, BLA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.3)
+hiTanimoto, 4eod, BLA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.3)
+hiTanimoto, 3i95, BLA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.4)
+hiTanimoto, 4eoc, BLA, chain: A, (tanimoto_similarity:  1.0, resolution: 1.49)
+hiTanimoto, 3f0m, BLA, chain: A, (tanimoto_similarity:  1.0, resolution:  1.5)

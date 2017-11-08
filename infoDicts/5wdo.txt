@@ -1,0 +1,29 @@
+query, 5wdo
+ph, N/A
+ligand, GNP
+inchi, InChI=1S/C10H17N6O13P3/c11-10-13-7-4(8(19)14-10)12-2-16(7)9-6(18)5(17)3(28-9)1-27-32(25,26)29-31(23,24)15-30(20,21)22/h2-3,5-6,9,17-18H,1H2,(H,25,26)(H3,11,13,14,19)(H4,15,20,21,22,23,24)/t3-,5-,6-,9-/m1/s1
+size, 36
+rotatable_bond, 8
+LMCSS, 5wdq, GNP, chain: A, (size: 36, mcss_size: 36, resolution: 1.25) 
+LMCSS, 1ctq, GNP, chain: A, (size: 36, mcss_size: 36, resolution: 1.26) 
+LMCSS, 3k8y, GNP, chain: A, (size: 36, mcss_size: 36, resolution:  1.3) 
+LMCSS, 3oiw, GNP, chain: A, (size: 36, mcss_size: 36, resolution:  1.3) 
+LMCSS, 3tgp, GNP, chain: A, (size: 36, mcss_size: 36, resolution: 1.31) 
+LMCSS, 4dlr, GNP, chain: A, (size: 36, mcss_size: 36, resolution: 1.32) 
+LMCSS, 3oiu, GNP, chain: A, (size: 36, mcss_size: 36, resolution: 1.32) 
+LMCSS, 5p21, GNP, chain: A, (size: 36, mcss_size: 36, resolution: 1.35) 
+LMCSS, 2rgb, GNP, chain: A, (size: 36, mcss_size: 36, resolution: 1.35) 
+LMCSS, 5wdp, GNP, chain: A, (size: 36, mcss_size: 36, resolution: 1.35) 
+SMCSS, 3rs2, ETF, chain: A, (size: 6, mcss_size: 3, resolution: 1.84) 
+hiResHolo, 2ce2, GDP, chain: X, (resolution:  1.0)
+hiResApo, 4urx
+hiTanimoto, 5wdq, GNP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.25)
+hiTanimoto, 1ctq, GNP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.26)
+hiTanimoto, 3k8y, GNP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.3)
+hiTanimoto, 3oiw, GNP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.3)
+hiTanimoto, 3tgp, GNP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.31)
+hiTanimoto, 4dlr, GNP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.32)
+hiTanimoto, 3oiu, GNP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.32)
+hiTanimoto, 5p21, GNP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.35)
+hiTanimoto, 2rgb, GNP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.35)
+hiTanimoto, 5wdp, GNP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.35)

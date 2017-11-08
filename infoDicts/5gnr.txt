@@ -1,0 +1,19 @@
+query, 5gnr
+ph, N/A
+ligand, GDP
+inchi, InChI=1S/C10H15N5O11P2/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(25-9)1-24-28(22,23)26-27(19,20)21/h2-3,5-6,9,16-17H,1H2,(H,22,23)(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1
+size, 32
+rotatable_bond, 6
+LMCSS, 5gof, GTP, chain: A, (size: 36, mcss_size: 32, resolution:  1.6) 
+LMCSS, 5goe, GDP, chain: A, (size: 32, mcss_size: 32, resolution:  1.8) 
+LMCSS, 5gnr, GDP, chain: A, (size: 32, mcss_size: 32, resolution: 2.65) 
+LMCSS, 5gnt, GDP, chain: A, (size: 32, mcss_size: 32, resolution: 2.67) 
+LMCSS, 5gns, GTP, chain: A, (size: 36, mcss_size: 32, resolution:  2.7) 
+LMCSS, 5gom, GDP, chain: A, (size: 32, mcss_size: 32, resolution:  2.8) 
+SMCSS, 5gof, GTP, chain: A, (size: 36, mcss_size: 32, resolution:  1.6) 
+hiResHolo, 5gof, GTP, chain: A, (resolution:  1.6)
+hiResApo, 5go4
+hiTanimoto, 5goe, GDP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 5gnr, GDP, chain: A, (tanimoto_similarity:  1.0, resolution: 2.65)
+hiTanimoto, 5gnt, GDP, chain: A, (tanimoto_similarity:  1.0, resolution: 2.67)
+hiTanimoto, 5gom, GDP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.8)

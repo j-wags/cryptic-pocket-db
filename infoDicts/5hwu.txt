@@ -1,0 +1,15 @@
+query, 5hwu
+ph, 7.5
+ligand, DUP
+inchi, InChI=1S/C9H16N3O13P3/c13-5-3-8(12-2-1-7(14)10-9(12)15)24-6(5)4-23-26(16,17)11-27(18,19)25-28(20,21)22/h1-2,5-6,8,13H,3-4H2,(H,10,14,15)(H2,20,21,22)(H3,11,16,17,18,19)/t5-,6+,8+/m0/s1
+size, 31
+rotatable_bond, 8
+LMCSS, 5hyl, DUP, chain: A, (size: 31, mcss_size: 31, resolution:  1.8) 
+LMCSS, 5hwu, DUP, chain: B, (size: 31, mcss_size: 31, resolution:  2.1) 
+LMCSS, 5hva, DUP, chain: C, (size: 31, mcss_size: 31, resolution:  2.1) 
+SMCSS, 2yfd, UMP, chain: A, (size: 23, mcss_size: 22, resolution: 1.77) 
+hiResHolo, 2yfd, UMP, chain: A, (resolution: 1.77)
+hiResApo, 2yf4
+hiTanimoto, 5hyl, DUP, chain: A, (tanimoto_similarity:  1.0, resolution:  1.8)
+hiTanimoto, 5hwu, DUP, chain: B, (tanimoto_similarity:  1.0, resolution:  2.1)
+hiTanimoto, 5hva, DUP, chain: C, (tanimoto_similarity:  1.0, resolution:  2.1)

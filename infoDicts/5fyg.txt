@@ -1,0 +1,10 @@
+query, 5fyg
+ph, 5.5
+ligand, 12H
+inchi, InChI=1S/C12H24O3/c13-11-9-7-5-3-1-2-4-6-8-10-12(14)15/h13H,1-11H2,(H,14,15)
+size, 15
+rotatable_bond, 11
+LMCSS, 5fyg, 12H, chain: A, (size: 15, mcss_size: 15, resolution: 2.22) 
+SMCSS, 5fyg, 12H, chain: A, (size: 15, mcss_size: 15, resolution: 2.22) 
+hiResHolo, 5fyg, 12H, chain: A, (resolution: 2.22)
+hiTanimoto, 5fyg, 12H, chain: A, (tanimoto_similarity:  1.0, resolution: 2.22)

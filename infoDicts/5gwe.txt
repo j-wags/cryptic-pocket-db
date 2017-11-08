@@ -1,0 +1,6 @@
+query, 5gwe
+ph, N/A
+ligand, GWM
+inchi, InChI=1S/C7H9O4P/c1-6-2-4-7(5-3-6)11-12(8,9)10/h2-5H,1H3,(H2,8,9,10)
+size, 12
+rotatable_bond, 2

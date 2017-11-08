@@ -1,0 +1,10 @@
+query, 5msv
+ph, N/A
+ligand, PNS
+inchi, InChI=1S/C11H23N2O7PS/c1-11(2,7-20-21(17,18)19)9(15)10(16)13-4-3-8(14)12-5-6-22/h9,15,22H,3-7H2,1-2H3,(H,12,14)(H,13,16)(H2,17,18,19)/t9-/m0/s1
+size, 23
+rotatable_bond, 10
+LMCSS, 5msv, PNS, chain: A, (size: 23, mcss_size: 23, resolution: 2.34) 
+SMCSS, 5mst, AMP, chain: A, (size: 27, mcss_size: 12, resolution: 1.72) 
+hiResHolo, 5mst, AMP, chain: A, (resolution: 1.72)
+hiTanimoto, 5msv, PNS, chain: A, (tanimoto_similarity:  1.0, resolution: 2.34)

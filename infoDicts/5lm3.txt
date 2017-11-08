@@ -1,0 +1,10 @@
+query, 5lm3
+ph, N/A
+ligand, APC
+inchi, InChI=1S/C11H18N5O12P3/c12-9-6-10(14-2-13-9)16(3-15-6)11-8(18)7(17)5(27-11)1-26-29(19,20)4-30(21,22)28-31(23,24)25/h2-3,5,7-8,11,17-18H,1,4H2,(H,19,20)(H,21,22)(H2,12,13,14)(H2,23,24,25)/t5-,7-,8-,11-/m1/s1
+size, 35
+rotatable_bond, 8
+LMCSS, 5lm3, APC, chain: A, (size: 35, mcss_size: 35, resolution:  2.5) 
+SMCSS, 5llt, DND, chain: A, (size: 52, mcss_size: 26, resolution:  2.2) 
+hiResHolo, 5llt, DND, chain: A, (resolution:  2.2)
+hiTanimoto, 5lm3, APC, chain: A, (tanimoto_similarity:  1.0, resolution:  2.5)

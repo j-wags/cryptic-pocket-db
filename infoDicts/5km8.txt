@@ -1,0 +1,11 @@
+query, 5km8
+ph, 6.5
+ligand, L8P
+inchi, InChI=1S/C8H14N3O6P/c9-7-1-2-11(8(13)10-7)3-6(4-12)17-5-18(14,15)16/h1-2,6,12H,3-5H2,(H2,9,10,13)(H2,14,15,16)/t6-/m0/s1
+size, 19
+rotatable_bond, 6
+LMCSS, 5km8, L8P, chain: B, (size: 19, mcss_size: 19, resolution:  2.0) 
+SMCSS, 5km9, ADN, chain: B, (size: 23, mcss_size: 12, resolution: 1.45) 
+hiResHolo, 5km9, ADN, chain: B, (resolution: 1.45)
+hiResApo, 4njy
+hiTanimoto, 5km8, L8P, chain: B, (tanimoto_similarity:  1.0, resolution:  2.0)

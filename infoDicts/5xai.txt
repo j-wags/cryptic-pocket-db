@@ -1,0 +1,18 @@
+query, 5xai
+ph, 7.5
+ligand, TMP
+inchi, InChI=1S/C10H15N2O8P/c1-5-3-12(10(15)11-9(5)14)8-2-6(13)7(20-8)4-19-21(16,17)18/h3,6-8,13H,2,4H2,1H3,(H,11,14,15)(H2,16,17,18)/t6-,7+,8+/m0/s1
+size, 24
+rotatable_bond, 4
+LMCSS, 4s35, TMP, chain: A, (size: 24, mcss_size: 24, resolution: 1.55) 
+LMCSS, 5h56, TYD, chain: A, (size: 28, mcss_size: 24, resolution:  1.7) 
+LMCSS, 5xb3, TMP, chain: A, (size: 24, mcss_size: 24, resolution: 1.77) 
+LMCSS, 5xai, TMP, chain: A, (size: 24, mcss_size: 24, resolution:  2.0) 
+LMCSS, 5xb2, TMP, chain: A, (size: 24, mcss_size: 24, resolution: 2.16) 
+SMCSS, 4s35, ACP, chain: A, (size: 35, mcss_size: 18, resolution: 1.55) 
+hiResHolo, 4s35, TMP, chain: A, (resolution: 1.55)
+hiResApo, 2pbr
+hiTanimoto, 4s35, TMP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.55)
+hiTanimoto, 5xb3, TMP, chain: A, (tanimoto_similarity:  1.0, resolution: 1.77)
+hiTanimoto, 5xai, TMP, chain: A, (tanimoto_similarity:  1.0, resolution:  2.0)
+hiTanimoto, 5xb2, TMP, chain: A, (tanimoto_similarity:  1.0, resolution: 2.16)

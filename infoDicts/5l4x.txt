@@ -1,0 +1,28 @@
+query, 5l4x
+ph, N/A
+ligand, 6KU
+inchi, InChI=1S/C13H26O5/c1-2-3-4-5-6-7-17-13-12(16)11(15)8-10(9-14)18-13/h10-16H,2-9H2,1H3/t10-,11-,12-,13-/m0/s1
+size, 22
+rotatable_bond, 8
+LMCSS, 5fs5, KGM, chain: A, (size: 24, mcss_size: 22, resolution: 1.42) 
+LMCSS, 4xoc, KGM, chain: A, (size: 24, mcss_size: 22, resolution: 1.42) 
+LMCSS, 4lov, KGM, chain: A, (size: 24, mcss_size: 22, resolution:  1.5) 
+LMCSS, 5cgb, 51C, chain: A, (size: 25, mcss_size: 22, resolution:  1.6) 
+LMCSS, 4xo8, KGM, chain: A, (size: 24, mcss_size: 22, resolution:  1.7) 
+LMCSS, 4buq, KGM, chain: A, (size: 24, mcss_size: 22, resolution:  2.2) 
+LMCSS, 4avi, XNS, chain: A, (size: 29, mcss_size: 22, resolution:  2.4) 
+LMCSS, 4xoe, KGM, chain: A, (size: 24, mcss_size: 22, resolution:  2.4) 
+LMCSS, 4ca4, KGM, chain: A, (size: 24, mcss_size: 22, resolution: 2.84) 
+LMCSS, 4xob, KGM, chain: A, (size: 24, mcss_size: 22, resolution:  3.0) 
+SMCSS, 5fx3, EDT, chain: A, (size: 20, mcss_size: 3, resolution:  1.9) 
+hiResHolo, 4x5p, 3XJ, chain: A, (resolution:  1.0)
+hiResApo, 4xo9
+hiResApo, 4xod
+hiTanimoto, 5fs5, KGM, chain: A, (tanimoto_similarity: 0.94, resolution: 1.42)
+hiTanimoto, 4xoc, KGM, chain: A, (tanimoto_similarity: 0.94, resolution: 1.42)
+hiTanimoto, 4lov, KGM, chain: A, (tanimoto_similarity: 0.94, resolution:  1.5)
+hiTanimoto, 4xo8, KGM, chain: A, (tanimoto_similarity: 0.94, resolution:  1.7)
+hiTanimoto, 4buq, KGM, chain: A, (tanimoto_similarity: 0.94, resolution:  2.2)
+hiTanimoto, 4xoe, KGM, chain: A, (tanimoto_similarity: 0.94, resolution:  2.4)
+hiTanimoto, 4ca4, KGM, chain: A, (tanimoto_similarity: 0.94, resolution: 2.84)
+hiTanimoto, 4xob, KGM, chain: A, (tanimoto_similarity: 0.94, resolution:  3.0)

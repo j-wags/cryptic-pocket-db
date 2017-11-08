@@ -1,0 +1,12 @@
+query, 5h47
+ph, 7
+ligand, FSW
+inchi, InChI=1S/C8H16O4Se/c1-4-5(9)6(10)7(13-3)8(11-2)12-4/h4-10H,1-3H3/t4-,5+,6+,7-,8+/m0/s1
+size, 18
+rotatable_bond, 2
+LMCSS, 5eo8, TFU, chain: A, (size: 17, mcss_size: 14, resolution:  1.6) 
+LMCSS, 5eo7, SFU, chain: A, (size: 17, mcss_size: 14, resolution:  2.3) 
+SMCSS, 5eo8, TFU, chain: A, (size: 17, mcss_size: 14, resolution:  1.6) 
+hiResHolo, 5eo8, TFU, chain: A, (resolution:  1.6)
+hiTanimoto, 5eo8, TFU, chain: A, (tanimoto_similarity: 0.52, resolution:  1.6)
+hiTanimoto, 5eo7, SFU, chain: A, (tanimoto_similarity: 0.52, resolution:  2.3)

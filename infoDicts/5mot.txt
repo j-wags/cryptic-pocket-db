@@ -1,0 +1,12 @@
+query, 5mot
+ph, 6.5
+ligand, HBD
+inchi, InChI=1S/C7H7NO2/c8-7(10)5-1-3-6(9)4-2-5/h1-4,9H,(H2,8,10)
+size, 10
+rotatable_bond, 1
+LMCSS, 5mot, HBD, chain: A, (size: 10, mcss_size: 10, resolution: 2.09) 
+LMCSS, 5b0x, HCK, chain: A, (size: 25, mcss_size: 10, resolution:  2.3) 
+SMCSS, 5cvh, I6P, chain: A, (size: 42, mcss_size: 3, resolution: 1.85) 
+hiResHolo, 3war, NIO, chain: A, (resolution: 1.04)
+hiResApo, 5cvg
+hiTanimoto, 5mot, HBD, chain: A, (tanimoto_similarity:  1.0, resolution: 2.09)

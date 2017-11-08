@@ -1,0 +1,12 @@
+query, 5k5c
+ph, 10
+ligand, TRE
+inchi, InChI=1S/C12H22O11/c13-1-3-5(15)7(17)9(19)11(21-3)23-12-10(20)8(18)6(16)4(2-14)22-12/h3-20H,1-2H2/t3-,4-,5-,6-,7+,8+,9-,10-,11-,12-/m1/s1
+size, 33
+rotatable_bond, 4
+LMCSS, 5k5c, TRE, chain: A, (size: 33, mcss_size: 33, resolution: 1.85) 
+LMCSS, 5k44, T6P, chain: A, (size: 37, mcss_size: 33, resolution: 1.93) 
+SMCSS, 5jio, ADP, chain: A, (size: 31, mcss_size: 13, resolution: 1.71) 
+hiResHolo, 5jio, G6P, chain: A, (resolution: 1.71)
+hiResApo, 5jij
+hiTanimoto, 5k5c, TRE, chain: A, (tanimoto_similarity:  1.0, resolution: 1.85)

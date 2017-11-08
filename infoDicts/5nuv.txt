@@ -1,0 +1,10 @@
+query, 5nuv
+ph, 6.3
+ligand, BU3
+inchi, InChI=1S/C4H10O2/c1-3(5)4(2)6/h3-6H,1-2H3/t3-,4-/m1/s1
+size, 8
+rotatable_bond, 1
+LMCSS, 5nuv, BU3, chain: A, (size: 8, mcss_size: 8, resolution: 1.55) 
+SMCSS, 5nuv, BU3, chain: A, (size: 8, mcss_size: 8, resolution: 1.55) 
+hiResHolo, 5nuv, BU3, chain: A, (resolution: 1.55)
+hiTanimoto, 5nuv, BU3, chain: A, (tanimoto_similarity:  1.0, resolution: 1.55)
